@@ -7,6 +7,7 @@
  */
 
 import { rm, mkdir, cp, readdir, stat } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -15,6 +16,9 @@ const ROOT = path.resolve(__dirname, '..');
 const DIST = path.join(ROOT, 'dist');
 
 const ITEMS = ['index.html', 'assets', 'data'];
+
+// 可选文件：存在就一起复制进 dist/（例如 Cloudflare Pages 用的 _headers），不存在则跳过
+const OPTIONAL_ITEMS = ['_headers'];
 
 async function dirSize(dir) {
   let total = 0;
@@ -39,6 +43,12 @@ async function main() {
 
   for (const item of ITEMS) {
     await cp(path.join(ROOT, item), path.join(DIST, item), { recursive: true });
+  }
+
+  for (const item of OPTIONAL_ITEMS) {
+    const from = path.join(ROOT, item);
+    if (!existsSync(from)) continue;
+    await cp(from, path.join(DIST, item));
   }
 
   const { total, files } = await dirSize(DIST);

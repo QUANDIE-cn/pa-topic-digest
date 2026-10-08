@@ -106,8 +106,13 @@ node scripts/serve.mjs --root=dist --port=5174
 ## 云端自动更新与知网兜底
 
 仓库里的 `.github/workflows/refresh-data.yml` 每天香港时间 06:10 自动执行
-`node scripts/fetch.mjs`，把新数据提交回仓库；Vercel 检测到 main 分支更新后会自动重新部署。
-所以即使你的电脑关机、离线，线上站点也会自己更新。
+`node scripts/fetch.mjs`，把新数据提交回仓库；Vercel / Cloudflare Pages 检测到 main 分支
+更新后会自动重新部署。所以即使你的电脑关机、离线，线上站点也会自己更新。
+
+托管平台选型上有个坑：`*.vercel.app` 和 `*.netlify.app` 在中国大陆会被 DNS 污染，
+不挂代理打不开；`*.pages.dev`（Cloudflare Pages）实测可以直连。所以给国内的人看，
+优先用 Cloudflare Pages，构建命令 `node scripts/build-dist.mjs`、输出目录 `dist`。
+根目录的 `_headers` 会被一起复制进 `dist/`，用于关闭数据文件的缓存。
 
 一个已知限制：**知网 RSS（`rss.cnki.net`）会拦截境外 / 机房 IP**。在 GitHub Actions 的服务器上，
 四本中文顶刊必然抓取失败（报 `fetch failed`），而本机可以正常抓到。为此 `scripts/fetch.mjs`

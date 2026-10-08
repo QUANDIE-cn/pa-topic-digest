@@ -1,0 +1,8 @@
+# Cloudflare Pages / Netlify 通用的响应头配置，构建时会被复制进 dist/
+# 数据文件必须每次回源校验，否则抓取更新后浏览器 / 边缘节点可能仍展示旧数据。
+
+/data/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate

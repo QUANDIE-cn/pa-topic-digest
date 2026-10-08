@@ -1,18 +1,18 @@
 [
   {
     "date": "2026-10-08",
-    "generatedAt": "2026-10-08T15:21:51.077Z",
+    "generatedAt": "2026-10-08T15:29:55.313Z",
     "topicLabels": [
       "数字政府与算法治理",
       "官僚行为与公共服务动机",
-      "公民参与与共同生产"
+      "社会政策与民生保障"
     ],
     "topicIds": [
       "digital-government",
       "bureaucratic-behavior",
-      "citizen-participation"
+      "social-policy"
     ],
-    "entryCount": 47,
+    "entryCount": 66,
     "sourcesOk": 11,
     "sourcesTotal": 15,
     "ok": true

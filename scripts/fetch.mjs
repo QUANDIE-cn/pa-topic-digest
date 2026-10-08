@@ -590,6 +590,49 @@ async function loadRecentDailyFiles(days) {
   return out;
 }
 
+// 条目是否落在自己的统计窗口内（与主流程的窗口过滤保持同一套判定）
+function isWithinWindow(entry, today, settings) {
+  if (!entry.publishedAt) return true;
+  const days = diffDays(entry.publishedAt, today);
+  if (days === null) return true;
+  const w = entry.windowDays || settings.windowDays;
+  if (entry.datePrecision === 'day') return days >= -2 && days <= w;
+  if (entry.datePrecision === 'month') return days >= -150 && days <= w + 30;
+  return false;
+}
+
+/**
+ * 抓取失败的源，从最近一次成功抓取到的每日数据里取回条目。
+ * 场景：知网 RSS 会拦截境外 / 机房 IP，GitHub Actions 的服务器上必然失败，
+ * 而本机可以正常抓取。这里把上一次抓到的内容沿用过来，避免整块内容消失。
+ * 返回 Map<sourceId, { date, items }>，date 是真正抓到这批条目的日期。
+ */
+async function loadFallbackBySource(today, settings, days = 60) {
+  const recent = await loadRecentDailyFiles(days);
+  const dates = Object.keys(recent)
+    .filter((d) => d < today)
+    .sort()
+    .reverse();
+  const out = new Map();
+  for (const date of dates) {
+    const entries = (recent[date] || {}).entries || [];
+    const bySource = new Map();
+    for (const e of entries) {
+      if (!e.sourceId) continue;
+      if (!isWithinWindow(e, today, settings)) continue;
+      if (!bySource.has(e.sourceId)) bySource.set(e.sourceId, []);
+      bySource.get(e.sourceId).push(e);
+    }
+    // 越靠前的日期越新：某个源在最近一天里有内容就定下来，不再往更早找
+    for (const [sid, items] of bySource) {
+      if (!out.has(sid)) {
+        out.set(sid, { date: items[0].carriedFrom || date, items });
+      }
+    }
+  }
+  return out;
+}
+
 // ---------------------------------------------------------------- 主流程
 
 async function main() {
@@ -682,6 +725,23 @@ async function main() {
       entries.push(...r.items);
     }
 
+    // 抓取失败的源：沿用最近一次成功抓取到的条目，而不是让整块内容消失。
+    // 主要针对知网 RSS——它拦境外 / 机房 IP，GitHub Actions 上抓不到，本机能抓到。
+    if (settings.reuseOnFailure !== false) {
+      const failedStatuses = sourceStatus.filter((s) => !s.ok);
+      if (failedStatuses.length) {
+        const fallback = await loadFallbackBySource(today, settings);
+        for (const status of failedStatuses) {
+          const hit = fallback.get(status.id);
+          if (!hit || !hit.items.length) continue;
+          entries.push(...hit.items.map((e) => ({ ...e, carriedFrom: hit.date })));
+          status.carriedFrom = hit.date;
+          status.carriedCount = hit.items.length;
+          console.log(`↻ ${status.name}：抓取失败，沿用 ${hit.date} 的 ${hit.items.length} 条`);
+        }
+      }
+    }
+
     const manual = await fetchManualEntries(sources.manualEntries);
     if (manual.length) console.log(`· 手工录入条目: ${manual.length} 条`);
     entries.push(...manual);
@@ -699,15 +759,7 @@ async function main() {
   // 说明：部分期刊（如 Governance）在 Crossref 里的 published 是“期号日期”，
   // 可能晚于当前日期（在线优先、待编入未来某一期）。这类条目按月份精度保留，
   // 否则整本期刊会被误过滤掉；年份精度过于含糊则丢弃。
-  entries = entries.filter((e) => {
-    if (!e.publishedAt) return true;
-    const days = diffDays(e.publishedAt, today);
-    if (days === null) return true;
-    const w = e.windowDays || settings.windowDays;
-    if (e.datePrecision === 'day') return days >= -2 && days <= w;
-    if (e.datePrecision === 'month') return days >= -150 && days <= w + 30;
-    return false;
-  });
+  entries = entries.filter((e) => isWithinWindow(e, today, settings));
 
   entries = entries.map((e) => tagEntry(e, matchers));
   entries.sort((a, b) => String(b.publishedAt || '').localeCompare(String(a.publishedAt || '')));
@@ -719,6 +771,7 @@ async function main() {
 
   const okSources = sourceStatus.filter((s) => s.ok).length;
   const failedSources = sourceStatus.filter((s) => !s.ok);
+  const reusedSources = sourceStatus.filter((s) => s.carriedCount > 0);
   const totalEntries = entries.length;
   const success = totalEntries > 0;
 
@@ -736,6 +789,7 @@ async function main() {
       message: '本次抓取没有获得任何条目，未覆盖已有数据。请检查网络连接后重试。',
       sourceStatus,
       failedSources: sourceStatus.filter((s) => !s.ok).map((s) => s.name),
+      reusedSources: reusedSources.map((s) => s.name),
       stats: { entries: 0, topics: 0, sourcesOk: 0, sourcesTotal: sourceStatus.length },
       durationMs: Date.now() - startedAt,
     };
@@ -789,6 +843,7 @@ async function main() {
     stats: dailyPayload.stats,
     durationMs: Date.now() - startedAt,
     failedSources: failedSources.map((s) => s.name),
+    reusedSources: reusedSources.map((s) => s.name),
   };
   await writeJson(metaPath, meta);
 

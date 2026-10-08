@@ -697,6 +697,10 @@ h2 + .section-sub,
   background: var(--danger);
 }
 
+.dot.warn {
+  background: var(--warn);
+}
+
 /* ---------------------------------------------------------------- footer */
 
 .site-footer {

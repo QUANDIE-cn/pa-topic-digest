@@ -103,6 +103,24 @@ node scripts/serve.mjs --root=dist --port=5174
 更新线上内容的流程：先 `node scripts/fetch.mjs` 抓取新数据，再 `node scripts/build-dist.mjs`，
 然后把新的 `dist/` 重新上传（Netlify Drop 支持直接拖新的文件夹覆盖）。
 
+## 云端自动更新与知网兜底
+
+仓库里的 `.github/workflows/refresh-data.yml` 每天香港时间 06:10 自动执行
+`node scripts/fetch.mjs`，把新数据提交回仓库；Vercel 检测到 main 分支更新后会自动重新部署。
+所以即使你的电脑关机、离线，线上站点也会自己更新。
+
+一个已知限制：**知网 RSS（`rss.cnki.net`）会拦截境外 / 机房 IP**。在 GitHub Actions 的服务器上，
+四本中文顶刊必然抓取失败（报 `fetch failed`），而本机可以正常抓到。为此 `scripts/fetch.mjs`
+增加了沿用兜底：
+
+- 某个源抓取失败时，自动沿用最近一次成功抓取到的该源条目，条目上会标记 `carriedFrom`
+- 首页「数据源状态」里这类源显示为 **沿用上次**，并标出真正抓到这批内容的日期
+- 超出自身统计窗口的旧条目仍会被正常过滤掉，不会把过期内容当成新内容
+- 想关掉这个兜底：在 `config/sources.json` 的 `settings` 里设 `"reuseOnFailure": false`
+
+想要一份中文顶刊也是最新的数据，就在本机跑一次 `node scripts/fetch.mjs` 再 `git push`，
+Vercel 会自动重新部署。
+
 ## 什么时候需要再跑一次抓取
 
 不配置任何定时任务。议题的时效性来自抓取窗口本身（国际顶刊近 7 天、中文顶刊近 45 天、

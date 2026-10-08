@@ -251,6 +251,12 @@
       var total = meta.stats ? meta.stats.sourcesTotal : null;
       pills.push('<span class="status-pill">更新于 ' + esc(fmtDateTime(meta.lastRunAt)) + '</span>');
       if (total) {
+        var reused = 0;
+        if (meta.sourceStatus) {
+          reused = meta.sourceStatus.filter(function (s) {
+            return s.carriedCount;
+          }).length;
+        }
         pills.push(
           '<span class="status-pill ' +
             (okCount === total ? 'ok' : 'warn') +
@@ -258,6 +264,7 @@
             esc(String(okCount)) +
             '/' +
             esc(String(total)) +
+            (reused ? '（' + esc(String(reused)) + ' 个沿用上次）' : '') +
             '</span>',
         );
       }
@@ -291,8 +298,20 @@
       }
       if (failed && failed.length) {
         var all = !meta.stats || meta.stats.sourcesOk === 0;
+        // 沿用上次数据后，「失败」不再是空内容，按实际影响决定告警级别
+        var reusedCount = (meta.sourceStatus || []).filter(function (s) {
+          return s.carriedCount;
+        }).length;
+        var covered = reusedCount > 0 && reusedCount >= failed.length;
+        var detail = reusedCount
+          ? '其中 ' +
+            esc(String(reusedCount)) +
+            ' 个已沿用上一次抓取到的内容（数据源表里标注了出处日期）。'
+          : '';
         html +=
-          '<div class="alert danger">最近一次抓取' +
+          '<div class="alert ' +
+          (covered ? 'warn' : 'danger') +
+          '">最近一次抓取' +
           (all ? '完全失败' : '未完全成功') +
           '：' +
           esc(String(failed.length)) +
@@ -300,8 +319,10 @@
           esc(failed.slice(0, 6).join('、')) +
           (failed.length > 6 ? ' 等' : '') +
           '）。' +
+          detail +
+          (all && !reusedCount ? '当前展示的是上一次成功抓取的数据，' : '') +
           (all
-            ? '当前展示的是上一次成功抓取的数据，请检查网络后执行 <code>node scripts/fetch.mjs</code> 重试。'
+            ? '请检查网络后执行 <code>node scripts/fetch.mjs</code> 重试。'
             : '其余来源数据正常，可稍后重试。') +
           '</div>';
       }
@@ -652,10 +673,20 @@
       .map(function (s) {
         var status = s.ok
           ? '<span class="dot ok"></span>正常'
-          : '<span class="dot bad"></span>失败';
+          : s.carriedCount
+            ? '<span class="dot warn"></span>沿用上次'
+            : '<span class="dot bad"></span>失败';
         var note = s.ok
           ? esc(String(s.count)) + ' 条'
-          : '<span title="' + esc(s.error || '') + '">' + esc(s.error || '未知错误') + '</span>';
+          : s.carriedCount
+            ? '<span title="本次抓取失败：' +
+              esc(s.error || '') +
+              '">' +
+              esc(String(s.carriedCount)) +
+              ' 条（沿用 ' +
+              esc(String(s.carriedFrom || '—')) +
+              '）</span>'
+            : '<span title="' + esc(s.error || '') + '">' + esc(s.error || '未知错误') + '</span>';
         return (
           '<tr><td>' +
           esc(s.name) +

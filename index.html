@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>公共管理议题速览 · 最新议题与顶刊研究主题</title>
+    <meta
+      name="description"
+      content="汇总公共管理学领域的最新议题、热门议题，以及《中国行政管理》《公共管理学报》《公共行政评论》与 PAR、JPART 等顶级期刊的研究主题，并提供未来选题方向的拓展板块。"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232f5bea'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='serif'%3E%E5%85%AC%3C/text%3E%3C/svg%3E"
+    />
+  </head>
+  <body>
+    <a class="skip-link" href="#today">跳到最新议题</a>
+
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">公</div>
+          <div class="brand-text">
+            <h1>公共管理议题速览</h1>
+            <p>最新议题 · 热门议题 · 顶刊研究主题 · 未来选题拓展</p>
+          </div>
+        </div>
+        <div class="header-status" id="header-status"></div>
+      </div>
+    </header>
+
+    <main class="wrap" id="main">
+      <div id="alert-area"></div>
+
+      <section class="panel controls" aria-label="筛选与日期">
+        <div class="control-group">
+          <span class="control-label">查看日期</span>
+          <div class="chip-row" id="date-chips"></div>
+        </div>
+        <div class="control-group">
+          <span class="control-label">来源类型</span>
+          <div class="chip-row" id="type-chips"></div>
+        </div>
+        <div class="control-group">
+          <span class="control-label">议题标签</span>
+          <div class="chip-row" id="tag-chips"></div>
+        </div>
+      </section>
+
+      <section class="panel overview" id="overview" aria-label="今日概览"></section>
+
+      <section id="today" aria-label="今日议题">
+        <div class="section-head">
+          <h2 id="today-heading">今日议题</h2>
+          <p class="section-sub" id="today-sub"></p>
+        </div>
+        <div id="topic-list" class="topic-list"></div>
+      </section>
+
+      <section class="panel all-entries" aria-label="当日全部条目">
+        <details id="entries-details">
+          <summary><span id="entries-summary-text">当日全部条目</span></summary>
+          <div id="entries-list" class="entry-list compact"></div>
+        </details>
+      </section>
+
+      <section class="panel sources" aria-label="数据源状态">
+        <h2>数据源状态</h2>
+        <div id="sources-body"></div>
+      </section>
+
+      <section class="panel archive" aria-label="历史归档">
+        <h2>历史归档</h2>
+        <p class="section-sub" id="archive-sub"></p>
+        <div class="chip-row" id="archive-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          数据来源：Crossref（国际公共管理顶刊元数据）、知网期刊官方 RSS（《中国行政管理》《公共管理学报》《公共行政评论》《行政管理改革》）、
+          中国社会科学网 · 学术观察、中国政府网 · 政策文件库。
+          本站仅做议题聚合与选题启发，全部文献版权归原作者与出版机构所有。
+        </p>
+        <p class="footer-meta" id="footer-meta"></p>
+      </div>
+    </footer>
+
+    <script src="data/daily.js"></script>
+    <script src="assets/app.js"></script>
+  </body>
+</html>

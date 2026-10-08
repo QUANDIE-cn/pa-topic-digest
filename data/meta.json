@@ -1,0 +1,137 @@
+{
+  "lastRunAt": "2026-10-06T13:37:40.437Z",
+  "lastRunDate": "2026-10-06",
+  "lastRunOk": true,
+  "windowDays": 7,
+  "sourceStatus": [
+    {
+      "id": "par",
+      "name": "Public Administration Review",
+      "type": "journal",
+      "ok": true,
+      "count": 9,
+      "ms": 2847
+    },
+    {
+      "id": "jpart",
+      "name": "Journal of Public Administration Research and Theory",
+      "type": "journal",
+      "ok": true,
+      "count": 1,
+      "ms": 3088
+    },
+    {
+      "id": "governance",
+      "name": "Governance",
+      "type": "journal",
+      "ok": true,
+      "count": 17,
+      "ms": 6759
+    },
+    {
+      "id": "pmr",
+      "name": "Public Management Review",
+      "type": "journal",
+      "ok": true,
+      "count": 6,
+      "ms": 3998
+    },
+    {
+      "id": "public-administration",
+      "name": "Public Administration",
+      "type": "journal",
+      "ok": true,
+      "count": 18,
+      "ms": 6920
+    },
+    {
+      "id": "ipmj",
+      "name": "International Public Management Journal",
+      "type": "journal",
+      "ok": true,
+      "count": 20,
+      "ms": 3915
+    },
+    {
+      "id": "policy-politics",
+      "name": "Policy & Politics",
+      "type": "journal",
+      "ok": true,
+      "count": 6,
+      "ms": 3921
+    },
+    {
+      "id": "ppmr",
+      "name": "Public Performance & Management Review",
+      "type": "journal",
+      "ok": true,
+      "count": 1,
+      "ms": 992
+    },
+    {
+      "id": "jpp",
+      "name": "Journal of Public Policy",
+      "type": "journal",
+      "ok": true,
+      "count": 2,
+      "ms": 1828
+    },
+    {
+      "id": "cnki-zxgl",
+      "name": "中国行政管理",
+      "type": "cnjournal",
+      "ok": true,
+      "count": 12,
+      "ms": 454
+    },
+    {
+      "id": "cnki-gggl",
+      "name": "公共管理学报",
+      "type": "cnjournal",
+      "ok": true,
+      "count": 12,
+      "ms": 403
+    },
+    {
+      "id": "cnki-ggxz",
+      "name": "公共行政评论",
+      "type": "cnjournal",
+      "ok": true,
+      "count": 12,
+      "ms": 232
+    },
+    {
+      "id": "cnki-xzgl",
+      "name": "行政管理改革",
+      "type": "cnjournal",
+      "ok": true,
+      "count": 12,
+      "ms": 178
+    },
+    {
+      "id": "cssn-bwyc",
+      "name": "中国社会科学网 · 学术观察（本网原创）",
+      "type": "news",
+      "ok": true,
+      "count": 24,
+      "ms": 298
+    },
+    {
+      "id": "gov-policy",
+      "name": "中国政府网 · 政策文件库（最新发布）",
+      "type": "policy",
+      "ok": true,
+      "count": 40,
+      "ms": 262
+    }
+  ],
+  "stats": {
+    "entries": 69,
+    "topics": 3,
+    "journals": 13,
+    "sourcesOk": 15,
+    "sourcesTotal": 15
+  },
+  "durationMs": 33,
+  "failedSources": []
+}

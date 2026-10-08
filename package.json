@@ -1,0 +1,17 @@
+{
+  "name": "pa-topic-digest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "公共管理议题速览网站：最新议题、热门议题、顶刊研究主题与未来选题拓展。",
+  "scripts": {
+    "build": "node scripts/build-dist.mjs",
+    "fetch": "node scripts/fetch.mjs",
+    "fetch:verbose": "node scripts/fetch.mjs --verbose",
+    "fetch:offline": "node scripts/fetch.mjs --offline",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,68 @@
+name: 发布到 GitHub Pages
+
+# 三种触发方式：
+#   1. 推送到主分支  → 直接构建发布，不抓取（数据用仓库里已有的）
+#   2. 定时任务      → 先抓取最新数据，提交回仓库，再构建发布
+#   3. 手动触发      → 在 Actions 页面点 Run workflow，可选择是否先抓取
+on:
+  push:
+    branches: [main, master]
+  schedule:
+    # 每天 22:10 UTC = 次日 06:10 香港时间，自动抓一次最新议题
+    - cron: '10 22 * * *'
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: 发布前先抓取最新数据
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取最新议题数据
+        if: github.event_name == 'schedule' || inputs.refresh
+        continue-on-error: true
+        run: node scripts/fetch.mjs --verbose
+
+      - name: 把新数据提交回仓库（保留历史归档）
+        if: github.event_name == 'schedule' || inputs.refresh
+        continue-on-error: true
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "chore(data): $(date -u +%F) 自动抓取"
+          git push
+
+      - name: 生成发布包 dist/
+        run: node scripts/build-dist.mjs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: 部署
+        id: deploy
+        uses: actions/deploy-pages@v4

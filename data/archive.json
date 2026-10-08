@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-10-06",
+    "generatedAt": "2026-10-06T13:37:40.437Z",
+    "topicLabels": [
+      "数字政府与算法治理",
+      "政策过程与政策工具",
+      "公共部门人力资源与人事管理"
+    ],
+    "topicIds": [
+      "digital-government",
+      "policy-process",
+      "public-hr"
+    ],
+    "entryCount": 69,
+    "sourcesOk": 15,
+    "sourcesTotal": 15,
+    "ok": true
+  }
+]

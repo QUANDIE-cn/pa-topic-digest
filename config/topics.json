@@ -1,0 +1,168 @@
+{
+  "_readme": "议题词典。keywords.zh 做中文包含匹配，keywords.en 做英文整词匹配。新增议题只需在此加一条，并在 ideas.json 里补对应的选题方向。",
+  "version": 1,
+  "topics": [
+    {
+      "id": "digital-government",
+      "label": "数字政府与算法治理",
+      "summary": "政府数字化转型、数据要素流通、人工智能与算法决策进入公务流程后的组织与问责问题。",
+      "keywords": {
+        "zh": ["数字政府", "数字治理", "数字化转型", "人工智能", "算法", "大数据", "数据要素", "数据开放", "智能治理", "智慧城市", "政务平台", "一网通办", "自动化决策", "数字鸿沟", "生成式", "大模型", "数智", "政务数据", "算法治理"],
+        "en": ["digital government", "e-government", "digital transformation", "digitalization", "digital", "artificial intelligence", "algorithmic", "algorithm", "machine learning", "automated decision", "big data", "open data", "data-driven", "smart city", "digital public service", "digital divide", "large language model", "generative ai", "chatbot", "platform governance", "technology adoption"]
+      }
+    },
+    {
+      "id": "grassroots-governance",
+      "label": "基层治理与治理重心下移",
+      "summary": "乡镇街道、社区与网格化治理中的权责配置、资源下沉、减负与赋能问题。",
+      "keywords": {
+        "zh": ["基层治理", "社区治理", "网格化", "基层减负", "属地管理", "街乡吹哨", "乡镇", "街道办事处", "社区", "治理重心下移", "基层政权", "党建引领", "乡村治理", "村社"],
+        "en": ["grassroots governance", "local governance", "community governance", "neighborhood", "street-level bureaucracy", "subnational", "street-level", "community participation", "local government capacity"]
+      }
+    },
+    {
+      "id": "bureaucratic-behavior",
+      "label": "官僚行为与公共服务动机",
+      "summary": "公务员与街头官僚的动机、裁量、代表性官僚制与行为公共管理研究。",
+      "keywords": {
+        "zh": ["街头官僚", "公务员", "公共服务动机", "自由裁量", "裁量权", "代表性官僚", "干部", "行为公共管理", "公务员队伍", "激励", "避责"],
+        "en": ["public service motivation", "bureaucratic", "bureaucrat", "frontline", "street-level bureaucrat", "discretion", "representative bureaucracy", "behavioral public administration", "prosocial", "public servant", "public employee", "public employees", "blame avoidance", "coping", "job satisfaction"]
+      }
+    },
+    {
+      "id": "performance-management",
+      "label": "绩效管理与政府效能",
+      "summary": "目标考核、绩效测量、指标异化与政府效能的因果识别。",
+      "keywords": {
+        "zh": ["绩效管理", "绩效考核", "绩效评估", "政府效能", "目标考核", "指标", "评估", "效能", "考核", "督查"],
+        "en": ["performance management", "performance measurement", "performance information", "government performance", "public performance", "public service performance", "service performance", "organizational performance", "benchmarking", "target setting", "performance regime", "efficiency", "goal ambiguity", "effectiveness"]
+      }
+    },
+    {
+      "id": "collaborative-governance",
+      "label": "协同治理与跨部门合作",
+      "summary": "跨部门协同、网络治理、公私合作与整体性治理的组织机制研究。",
+      "keywords": {
+        "zh": ["协同治理", "跨部门", "部门协同", "整体性治理", "合作治理", "政社合作", "协作", "共建共治共享", "联动", "联席会议", "专班"],
+        "en": ["collaborative governance", "collaboration", "cross-sector", "cross-agency", "inter-organizational", "network governance", "co-production", "whole-of-government", "partnership", "joint production", "stakeholder", "stakeholder groups", "inter-agency"]
+      }
+    },
+    {
+      "id": "policy-process",
+      "label": "政策过程与政策工具",
+      "summary": "议程设置、政策设计、政策扩散、间断均衡与政策工具选择。",
+      "keywords": {
+        "zh": ["政策过程", "政策工具", "议程设置", "政策扩散", "政策试点", "政策设计", "议程", "政策执行", "政策变迁", "多源流", "政策学习", "政策冲突", "倡导联盟"],
+        "en": ["policy process", "policy instrument", "policy design", "agenda setting", "policy diffusion", "policy transfer", "punctuated equilibrium", "multiple streams", "policy implementation", "policy change", "policy learning", "policy entrepreneurship", "issue attention", "advocacy coalition", "policymaking", "policy conflict", "multilevel", "policy subsystem", "policy agenda"]
+      }
+    },
+    {
+      "id": "emergency-resilience",
+      "label": "应急管理与韧性治理",
+      "summary": "危机响应、风险治理、组织韧性与危机沟通的能力建设研究。",
+      "keywords": {
+        "zh": ["应急管理", "危机", "韧性", "突发事件", "防灾减灾", "风险治理", "公共安全", "应急", "舆情", "危机沟通", "抗逆力"],
+        "en": ["emergency management", "crisis management", "resilience", "disaster", "risk governance", "crisis response", "crisis communication", "emergency response", "shock", "adaptive capacity"]
+      }
+    },
+    {
+      "id": "environment-climate",
+      "label": "环境治理与气候政策",
+      "summary": "环境监管、气候治理、双碳目标与地方环境执法研究。",
+      "keywords": {
+        "zh": ["环境治理", "气候", "碳达峰", "碳中和", "生态", "环保", "污染", "绿色", "双碳", "生态文明", "环境监管"],
+        "en": ["environmental governance", "environmental", "climate", "carbon", "decarbonization", "environmental regulation", "sustainability", "energy transition", "green", "emissions", "pollution", "net zero", "ghg", "greenhouse gas", "climate policy"]
+      }
+    },
+    {
+      "id": "fiscal-budget",
+      "label": "财政预算与公共支出",
+      "summary": "预算过程、财政分权、转移支付与地方政府债务治理。",
+      "keywords": {
+        "zh": ["财政", "预算", "转移支付", "地方政府债务", "税收", "公共支出", "财政分权", "债务", "专项债", "财政压力", "绩效预算"],
+        "en": ["budgeting", "budget", "fiscal", "public finance", "fiscal decentralization", "intergovernmental transfer", "public expenditure", "debt", "taxation", "revenue", "austerity"]
+      }
+    },
+    {
+      "id": "public-hr",
+      "label": "公共部门人力资源与人事管理",
+      "summary": "公务员招录、激励、培训、流动与人事制度改革。",
+      "keywords": {
+        "zh": ["人力资源", "人事", "公务员招录", "编制", "干部人事", "薪酬", "人才", "考核激励", "队伍建设", "培训"],
+        "en": ["human resource management", "public personnel", "recruitment", "civil service", "workforce", "pay", "compensation", "turnover", "training", "talent", "staffing", "diversity management", "leadership", "leadership style", "leadership styles", "work motivation"]
+      }
+    },
+    {
+      "id": "organization-institution",
+      "label": "组织理论与制度变迁",
+      "summary": "公共组织的结构、文化、变革、制度逻辑与历史制度主义分析。",
+      "keywords": {
+        "zh": ["组织理论", "制度变迁", "制度逻辑", "机构改革", "组织变革", "体制改革", "组织文化", "制度设计", "制度环境", "制度安排", "路径依赖", "组织韧性"],
+        "en": ["organizational", "institution", "institutional change", "institutional logic", "organizational change", "institutional work", "isomorphism", "path dependence", "agency behavior", "organizational culture", "public organization", "organizational goals", "organizational goal", "organizational structure"]
+      }
+    },
+    {
+      "id": "citizen-participation",
+      "label": "公民参与与共同生产",
+      "summary": "公众参与、公共服务共同生产、民主创新与回应性治理。",
+      "keywords": {
+        "zh": ["公民参与", "公众参与", "共同生产", "协商民主", "民主恳谈", "听证", "参与式", "回应性", "民意", "群众参与", "共同缔造"],
+        "en": ["citizen participation", "public participation", "co-production", "coproductive", "participatory", "deliberative", "democratic", "citizen engagement", "responsiveness", "consultation", "participatory budgeting", "co-creation", "political representation", "descriptive representation", "women's representation"]
+      }
+    },
+    {
+      "id": "regulation-governance",
+      "label": "监管治理与规制改革",
+      "summary": "监管体制、规制工具、合规行为与平台经济治理。",
+      "keywords": {
+        "zh": ["监管", "规制", "合规", "市场监管", "行政许可", "放管服", "审批", "平台经济", "检查", "执法"],
+        "en": ["regulation", "regulatory", "regulator", "compliance", "enforcement", "inspection", "market regulation", "licensing", "deregulation", "oversight", "regulatory governance"]
+      }
+    },
+    {
+      "id": "accountability-corruption",
+      "label": "问责、廉政与反腐败",
+      "summary": "责任追究、监督体系、腐败治理与廉政制度建设。",
+      "keywords": {
+        "zh": ["问责", "反腐败", "廉政", "权力监督", "审计监督", "腐败", "纪检", "监察", "巡视", "追责", "警示教育"],
+        "en": ["accountability", "corruption", "anti-corruption", "integrity", "audit", "oversight", "sanction", "ethical", "accountable", "maladministration", "transparency"]
+      }
+    },
+    {
+      "id": "intergovernmental",
+      "label": "央地关系与府际协作",
+      "summary": "中央与地方关系、区域协作、垂直管理与地方自主性。",
+      "keywords": {
+        "zh": ["央地关系", "府际", "中央与地方", "地方政府行为", "地方保护", "区域协作", "区域一体化", "对口支援", "垂直管理", "地方自主性", "省直管"],
+        "en": ["intergovernmental", "central-local", "central government", "local autonomy", "multi-level governance", "regional cooperation", "federalism", "devolution", "vertical", "provincial"]
+      }
+    },
+    {
+      "id": "public-service-delivery",
+      "label": "公共服务供给与市场化",
+      "summary": "公共服务供给模式、政府购买、外包与公共服务均等化。",
+      "keywords": {
+        "zh": ["公共服务", "政府购买", "服务外包", "均等化", "公共服务供给", "公共服务设施", "基本公共服务", "民办", "社会化运营"],
+        "en": ["public service", "service delivery", "outsourcing", "contracting out", "privatization", "public-private", "service quality", "satisfaction", "access to services", "mixed provision"]
+      }
+    },
+    {
+      "id": "social-policy",
+      "label": "社会政策与民生保障",
+      "summary": "养老、医疗、就业、社会保障与共同富裕政策研究。",
+      "keywords": {
+        "zh": ["社会保障", "养老", "医保", "医疗", "就业", "共同富裕", "民生", "扶贫", "社会救助", "托育", "住房"],
+        "en": ["social policy", "welfare", "healthcare", "health policy", "pension", "social security", "employment policy", "inequality", "poverty", "social protection", "childcare", "long-term care"]
+      }
+    },
+    {
+      "id": "methodology-frontier",
+      "label": "研究方法与方法论前沿",
+      "summary": "实验、因果推断、文本与大数据方法在公共管理研究中的应用与争论。",
+      "keywords": {
+        "zh": ["研究方法", "实验研究", "调查实验", "田野实验", "随机对照", "因果推断", "断点回归", "双重差分", "文本分析", "问卷", "复制研究", "混合方法", "元分析"],
+        "en": ["research design", "experiment", "experimental", "randomized", "causal inference", "regression discontinuity", "difference-in-differences", "text analysis", "machine learning method", "replication", "meta-analysis", "measurement", "field experiment", "survey experiment", "qualitative comparative"]
+      }
+    }
+  ]
+}

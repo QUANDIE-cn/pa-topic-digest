@@ -1,0 +1,133 @@
+{
+  "_readme": "数据源配置。internationalJournals 用 ISSN 调 Crossref 接口；chineseSources 用内置解析器抓取；manualEntries 可手工补充（例如中文顶刊当期目录，因官网停更与数据库反爬无法自动获取）。",
+  "settings": {
+    "windowDays": 7,
+    "cnkiWindowDays": 45,
+    "cnkiMaxItems": 12,
+    "maxTopicsPerDay": 3,
+    "minTopicsPerDay": 2,
+    "rowsPerJournal": 20,
+    "entriesPerTopic": 5,
+    "ideasPerTopic": 3,
+    "embedDays": 7,
+    "archiveLimit": 400,
+    "requestTimeoutMs": 25000,
+    "retries": 2,
+    "concurrency": 4,
+    "mailto": "pa-topics-daily@example.com"
+  },
+  "internationalJournals": [
+    {
+      "id": "par",
+      "issn": "0033-3352",
+      "name": "Public Administration Review",
+      "nameZh": "美国《公共行政评论》",
+      "publisher": "ASPA / Wiley"
+    },
+    {
+      "id": "jpart",
+      "issn": "1053-1858",
+      "name": "Journal of Public Administration Research and Theory",
+      "nameZh": "《公共行政研究与理论杂志》",
+      "publisher": "PMRA / Oxford"
+    },
+    {
+      "id": "governance",
+      "issn": "0952-1895",
+      "name": "Governance",
+      "nameZh": "《治理》",
+      "publisher": "Wiley"
+    },
+    {
+      "id": "pmr",
+      "issn": "1471-9037",
+      "name": "Public Management Review",
+      "nameZh": "《公共管理评论（英国）》",
+      "publisher": "Taylor & Francis"
+    },
+    {
+      "id": "public-administration",
+      "issn": "0033-3298",
+      "name": "Public Administration",
+      "nameZh": "《公共行政》",
+      "publisher": "Wiley"
+    },
+    {
+      "id": "ipmj",
+      "issn": "1096-7494",
+      "name": "International Public Management Journal",
+      "nameZh": "《国际公共管理杂志》",
+      "publisher": "Taylor & Francis"
+    },
+    {
+      "id": "policy-politics",
+      "issn": "0305-5736",
+      "name": "Policy & Politics",
+      "nameZh": "《政策与政治》",
+      "publisher": "Policy Press"
+    },
+    {
+      "id": "ppmr",
+      "issn": "1530-9576",
+      "name": "Public Performance & Management Review",
+      "nameZh": "《公共绩效与管理评论》",
+      "publisher": "Taylor & Francis"
+    },
+    {
+      "id": "jpp",
+      "issn": "0143-814X",
+      "name": "Journal of Public Policy",
+      "nameZh": "《公共政策杂志》",
+      "publisher": "Cambridge University Press"
+    }
+  ],
+  "cnkiJournals": [
+    {
+      "id": "cnki-zxgl",
+      "code": "ZXGL",
+      "name": "中国行政管理",
+      "publisher": "中国行政管理学会",
+      "enabled": true
+    },
+    {
+      "id": "cnki-gggl",
+      "code": "GGGL",
+      "name": "公共管理学报",
+      "publisher": "哈尔滨工业大学管理学院",
+      "enabled": true
+    },
+    {
+      "id": "cnki-ggxz",
+      "code": "GGXZ",
+      "name": "公共行政评论",
+      "publisher": "中山大学",
+      "enabled": true
+    },
+    {
+      "id": "cnki-xzgl",
+      "code": "XZGL",
+      "name": "行政管理改革",
+      "publisher": "国家行政学院",
+      "enabled": true
+    }
+  ],
+  "chineseSources": [
+    {
+      "id": "cssn-bwyc",
+      "type": "news",
+      "parser": "cssn",
+      "name": "中国社会科学网 · 学术观察（本网原创）",
+      "url": "https://www.cssn.cn/skgz/bwyc/",
+      "enabled": true
+    },
+    {
+      "id": "gov-policy",
+      "type": "policy",
+      "parser": "govPolicy",
+      "name": "中国政府网 · 政策文件库（最新发布）",
+      "url": "https://sousuo.www.gov.cn/search-gov/data?t=zhengcelibrary_gw&q=&sort=time&sortType=1&p=1&n=40",
+      "enabled": true
+    }
+  ],
+  "manualEntries": []
+}

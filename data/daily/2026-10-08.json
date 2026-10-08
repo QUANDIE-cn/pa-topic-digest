@@ -1,0 +1,1872 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T15:21:51.077Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-10-01",
+  "stats": {
+    "entries": 47,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "digital-government",
+      "label": "数字政府与算法治理",
+      "summary": "政府数字化转型、数据要素流通、人工智能与算法决策进入公务流程后的组织与问责问题。",
+      "kind": "最新",
+      "hotScore": 3.44,
+      "entryCount": 5,
+      "recent3Count": 2,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 3,
+        "cnjournal": 0,
+        "news": 2,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 2
+        },
+        {
+          "name": "美国《公共行政评论》",
+          "count": 2
+        },
+        {
+          "name": "《公共行政研究与理论杂志》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 5 条，覆盖 3 个来源（国际顶刊 3 篇 / 中文动态 2 条 / 政策文件 0 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261008_2mo6xf",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "“人工智能与区域发展研讨会”在上海社会科学院举行",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-08",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6072036.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理"
+        },
+        {
+          "id": "doi:10.1111/puar.70221",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Artificial Intelligence and Punctuated Equilibrium: Shaping Government Attention in the Digital Age",
+          "abstract": "ABSTRACT How do government attention and policy agendas shift when information constraints are relaxed through technological advancement? Punctuated equilibrium theory links agenda‐setting dynamics to governments' limited information‐processing capabilities, yet we know little about whether and how technology improvement such as artificial intelligence (AI) influences policy agendas. This article proposes a conditional digital punctuation framework to specify the conditions under which technological advancements drive agenda shifts. Using China's implementation of AI initiatives as a quasi‐natural experiment, we find that government attention exhibits a punctuated pattern. AI increases technology‐focused attention, signaling incremental changes, while having minimal impact on general government attention. This selective impact stems from AI's asymmetric effects on information processing.…",
+          "authors": [
+            "Shuo Chen",
+            "Yiran Li",
+            "Yuzheng Wang"
+          ],
+          "publishedAt": "2026-10-02",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70221",
+          "doi": "10.1111/puar.70221",
+          "tagIds": [
+            "digital-government",
+            "policy-process",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "数字政府与算法治理",
+            "政策过程与政策工具",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "digital-government": 3,
+            "policy-process": 2,
+            "methodology-frontier": 1
+          },
+          "summaryZh": "涉及数字政府与算法治理、政策过程与政策工具、研究方法与方法论前沿"
+        },
+        {
+          "id": "doi:10.1093/jopart/muag024",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpart",
+          "outlet": "Journal of Public Administration Research and Theory",
+          "outletZh": "《公共行政研究与理论杂志》",
+          "title": "Generative Spaces: Collaboration, Learning and Innovation in a Regulatory Sandbox",
+          "abstract": "Abstract Public administrators are increasingly called upon to create “generative spaces” that foster emergent processes of collaboration, learning and innovation. This article presents an inductive and ethnographically grounded study of one relatively novel but increasingly popular generative space—a regulatory sandbox. A regulatory sandbox is a controlled and defined space and set of processes that are established by regulators to work with innovators to collaboratively explore, test and learn about early-stage products and innovations and understand emerging regulatory implications. Investigating a sandbox to explore the regulation of new artificial intelligence technologies conducted by a national healthcare regulator, we identify the organizing practices of the sandbox that make it “generative” of collaboration, learning and innovation. An inductive analysis identified three key org…",
+          "authors": [
+            "Carl Macrae",
+            "Christopher K Ansell"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1093/jopart/muag024",
+          "doi": "10.1093/jopart/muag024",
+          "tagIds": [
+            "regulation-governance",
+            "digital-government",
+            "collaborative-governance",
+            "social-policy"
+          ],
+          "tags": [
+            "监管治理与规制改革",
+            "数字政府与算法治理",
+            "协同治理与跨部门合作",
+            "社会政策与民生保障"
+          ],
+          "tagScore": {
+            "regulation-governance": 3,
+            "digital-government": 2,
+            "collaborative-governance": 1,
+            "social-policy": 1
+          },
+          "summaryZh": "涉及监管治理与规制改革、数字政府与算法治理、协同治理与跨部门合作"
+        },
+        {
+          "id": "cssn:20261008_ji1766",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "满文档案数智化利用与清史前沿研究",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-08",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071910.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理"
+        },
+        {
+          "id": "doi:10.1111/puar.70199",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Citizens' Expectations vs. Recruitment Signals: Are Public Administrations Trying to Attract the Ideal Public Servant?",
+          "abstract": "ABSTRACT Job advertisements play a crucial role in attracting applicants, yet little is known about how closely they reflect the values citizens expect from public servants. Drawing on signaling theory and prior research on citizens' normative expectations of ideal public servants, this study employs a large language model to analyze 1825 job advertisements from health and transportation departments across seven U.S. states. Compared to the values citizens associate with ideal public servants in previous research, job advertisements predominantly emphasize values, such as expertise and dedication, while undersignaling relational values like serviceability, responsiveness, and honesty. Our findings suggest a misalignment between the values signaled in recruitment practices and those citizens associate with the ideal public servant. By adopting a citizen‐driven perspective, this study prom…",
+          "authors": [
+            "Melissa Satzger Grøn",
+            "Dominik Vogel"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70199",
+          "doi": "10.1111/puar.70199",
+          "tagIds": [
+            "digital-government",
+            "bureaucratic-behavior",
+            "public-hr",
+            "citizen-participation"
+          ],
+          "tags": [
+            "数字政府与算法治理",
+            "官僚行为与公共服务动机",
+            "公共部门人力资源与人事管理",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "digital-government": 2,
+            "bureaucratic-behavior": 2,
+            "public-hr": 1,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及数字政府与算法治理、官僚行为与公共服务动机、公共部门人力资源与人事管理"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "数字鸿沟在政务服务下沉中的再生成机制",
+          "theory": "公共服务均等化 × 数字排斥",
+          "method": "多层级调查数据的分层模型",
+          "data": "县域抽样问卷 + 政务平台办事日志（脱敏后）"
+        },
+        {
+          "title": "数据要素跨部门共享的组织阻力来源",
+          "theory": "组织边界理论 × 资源依赖",
+          "method": "社会网络分析 + 跨部门访谈",
+          "data": "省级数据共享交换平台的部门接入记录与权限配置"
+        },
+        {
+          "title": "大模型进入公文流程后的裁量权重新分配",
+          "theory": "街头官僚理论 × 技术执行／社会物质性",
+          "method": "多案例过程追踪 + 一线人员访谈",
+          "data": "选取2~3个已部署智能写作／智能审批的地市，跟踪公文起草到签发全流程的权限变化"
+        }
+      ]
+    },
+    {
+      "id": "bureaucratic-behavior",
+      "label": "官僚行为与公共服务动机",
+      "summary": "公务员与街头官僚的动机、裁量、代表性官僚制与行为公共管理研究。",
+      "kind": "最新",
+      "hotScore": 3.11,
+      "entryCount": 5,
+      "recent3Count": 2,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 5,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "美国《公共行政评论》",
+          "count": 4
+        },
+        {
+          "name": "《公共管理评论（英国）》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 5 条，覆盖 2 个来源（国际顶刊 5 篇 / 中文动态 0 条 / 政策文件 0 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1111/puar.70225",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Is Public Sector a Better Place for Moms to Work? Exploring Sector Difference in Child Penalties on Women",
+          "abstract": "ABSTRACT With commonly stabler and more flexible working environment, is public sector a better place for moms to work? Theorizing child penalties from sector difference perspective, we argue that childbirth may cause less gender gaps in unemployment and earnings but greater gender disparities in working time commitments in the public sector since job stability and family‐friendliness may form gender norms that depreciate women's work in the public sector. We test our hypotheses by employing event study designs using data from China Family Panel Studies (2010–2022). We found that women public employees experienced smaller child penalties in unemployment and earnings while greater child penalties in working hours than private counterparts, which can be explained by greater family responsibilities and spousal depreciation of women's jobs after childbirth. This paper advances theories of ge…",
+          "authors": [
+            "Fangda Ding",
+            "Yifan Chen"
+          ],
+          "publishedAt": "2026-10-07",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70225",
+          "doi": "10.1111/puar.70225",
+          "tagIds": [
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 2
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机"
+        },
+        {
+          "id": "doi:10.1080/14719037.2026.2744322",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "pmr",
+          "outlet": "Public Management Review",
+          "outletZh": "《公共管理评论（英国）》",
+          "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel",
+          "abstract": "",
+          "authors": [
+            "Ofek Edri-Peer",
+            "Nissim Cohen"
+          ],
+          "publishedAt": "2026-10-07",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/14719037.2026.2744322",
+          "doi": "10.1080/14719037.2026.2744322",
+          "tagIds": [
+            "grassroots-governance",
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "基层治理与治理重心下移",
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "grassroots-governance": 1,
+            "bureaucratic-behavior": 1
+          },
+          "summaryZh": "涉及基层治理与治理重心下移、官僚行为与公共服务动机"
+        },
+        {
+          "id": "doi:10.1111/puar.70222",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Hindered From Making a Difference: How Increasing Organizational Constraints Undermine Public Servants' Perceptions of Prosocial Impact and Why It Matters",
+          "abstract": "ABSTRACT Public servants often work under organizational constraints that hinder how they experience and carry out their work. Drawing on conservation of resources theory, this research examines how changes in these constraints affect public servants' perceptions that their work benefits others and, in turn, their well‐being and withdrawal behavior. Using data from two longitudinal studies conducted in the United States and France, the findings show that increases in organizational constraints are associated with declines in perceived prosocial impact, which in turn predict lower well‐being and greater withdrawal over time. These results identify perceived prosocial impact as a key psychological resource that links changing work conditions to employee functioning. By emphasizing the dynamic nature of organizational constraints, this study advances the understanding of how evolving admini…",
+          "authors": [
+            "Caroline Manville",
+            "Karim Mignonac"
+          ],
+          "publishedAt": "2026-10-02",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70222",
+          "doi": "10.1111/puar.70222",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "organization-institution"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "组织理论与制度变迁"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 1,
+            "organization-institution": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、组织理论与制度变迁"
+        },
+        {
+          "id": "doi:10.1111/puar.70216",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Reply to Kettl: Great Workplaces, Public Employee Legitimacy and the Fourth Way",
+          "abstract": "ABSTRACT In Public Administration and the Crisis of American Democracy, Don Kettl asks why some federal agencies are great places to work while others are not, pointing to the persistent gap between NASA and the Department of Homeland Security. This essay argues that the answer may turn on how the legitimate role of public employees in democratic governance is construed. Drawing on three interpretive frames—bureaucracy, democracy, and pragmatism—it examines 2024 employee survey responses at NASA and DHS that map onto these frames. DHS appears dominated by the bureaucracy frame, positioning employees as implementers whose voice is risky and expertise underused. NASA blends all three frames, treating employees as contributors, stewards, and problem solvers. These frames offer a partial explanation for Kettl's puzzle and a conceptual tool for his “fourth way”: great government workplaces ar…",
+          "authors": [
+            "Leisha DeHart‐Davis"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70216",
+          "doi": "10.1111/puar.70216",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "citizen-participation"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 4,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1111/puar.70199",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Citizens' Expectations vs. Recruitment Signals: Are Public Administrations Trying to Attract the Ideal Public Servant?",
+          "abstract": "ABSTRACT Job advertisements play a crucial role in attracting applicants, yet little is known about how closely they reflect the values citizens expect from public servants. Drawing on signaling theory and prior research on citizens' normative expectations of ideal public servants, this study employs a large language model to analyze 1825 job advertisements from health and transportation departments across seven U.S. states. Compared to the values citizens associate with ideal public servants in previous research, job advertisements predominantly emphasize values, such as expertise and dedication, while undersignaling relational values like serviceability, responsiveness, and honesty. Our findings suggest a misalignment between the values signaled in recruitment practices and those citizens associate with the ideal public servant. By adopting a citizen‐driven perspective, this study prom…",
+          "authors": [
+            "Melissa Satzger Grøn",
+            "Dominik Vogel"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70199",
+          "doi": "10.1111/puar.70199",
+          "tagIds": [
+            "digital-government",
+            "bureaucratic-behavior",
+            "public-hr",
+            "citizen-participation"
+          ],
+          "tags": [
+            "数字政府与算法治理",
+            "官僚行为与公共服务动机",
+            "公共部门人力资源与人事管理",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "digital-government": 2,
+            "bureaucratic-behavior": 2,
+            "public-hr": 1,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及数字政府与算法治理、官僚行为与公共服务动机、公共部门人力资源与人事管理"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "公共服务动机与绩效的因果方向之辩",
+          "theory": "公共服务动机理论 × 社会交换",
+          "method": "交叉滞后面板模型／工具变量",
+          "data": "连续3年以上的公务员追踪调查"
+        },
+        {
+          "title": "代表性官僚制在基层执法中的实际效应",
+          "theory": "代表性官僚制 × 身份认同",
+          "method": "行政数据因果识别（RDD／事件研究）",
+          "data": "执法人员与辖区居民的人口结构匹配数据、执法处理结果"
+        },
+        {
+          "title": "一线人员的情绪劳动与倦怠前因",
+          "theory": "情绪劳动理论 × 工作要求—资源模型",
+          "method": "经验取样法（ESM）日记追踪",
+          "data": "窗口部门一线人员2~4周的每日多次自评"
+        }
+      ]
+    },
+    {
+      "id": "citizen-participation",
+      "label": "公民参与与共同生产",
+      "summary": "公众参与、公共服务共同生产、民主创新与回应性治理。",
+      "kind": "最新",
+      "hotScore": 3.01,
+      "entryCount": 5,
+      "recent3Count": 2,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 5,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "美国《公共行政评论》",
+          "count": 4
+        },
+        {
+          "name": "《公共管理评论（英国）》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 5 条，覆盖 2 个来源（国际顶刊 5 篇 / 中文动态 0 条 / 政策文件 0 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1111/puar.70209",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "A Public Philosophy for Public Administration in Times of Democratic Crisis",
+          "abstract": "ABSTRACT Public administration is at the center of the global democratic crisis. Meeting this challenge requires more than managerial and analytic competence—it requires a public philosophy grounded in the first principles of democratic ethos. We offer such a philosophy, drawing on four seminal thinkers whose concepts reflect the conditions public administrators face in times of democratic crisis. Judith Shklar's liberalism of fear establishes a negative obligation to refuse cruelty and resist its institutionalization. Alasdair MacIntyre's internal goods of practice create a positive obligation to cultivate virtue and protect the integrity of administrative practice. Isaiah Berlin's agony of choice obligates administrators to acknowledge irreducible value conflicts and their consequential impact on democratic life. Hannah Arendt's enlarged mentality provides a framework for thinking acro…",
+          "authors": [
+            "Curtis Ventriss",
+            "Tina Nabatchi"
+          ],
+          "publishedAt": "2026-10-08",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70209",
+          "doi": "10.1111/puar.70209",
+          "tagIds": [
+            "citizen-participation",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公民参与与共同生产",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "citizen-participation": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公民参与与共同生产、问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1080/14719037.2026.2739597",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "pmr",
+          "outlet": "Public Management Review",
+          "outletZh": "《公共管理评论（英国）》",
+          "title": "When women lead: local political representation and pro-women institutions",
+          "abstract": "",
+          "authors": [
+            "Marylis Fantoni",
+            "Adalmir de Oliveira Gomes",
+            "Claudia N. Avellaneda"
+          ],
+          "publishedAt": "2026-10-05",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/14719037.2026.2739597",
+          "doi": "10.1080/14719037.2026.2739597",
+          "tagIds": [
+            "citizen-participation"
+          ],
+          "tags": [
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "citizen-participation": 2
+          },
+          "summaryZh": "涉及公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1111/puar.70219",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "A Response to Don Kettl's Debate Article on the Future of Public Administration and Democracy",
+          "abstract": "ABSTRACT This commentary critically engages with Kettl's analysis of the crisis of public administration (PA) scholarship and its relationship with democratic decline. It argues that both phenomena should be understood within broader global developments rather than primarily as problems specific to the United States. While acknowledging the role of governance failures in facilitating autocratization, it questions the claim that autocratization results predominantly from the failures of PA scholarship and practice. Rather, it emphasizes that broader societal phenomena, such as the erosion of societal trust and the power‐consolidating objectives of authoritarian leaders play a key role. Drawing on Hungary's experience, the commentary illustrates how authoritarian governance may perpetuate administrative instability and institutional transformation long after the (perceived) failures of dem…",
+          "authors": [
+            "György Hajnal"
+          ],
+          "publishedAt": "2026-10-02",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70219",
+          "doi": "10.1111/puar.70219",
+          "tagIds": [
+            "citizen-participation"
+          ],
+          "tags": [
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1111/puar.70216",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Reply to Kettl: Great Workplaces, Public Employee Legitimacy and the Fourth Way",
+          "abstract": "ABSTRACT In Public Administration and the Crisis of American Democracy, Don Kettl asks why some federal agencies are great places to work while others are not, pointing to the persistent gap between NASA and the Department of Homeland Security. This essay argues that the answer may turn on how the legitimate role of public employees in democratic governance is construed. Drawing on three interpretive frames—bureaucracy, democracy, and pragmatism—it examines 2024 employee survey responses at NASA and DHS that map onto these frames. DHS appears dominated by the bureaucracy frame, positioning employees as implementers whose voice is risky and expertise underused. NASA blends all three frames, treating employees as contributors, stewards, and problem solvers. These frames offer a partial explanation for Kettl's puzzle and a conceptual tool for his “fourth way”: great government workplaces ar…",
+          "authors": [
+            "Leisha DeHart‐Davis"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70216",
+          "doi": "10.1111/puar.70216",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "citizen-participation"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 4,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1111/puar.70199",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Citizens' Expectations vs. Recruitment Signals: Are Public Administrations Trying to Attract the Ideal Public Servant?",
+          "abstract": "ABSTRACT Job advertisements play a crucial role in attracting applicants, yet little is known about how closely they reflect the values citizens expect from public servants. Drawing on signaling theory and prior research on citizens' normative expectations of ideal public servants, this study employs a large language model to analyze 1825 job advertisements from health and transportation departments across seven U.S. states. Compared to the values citizens associate with ideal public servants in previous research, job advertisements predominantly emphasize values, such as expertise and dedication, while undersignaling relational values like serviceability, responsiveness, and honesty. Our findings suggest a misalignment between the values signaled in recruitment practices and those citizens associate with the ideal public servant. By adopting a citizen‐driven perspective, this study prom…",
+          "authors": [
+            "Melissa Satzger Grøn",
+            "Dominik Vogel"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70199",
+          "doi": "10.1111/puar.70199",
+          "tagIds": [
+            "digital-government",
+            "bureaucratic-behavior",
+            "public-hr",
+            "citizen-participation"
+          ],
+          "tags": [
+            "数字政府与算法治理",
+            "官僚行为与公共服务动机",
+            "公共部门人力资源与人事管理",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "digital-government": 2,
+            "bureaucratic-behavior": 2,
+            "public-hr": 1,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及数字政府与算法治理、官僚行为与公共服务动机、公共部门人力资源与人事管理"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "政务热线作为参与渠道的回应性质量",
+          "theory": "回应性治理 × 官僚回应",
+          "method": "行政数据 + 审计式实验（audit）",
+          "data": "12345 热线的诉求记录与办理结果数据"
+        },
+        {
+          "title": "共同生产中的责任边界模糊问题",
+          "theory": "共同生产 × 责任分配",
+          "method": "案例研究 + 责权文本分析",
+          "data": "社区共同缔造项目的合同、分工与纠纷记录"
+        },
+        {
+          "title": "参与式预算的实际影响力边界",
+          "theory": "参与式民主 × 共同生产",
+          "method": "准实验 + 预算结果比对",
+          "data": "推行参与式预算试点地区的预算调整记录"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "doi:10.1111/puar.70209",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "A Public Philosophy for Public Administration in Times of Democratic Crisis",
+      "abstract": "ABSTRACT Public administration is at the center of the global democratic crisis. Meeting this challenge requires more than managerial and analytic competence—it requires a public philosophy grounded in the first principles of democratic ethos. We offer such a philosophy, drawing on four seminal thinkers whose concepts reflect the conditions public administrators face in times of democratic crisis. Judith Shklar's liberalism of fear establishes a negative obligation to refuse cruelty and resist its institutionalization. Alasdair MacIntyre's internal goods of practice create a positive obligation to cultivate virtue and protect the integrity of administrative practice. Isaiah Berlin's agony of choice obligates administrators to acknowledge irreducible value conflicts and their consequential impact on democratic life. Hannah Arendt's enlarged mentality provides a framework for thinking acro…",
+      "authors": [
+        "Curtis Ventriss",
+        "Tina Nabatchi"
+      ],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70209",
+      "doi": "10.1111/puar.70209",
+      "tagIds": [
+        "citizen-participation",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "公民参与与共同生产",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "citizen-participation": 1,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产、问责、廉政与反腐败"
+    },
+    {
+      "id": "cssn:20261008_19k8sjv",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "完善对外投资管理制度与海外综合服务体系",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6072090.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_1qglu2b",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "《上海经济发展报告（2026）：国际消费中心城市建设》发布会在上海社会科学院举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6072065.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_2mo6xf",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“人工智能与区域发展研讨会”在上海社会科学院举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6072036.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261008_18i1fhd",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中非高等教育合作与创新发展",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6072032.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_1uxdjpb",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "第十二届中国经济增长与发展青年学者论坛暨延安时期经济治理智慧与西部高质量发展学术研讨会在延安举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6072031.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_z2iv7f",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "多民族史诗凝聚中华民族集体记忆",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071942.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_4dvvn9",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "回鹘文古籍整理及文本比对",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071915.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_ji1766",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "满文档案数智化利用与清史前沿研究",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071910.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261008_1cwfob4",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "全球新兴技术治理何以制度化",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071908.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_1yjq2xi",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "寻找全球技术治理的“共同解”与“最优解”",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071906.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_75ywhr",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "全球技术治理范式的基本逻辑与迭代演进",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071905.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_nfzse8",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "改进政务聊天机器人 提升智能政务",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071904.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_1cgh9sv",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "智能体嵌入公共治理的责任重构",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071903.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_17jwgrr",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "智能体兴起对公共管理研究议题的重塑",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071902.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_g8b4hv",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "加强纪律建设是全面从严治党的治本之策",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071899.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_uxgfgv",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "新时代党的组织路线的实践品格",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071898.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_8c3r4c",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "坚持党的全面领导 创造新的历史辉煌",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071896.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_1obw0gg",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "史学理论研究要面向“四个之问”",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071892.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_1dgaejz",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "让词元经济从可计量走向可治理",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071891.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_1fjosa6",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "AI应用不能逾越学术伦理底线",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071890.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_r09hzb",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "国内首个高质量食品安全数据集发布",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071888.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_x69ykv",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "探索构建全球领导力理论体系",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071889.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261008_t3ervj",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "探索新时代主题雕塑创作新路",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261008_6071887.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26772701",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复",
+      "abstract": "国务院关于《国家残疾预防行动计划 （2026—2030年）》的批复 国函〔2026〕105号 国务院残疾人工作委员会： 你委《关于报送〈国家残疾预防行动计划（2026—2030年）（送审稿）〉的请示》...",
+      "summary": "国务院关于《国家残疾预防行动计划 （2026—2030年）》的批复 国函〔2026〕105号 国务院残疾人工作委员会： 你委《关于报送〈国家残疾预防行动计划（2026—2030年）（送审稿）〉的请示》...",
+      "docNumber": "国函〔2026〕105号",
+      "org": "国务院",
+      "category": "民政、扶贫、救灾\\优抚安置",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7082738.htm",
+      "doi": null,
+      "tagIds": [
+        "social-policy"
+      ],
+      "tags": [
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "social-policy": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障"
+    },
+    {
+      "id": "doi:10.1111/puar.70225",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Is Public Sector a Better Place for Moms to Work? Exploring Sector Difference in Child Penalties on Women",
+      "abstract": "ABSTRACT With commonly stabler and more flexible working environment, is public sector a better place for moms to work? Theorizing child penalties from sector difference perspective, we argue that childbirth may cause less gender gaps in unemployment and earnings but greater gender disparities in working time commitments in the public sector since job stability and family‐friendliness may form gender norms that depreciate women's work in the public sector. We test our hypotheses by employing event study designs using data from China Family Panel Studies (2010–2022). We found that women public employees experienced smaller child penalties in unemployment and earnings while greater child penalties in working hours than private counterparts, which can be explained by greater family responsibilities and spousal depreciation of women's jobs after childbirth. This paper advances theories of ge…",
+      "authors": [
+        "Fangda Ding",
+        "Yifan Chen"
+      ],
+      "publishedAt": "2026-10-07",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70225",
+      "doi": "10.1111/puar.70225",
+      "tagIds": [
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 2
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2743138",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
+      "abstract": "",
+      "authors": [
+        "Fabio Monteduro",
+        "Riccardo Mussari"
+      ],
+      "publishedAt": "2026-10-07",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2743138",
+      "doi": "10.1080/14719037.2026.2743138",
+      "tagIds": [
+        "fiscal-budget"
+      ],
+      "tags": [
+        "财政预算与公共支出"
+      ],
+      "tagScore": {
+        "fiscal-budget": 1
+      },
+      "summaryZh": "涉及财政预算与公共支出"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2744322",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel",
+      "abstract": "",
+      "authors": [
+        "Ofek Edri-Peer",
+        "Nissim Cohen"
+      ],
+      "publishedAt": "2026-10-07",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2744322",
+      "doi": "10.1080/14719037.2026.2744322",
+      "tagIds": [
+        "grassroots-governance",
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "基层治理与治理重心下移",
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "grassroots-governance": 1,
+        "bureaucratic-behavior": 1
+      },
+      "summaryZh": "涉及基层治理与治理重心下移、官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2744326",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Impact of organizational goals, leadership styles, and organizational culture on employee outcomes in the Korean public sector",
+      "abstract": "",
+      "authors": [
+        "Hyeon Jo"
+      ],
+      "publishedAt": "2026-10-06",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2744326",
+      "doi": "10.1080/14719037.2026.2744326",
+      "tagIds": [
+        "organization-institution",
+        "public-hr"
+      ],
+      "tags": [
+        "组织理论与制度变迁",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "organization-institution": 5,
+        "public-hr": 3
+      },
+      "summaryZh": "涉及组织理论与制度变迁、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2739597",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "When women lead: local political representation and pro-women institutions",
+      "abstract": "",
+      "authors": [
+        "Marylis Fantoni",
+        "Adalmir de Oliveira Gomes",
+        "Claudia N. Avellaneda"
+      ],
+      "publishedAt": "2026-10-05",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2739597",
+      "doi": "10.1080/14719037.2026.2739597",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 2
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2738184",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Explaining user-orientation in public service delivery networks: configurations of network structure, process, and context",
+      "abstract": "",
+      "authors": [
+        "Dimitri Cremers",
+        "John Goedee",
+        "Jörg Raab",
+        "Antony Pemberton"
+      ],
+      "publishedAt": "2026-10-03",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2738184",
+      "doi": "10.1080/14719037.2026.2738184",
+      "tagIds": [
+        "public-service-delivery"
+      ],
+      "tags": [
+        "公共服务供给与市场化"
+      ],
+      "tagScore": {
+        "public-service-delivery": 4
+      },
+      "summaryZh": "涉及公共服务供给与市场化"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2740550",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "How Do Community Stakeholder Groups Shape Local GHG Inventories? Evidence from U.S. Local Governments",
+      "abstract": "",
+      "authors": [
+        "Angela Y. S. Park",
+        "Christopher V. Hawkins",
+        "Rachel M. Krause",
+        "Minsung Michael Kang"
+      ],
+      "publishedAt": "2026-10-03",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2740550",
+      "doi": "10.1080/15309576.2026.2740550",
+      "tagIds": [
+        "collaborative-governance",
+        "environment-climate"
+      ],
+      "tags": [
+        "协同治理与跨部门合作",
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "collaborative-governance": 3,
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及协同治理与跨部门合作、环境治理与气候政策"
+    },
+    {
+      "id": "doi:10.1111/puar.70222",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Hindered From Making a Difference: How Increasing Organizational Constraints Undermine Public Servants' Perceptions of Prosocial Impact and Why It Matters",
+      "abstract": "ABSTRACT Public servants often work under organizational constraints that hinder how they experience and carry out their work. Drawing on conservation of resources theory, this research examines how changes in these constraints affect public servants' perceptions that their work benefits others and, in turn, their well‐being and withdrawal behavior. Using data from two longitudinal studies conducted in the United States and France, the findings show that increases in organizational constraints are associated with declines in perceived prosocial impact, which in turn predict lower well‐being and greater withdrawal over time. These results identify perceived prosocial impact as a key psychological resource that links changing work conditions to employee functioning. By emphasizing the dynamic nature of organizational constraints, this study advances the understanding of how evolving admini…",
+      "authors": [
+        "Caroline Manville",
+        "Karim Mignonac"
+      ],
+      "publishedAt": "2026-10-02",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70222",
+      "doi": "10.1111/puar.70222",
+      "tagIds": [
+        "bureaucratic-behavior",
+        "organization-institution"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机",
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 1,
+        "organization-institution": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机、组织理论与制度变迁"
+    },
+    {
+      "id": "doi:10.1111/puar.70219",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "A Response to Don Kettl's Debate Article on the Future of Public Administration and Democracy",
+      "abstract": "ABSTRACT This commentary critically engages with Kettl's analysis of the crisis of public administration (PA) scholarship and its relationship with democratic decline. It argues that both phenomena should be understood within broader global developments rather than primarily as problems specific to the United States. While acknowledging the role of governance failures in facilitating autocratization, it questions the claim that autocratization results predominantly from the failures of PA scholarship and practice. Rather, it emphasizes that broader societal phenomena, such as the erosion of societal trust and the power‐consolidating objectives of authoritarian leaders play a key role. Drawing on Hungary's experience, the commentary illustrates how authoritarian governance may perpetuate administrative instability and institutional transformation long after the (perceived) failures of dem…",
+      "authors": [
+        "György Hajnal"
+      ],
+      "publishedAt": "2026-10-02",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70219",
+      "doi": "10.1111/puar.70219",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1111/puar.70221",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Artificial Intelligence and Punctuated Equilibrium: Shaping Government Attention in the Digital Age",
+      "abstract": "ABSTRACT How do government attention and policy agendas shift when information constraints are relaxed through technological advancement? Punctuated equilibrium theory links agenda‐setting dynamics to governments' limited information‐processing capabilities, yet we know little about whether and how technology improvement such as artificial intelligence (AI) influences policy agendas. This article proposes a conditional digital punctuation framework to specify the conditions under which technological advancements drive agenda shifts. Using China's implementation of AI initiatives as a quasi‐natural experiment, we find that government attention exhibits a punctuated pattern. AI increases technology‐focused attention, signaling incremental changes, while having minimal impact on general government attention. This selective impact stems from AI's asymmetric effects on information processing.…",
+      "authors": [
+        "Shuo Chen",
+        "Yiran Li",
+        "Yuzheng Wang"
+      ],
+      "publishedAt": "2026-10-02",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70221",
+      "doi": "10.1111/puar.70221",
+      "tagIds": [
+        "digital-government",
+        "policy-process",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "数字政府与算法治理",
+        "政策过程与政策工具",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "digital-government": 3,
+        "policy-process": 2,
+        "methodology-frontier": 1
+      },
+      "summaryZh": "涉及数字政府与算法治理、政策过程与政策工具、研究方法与方法论前沿"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2741375",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Interpretive leadership skill as the meaning-making leadership competency in public service organizations: content, construct, and criterion validity",
+      "abstract": "",
+      "authors": [
+        "Sungdae Lim"
+      ],
+      "publishedAt": "2026-10-02",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2741375",
+      "doi": "10.1080/14719037.2026.2741375",
+      "tagIds": [
+        "public-service-delivery",
+        "public-hr"
+      ],
+      "tags": [
+        "公共服务供给与市场化",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "public-service-delivery": 2,
+        "public-hr": 1
+      },
+      "summaryZh": "涉及公共服务供给与市场化、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2741725",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "From reform to reality: governance mechanisms and social capital development in mandated healthcare networks",
+      "abstract": "",
+      "authors": [
+        "Mara Sintejudeanu",
+        "Geraldine Robbins",
+        "Breda Sweeney"
+      ],
+      "publishedAt": "2026-10-02",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2741725",
+      "doi": "10.1080/14719037.2026.2741725",
+      "tagIds": [
+        "social-policy"
+      ],
+      "tags": [
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "social-policy": 1
+      },
+      "summaryZh": "涉及社会政策与民生保障"
+    },
+    {
+      "id": "doi:10.1111/puar.70216",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Reply to Kettl: Great Workplaces, Public Employee Legitimacy and the Fourth Way",
+      "abstract": "ABSTRACT In Public Administration and the Crisis of American Democracy, Don Kettl asks why some federal agencies are great places to work while others are not, pointing to the persistent gap between NASA and the Department of Homeland Security. This essay argues that the answer may turn on how the legitimate role of public employees in democratic governance is construed. Drawing on three interpretive frames—bureaucracy, democracy, and pragmatism—it examines 2024 employee survey responses at NASA and DHS that map onto these frames. DHS appears dominated by the bureaucracy frame, positioning employees as implementers whose voice is risky and expertise underused. NASA blends all three frames, treating employees as contributors, stewards, and problem solvers. These frames offer a partial explanation for Kettl's puzzle and a conceptual tool for his “fourth way”: great government workplaces ar…",
+      "authors": [
+        "Leisha DeHart‐Davis"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70216",
+      "doi": "10.1111/puar.70216",
+      "tagIds": [
+        "bureaucratic-behavior",
+        "citizen-participation"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 4,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机、公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1111/puar.70199",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Citizens' Expectations vs. Recruitment Signals: Are Public Administrations Trying to Attract the Ideal Public Servant?",
+      "abstract": "ABSTRACT Job advertisements play a crucial role in attracting applicants, yet little is known about how closely they reflect the values citizens expect from public servants. Drawing on signaling theory and prior research on citizens' normative expectations of ideal public servants, this study employs a large language model to analyze 1825 job advertisements from health and transportation departments across seven U.S. states. Compared to the values citizens associate with ideal public servants in previous research, job advertisements predominantly emphasize values, such as expertise and dedication, while undersignaling relational values like serviceability, responsiveness, and honesty. Our findings suggest a misalignment between the values signaled in recruitment practices and those citizens associate with the ideal public servant. By adopting a citizen‐driven perspective, this study prom…",
+      "authors": [
+        "Melissa Satzger Grøn",
+        "Dominik Vogel"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70199",
+      "doi": "10.1111/puar.70199",
+      "tagIds": [
+        "digital-government",
+        "bureaucratic-behavior",
+        "public-hr",
+        "citizen-participation"
+      ],
+      "tags": [
+        "数字政府与算法治理",
+        "官僚行为与公共服务动机",
+        "公共部门人力资源与人事管理",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "digital-government": 2,
+        "bureaucratic-behavior": 2,
+        "public-hr": 1,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及数字政府与算法治理、官僚行为与公共服务动机、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1093/jopart/muag024",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpart",
+      "outlet": "Journal of Public Administration Research and Theory",
+      "outletZh": "《公共行政研究与理论杂志》",
+      "title": "Generative Spaces: Collaboration, Learning and Innovation in a Regulatory Sandbox",
+      "abstract": "Abstract Public administrators are increasingly called upon to create “generative spaces” that foster emergent processes of collaboration, learning and innovation. This article presents an inductive and ethnographically grounded study of one relatively novel but increasingly popular generative space—a regulatory sandbox. A regulatory sandbox is a controlled and defined space and set of processes that are established by regulators to work with innovators to collaboratively explore, test and learn about early-stage products and innovations and understand emerging regulatory implications. Investigating a sandbox to explore the regulation of new artificial intelligence technologies conducted by a national healthcare regulator, we identify the organizing practices of the sandbox that make it “generative” of collaboration, learning and innovation. An inductive analysis identified three key org…",
+      "authors": [
+        "Carl Macrae",
+        "Christopher K Ansell"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1093/jopart/muag024",
+      "doi": "10.1093/jopart/muag024",
+      "tagIds": [
+        "regulation-governance",
+        "digital-government",
+        "collaborative-governance",
+        "social-policy"
+      ],
+      "tags": [
+        "监管治理与规制改革",
+        "数字政府与算法治理",
+        "协同治理与跨部门合作",
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "regulation-governance": 3,
+        "digital-government": 2,
+        "collaborative-governance": 1,
+        "social-policy": 1
+      },
+      "summaryZh": "涉及监管治理与规制改革、数字政府与算法治理、协同治理与跨部门合作"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2740705",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Policymaking in a multilevel setting: perverse effects on regulating gambling",
+      "abstract": "",
+      "authors": [
+        "Silvia Iacuzzi",
+        "Paolo Fedele",
+        "Andrea Garlatti"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2740705",
+      "doi": "10.1080/14719037.2026.2740705",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000093",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "How cultural world views moderate policy framing on Universal Basic Income",
+      "abstract": "Universal Basic Income (UBI) has gained global attention as a potential policy response to the AI revolution, yet public support remains divided. While existing research highlights the role of political predisposition in shaping attitudes towards UBI, such explanations rely on the presence of partisan/ideological cues. In contexts where UBI is not yet politicized, ideological alignment may offer limited explanatory power. This article examines how individuals’ cultural predispositions, as conceptualized by Cultural Theory (CT), shape responses to different UBI framings in Taiwan, a non-Western democracy where partisan cues on UBI are less salient. Using an online survey experiment, the article tests how cultural world views interact with framing conditions to influence support for UBI. Findings demonstrate framing effects are conditioned by cultural orientations, supporting CT that indiv…",
+      "authors": [
+        "Wei-Ting Yen",
+        "Li-Yin Liu"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000093",
+      "doi": "10.1332/03055736y2026d000000093",
+      "tagIds": [
+        "methodology-frontier"
+      ],
+      "tags": [
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "methodology-frontier": 3
+      },
+      "summaryZh": "涉及研究方法与方法论前沿"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000102",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Power, politics, and policy agency: towards a Functional Theory of Agency",
+      "abstract": "This article examines how political position shapes policy agency in local policy making. Specifically, it asks: what patterns of policy agency functions do municipal councillors ( regidores ) exhibit in the local policy process? Drawing on the Functional Theory of Agency framework and a sequential mixed-methods design combining a national survey of Mexican municipal councillors with follow-up semi-structured interviews, we analyse how councillors exercise four modes of policy agency: steering, innovation, intermediation, and intelligence. Our findings reveal systematic differences between majoritarian and opposition councillors. Majoritarian councillors dominate commissions, align with mayoral priorities, and primarily act as steerers and brokers of executive policy. By contrast, opposition councillors, who are often excluded from formal decision-making arenas, engage in disruptive inno…",
+      "authors": [
+        "Oliver Meza",
+        "Ana Cecilia de Alba"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000102",
+      "doi": "10.1332/03055736y2026d000000102",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000094",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Explaining the policy advisory success of non-governmental organisations in unlikely settings: a complexity-oriented approach",
+      "abstract": "The aim of this study is to explore under what conditions policy actors are able to achieve advisory influence in a contested policy-making space. Specifically, it focuses on the factors leading to the success of a set of advisory actors typically assumed to be among the most disadvantaged – non-governmental organisations (NGOs). The article departs from dominant approaches to studying influence relying on theoretical exclusivity and argues for the need to adopt more flexible complexity-oriented analytical styles. To illustrate this, the study uses the extreme case of Bulgaria’s social service delivery reform. The analysis of the case provides strong support for the need to employ greater analytic eclecticism rather than rigid theoretical assumptions based on a single explanatory theory in making sense of advisory influence. It highlights the critical role of individual agents in leading…",
+      "authors": [
+        "Denitsa Marchevska"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000094",
+      "doi": "10.1332/03055736y2026d000000094",
+      "tagIds": [
+        "public-service-delivery"
+      ],
+      "tags": [
+        "公共服务供给与市场化"
+      ],
+      "tagScore": {
+        "public-service-delivery": 2
+      },
+      "summaryZh": "涉及公共服务供给与市场化"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000100",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Extending the Advocacy Coalition Framework: measuring within-coalition belief variation in offshore wind policy conflicts",
+      "abstract": "This study advances the Advocacy Coalition Framework (ACF) literature by introducing new approaches to capture variation in actors’ belief expression and to analyse how such expressions are constrained by actors’ organisational affiliations. Moving beyond existing accounts of constrained belief expression, it reconceptualises constraint as measurable differences in the breadth and intensity of beliefs articulated by actors within a coalition. Drawing on debates over US offshore wind energy, the study examines how organisational affiliation shapes patterns of constrained belief expression in public discourse. To do this, the article develops two quantitative metrics – the Belief Variety Score and the Belief Extreme Score – which capture the range and intensity of belief expression within coalitions. These are complemented by network-based measures of cohesion across actor types. The findi…",
+      "authors": [
+        "Aerang Nam"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000100",
+      "doi": "10.1332/03055736y2026d000000100",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000101",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "A systematic review of policy conflict and its (un)productive consequences",
+      "abstract": "Like most collective decision-making processes, the formulation, adaptation, and implementation of public policies are not immune to conflict. Recently, various authors have lamented the lack of explicit attention to conflict in the policy process and called for more research into how policy conflicts unfold and what consequences they produce. This article contributes to that scholarship in two ways: first, through a systematic discussion of empirical studies on the consequences of policy conflict since 2000; and second, by bringing into conversation insights that are currently dispersed across fragmented research traditions. The systematic literature review focuses on three aspects: how and where policy conflicts have been studied; whether and how they have been conceptualised; and what their consequences are. In doing so, the article highlights the often overlooked productive potential…",
+      "authors": [
+        "Ilana Schröder",
+        "Eva E.A. Wolf"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000101",
+      "doi": "10.1332/03055736y2026d000000101",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 4
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000092",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Not yet partisan: Cultural Theory explains attitudes about solar radiation management in the US",
+      "abstract": "This article investigates the role of Cultural Theory (CT) in explaining attitudes towards solar radiation management (SRM) in the US. Partisanship traditionally provides a clear lens through which to view favourability to climate change policies; however, the lack of partisan attention to geoengineering policies, such as SRM, suggests other belief systems may be better explainers of attitudes. Previously, scholars have found climate attitudes to vary based upon cultural types, which are a function of how individuals see the role of authority in policy making and the extent to which individuals see themselves as part of a social unit. We find that partisanship is a weak predictor of SRM attitudes, while cultural affinities provide strong influences over SRM attitudes. Specifically, we find strong group affinities (particularly egalitarians) to lead to more favourable impressions of SRM r…",
+      "authors": [
+        "Chris Koski",
+        "Paul Manson"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000092",
+      "doi": "10.1332/03055736y2026d000000092",
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    }
+  ]
+}

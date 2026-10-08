@@ -298,11 +298,12 @@
       }
       if (failed && failed.length) {
         var all = !meta.stats || meta.stats.sourcesOk === 0;
-        // 沿用上次数据后，「失败」不再是空内容，按实际影响决定告警级别
+        // 沿用上次数据后，「失败」通常不再是空内容，按实际影响决定告警级别：
+        // 只要救回了内容就用黄色提示，一个都没救回才是红色。
         var reusedCount = (meta.sourceStatus || []).filter(function (s) {
           return s.carriedCount;
         }).length;
-        var covered = reusedCount > 0 && reusedCount >= failed.length;
+        var covered = reusedCount > 0;
         var detail = reusedCount
           ? '其中 ' +
             esc(String(reusedCount)) +

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-09",
+    "generatedAt": "2026-10-09T22:25:14.755Z",
+    "topicLabels": [
+      "数字政府与算法治理",
+      "问责、廉政与反腐败",
+      "协同治理与跨部门合作"
+    ],
+    "topicIds": [
+      "digital-government",
+      "accountability-corruption",
+      "collaborative-governance"
+    ],
+    "entryCount": 64,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-08",
     "generatedAt": "2026-10-08T22:25:57.390Z",
     "topicLabels": [

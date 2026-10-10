@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-10",
+    "generatedAt": "2026-10-10T22:23:15.281Z",
+    "topicLabels": [
+      "数字政府与算法治理",
+      "问责、廉政与反腐败",
+      "公民参与与共同生产"
+    ],
+    "topicIds": [
+      "digital-government",
+      "accountability-corruption",
+      "citizen-participation"
+    ],
+    "entryCount": 45,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-09",
     "generatedAt": "2026-10-09T22:25:14.755Z",
     "topicLabels": [

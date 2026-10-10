@@ -1,0 +1,1707 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T22:23:15.281Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-10-03",
+  "stats": {
+    "entries": 45,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "digital-government",
+      "label": "数字政府与算法治理",
+      "summary": "政府数字化转型、数据要素流通、人工智能与算法决策进入公务流程后的组织与问责问题。",
+      "kind": "最新",
+      "hotScore": 7.28,
+      "entryCount": 8,
+      "recent3Count": 7,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 1,
+        "cnjournal": 1,
+        "news": 6,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 6
+        },
+        {
+          "name": "美国《公共行政评论》",
+          "count": 1
+        },
+        {
+          "name": "《公共管理学报》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 8 条，覆盖 3 个来源（国际顶刊 1 篇 / 中文动态 6 条 / 政策文件 0 条），其中 7 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261010_1bxk7eo",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "人工智能时代历史学的研究进路",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-10",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261010_6072218.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理"
+        },
+        {
+          "id": "doi:10.1111/puar.70224",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Public Interest Capacity: The Case of Direct File",
+          "abstract": "ABSTRACT This article describes the conditions for creating and undermining public interest capacity, that is, the ability of the state to generate public goods with widely distributed benefits. The creation and elimination of Direct File, a free, online public tax reporting system in the United States, offers an instrumental case. The creation of Direct File depended upon political commitment sufficient to overcome private interests: both the traditional dependence on private contractors to produce digital products, and the opposition of the private tax preparation industry which saw Direct File as a competitor. Political will was not enough: creating internal capacity in the form of skilled government tech teams who could build a quality digital product was also necessary. But without this political commitment in the Trump administration, which instead pursued downsizing and was recept…",
+          "authors": [
+            "Donald Moynihan",
+            "Pam Herd",
+            "Xiaoyang Xu"
+          ],
+          "publishedAt": "2026-10-09",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70224",
+          "doi": "10.1111/puar.70224",
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1
+          },
+          "summaryZh": "涉及数字政府与算法治理"
+        },
+        {
+          "id": "cnki:GGGL:1yrhz1j",
+          "lang": "zh",
+          "sourceType": "cnjournal",
+          "sourceId": "cnki-gggl",
+          "outlet": "公共管理学报",
+          "outletZh": "《公共管理学报》",
+          "publisher": "哈尔滨工业大学管理学院",
+          "title": "人工智能嵌入科研过程中的公共科研组织适应机制——基于制度接口重建的纵向案例研究",
+          "abstract": "人工智能进入科研核心环节后，技术潜力如何转化为公共科研组织的持续科研能力，需要从组织过程加以解释。本文以中国科学院等离子体物理研究所及EAST装置为案例，依据2006年至2026年7月的相关文献和2024—2025年补充性访谈，采用纵向过程追踪方法，考察制度接口重建的过程与机制。研究发现，资源接入、认知校正和价值沉淀三个制度接口相互依赖，重建节奏却并不同步。数据规则和平台安排支持分散数据的持续调用...",
+          "authors": [
+            "于楠楠",
+            "吴佳正"
+          ],
+          "publishedAt": "2026-09-08",
+          "datePrecision": "day",
+          "windowDays": 45,
+          "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqMgzde9qs-jrybCbaVAQW5X9l4e6NkFX-jfa3u_AzquNiLw1GdFOx-9sIsCBDzVtdJE-pyTSXvFb8eFYcBkePqLDr0quN3dJIwnLJUDTNvHcETIGtdkZNHbmOPiuli5zmH0bGo1E89nRaJtradPwgQFSlr3LsKsR3kgU6h0SwfxtA==",
+          "doi": null,
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理",
+          "carriedFrom": "2026-10-06"
+        },
+        {
+          "id": "cssn:20261009_1x66nib",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "数智时代的汉语变异现象",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-09",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072107.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理"
+        },
+        {
+          "id": "cssn:20261009_1xam8rz",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "人工智能浪潮下语言学的守正创新",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-09",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072106.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "算法辅助决策的问责空白如何被填补",
+          "theory": "问责理论 × 算法问责与可解释性",
+          "method": "文本与制度分析 + 深度访谈",
+          "data": "地方政府算法应用管理办法、采购合同文本、供应商技术文档"
+        },
+        {
+          "title": "数字鸿沟在政务服务下沉中的再生成机制",
+          "theory": "公共服务均等化 × 数字排斥",
+          "method": "多层级调查数据的分层模型",
+          "data": "县域抽样问卷 + 政务平台办事日志（脱敏后）"
+        },
+        {
+          "title": "数据要素跨部门共享的组织阻力来源",
+          "theory": "组织边界理论 × 资源依赖",
+          "method": "社会网络分析 + 跨部门访谈",
+          "data": "省级数据共享交换平台的部门接入记录与权限配置"
+        }
+      ]
+    },
+    {
+      "id": "accountability-corruption",
+      "label": "问责、廉政与反腐败",
+      "summary": "责任追究、监督体系、腐败治理与廉政制度建设。",
+      "kind": "最新",
+      "hotScore": 3.78,
+      "entryCount": 4,
+      "recent3Count": 4,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 2,
+        "cnjournal": 0,
+        "news": 2,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 2
+        },
+        {
+          "name": "美国《公共行政评论》",
+          "count": 2
+        }
+      ],
+      "whyHot": "近 7 天共命中 4 条，覆盖 2 个来源（国际顶刊 2 篇 / 中文动态 2 条 / 政策文件 0 条），其中 4 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261010_xs26ri",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "以巡视利剑推动全面从严治党向纵深发展",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-10",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261010_6072324.shtml",
+          "doi": null,
+          "tagIds": [
+            "accountability-corruption"
+          ],
+          "tags": [
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "accountability-corruption": 1.5
+          },
+          "summaryZh": "涉及问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1111/puar.70215",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Reply to Kettl: Public Administration and the Shifting Competing Forces of Accountability",
+          "abstract": "ABSTRACT The accountability context for how public administrators operate has shifted markedly and has become much more volatile. This shift has placed new and some conflicting demands on public administrators to demonstrate their accountability to various competing governmental actors and has complicated policy and program implementation. The changed context, its causes, and the resultant challenges are analyzed and discussed. Questions are presented for public administration research to help public administrators deal with the challenges.",
+          "authors": [
+            "Charles Wise"
+          ],
+          "publishedAt": "2026-10-09",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70215",
+          "doi": "10.1111/puar.70215",
+          "tagIds": [
+            "accountability-corruption"
+          ],
+          "tags": [
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及问责、廉政与反腐败"
+        },
+        {
+          "id": "cssn:20261009_1dw1jxo",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "上海财经大学财经纪检监察研究院成立大会暨清廉金融文化教育联盟2026年会举行",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-09",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072177.shtml",
+          "doi": null,
+          "tagIds": [
+            "accountability-corruption"
+          ],
+          "tags": [
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "accountability-corruption": 3
+          },
+          "summaryZh": "涉及问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1111/puar.70209",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "A Public Philosophy for Public Administration in Times of Democratic Crisis",
+          "abstract": "ABSTRACT Public administration is at the center of the global democratic crisis. Meeting this challenge requires more than managerial and analytic competence—it requires a public philosophy grounded in the first principles of democratic ethos. We offer such a philosophy, drawing on four seminal thinkers whose concepts reflect the conditions public administrators face in times of democratic crisis. Judith Shklar's liberalism of fear establishes a negative obligation to refuse cruelty and resist its institutionalization. Alasdair MacIntyre's internal goods of practice create a positive obligation to cultivate virtue and protect the integrity of administrative practice. Isaiah Berlin's agony of choice obligates administrators to acknowledge irreducible value conflicts and their consequential impact on democratic life. Hannah Arendt's enlarged mentality provides a framework for thinking acro…",
+          "authors": [
+            "Curtis Ventriss",
+            "Tina Nabatchi"
+          ],
+          "publishedAt": "2026-10-08",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70209",
+          "doi": "10.1111/puar.70209",
+          "tagIds": [
+            "citizen-participation",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公民参与与共同生产",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "citizen-participation": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公民参与与共同生产、问责、廉政与反腐败"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "问责强度与干部担当行为的张力",
+          "theory": "问责理论 × 激励—约束平衡",
+          "method": "情景实验 + 面板数据",
+          "data": "干部考核结果与重点项目推进数据"
+        },
+        {
+          "title": "巡视巡察的问题发现与整改闭环",
+          "theory": "监督理论 × 组织学习",
+          "method": "文本分析 + 整改追踪",
+          "data": "巡视反馈意见与整改报告全文本比对"
+        },
+        {
+          "title": "廉政风险点的行业差异与预警有效性",
+          "theory": "风险治理 × 腐败机会结构",
+          "method": "案件数据建模 + 预测评估",
+          "data": "公开裁判文书的职务犯罪案件数据"
+        }
+      ]
+    },
+    {
+      "id": "citizen-participation",
+      "label": "公民参与与共同生产",
+      "summary": "公众参与、公共服务共同生产、民主创新与回应性治理。",
+      "kind": "最新",
+      "hotScore": 2.56,
+      "entryCount": 3,
+      "recent3Count": 2,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 3,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《政策与政治》",
+          "count": 1
+        },
+        {
+          "name": "美国《公共行政评论》",
+          "count": 1
+        },
+        {
+          "name": "《公共管理评论（英国）》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 3 条，覆盖 3 个来源（国际顶刊 3 篇 / 中文动态 0 条 / 政策文件 0 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1332/03055736y2026d000000105",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "How experiential knowledge becomes evidence in lawmaking through consultations with incarcerated people",
+          "abstract": "Experiential knowledge, grounded in lived experience, is increasingly recognized as an important source of evidence in policy making and legislative drafting. Yet questions remain about how knowledge derived from consultations with affected individuals can legitimately inform broader lawmaking. This article examines how experiential knowledge from targeted consultations with incarcerated individuals is transformed into context-specific legislative knowledge through the interplay of propositional system knowledge, procedural knowledge of navigating the prison system, and implicit analogical reasoning. Drawing on consultation memoranda and a draft Bill produced during the reform of the Finnish Imprisonment Act, we analyse consultations concerning incarcerated individuals’ use of communication technologies to manage essential practical matters beyond prison under conditions of administrativ…",
+          "authors": [
+            "Kati Rantala",
+            "Maija Helminen",
+            "Mika Simonen",
+            "Susanna Lundell"
+          ],
+          "publishedAt": "2026-10-09",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000105",
+          "doi": "10.1332/03055736y2026d000000105",
+          "tagIds": [
+            "citizen-participation"
+          ],
+          "tags": [
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1111/puar.70209",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "A Public Philosophy for Public Administration in Times of Democratic Crisis",
+          "abstract": "ABSTRACT Public administration is at the center of the global democratic crisis. Meeting this challenge requires more than managerial and analytic competence—it requires a public philosophy grounded in the first principles of democratic ethos. We offer such a philosophy, drawing on four seminal thinkers whose concepts reflect the conditions public administrators face in times of democratic crisis. Judith Shklar's liberalism of fear establishes a negative obligation to refuse cruelty and resist its institutionalization. Alasdair MacIntyre's internal goods of practice create a positive obligation to cultivate virtue and protect the integrity of administrative practice. Isaiah Berlin's agony of choice obligates administrators to acknowledge irreducible value conflicts and their consequential impact on democratic life. Hannah Arendt's enlarged mentality provides a framework for thinking acro…",
+          "authors": [
+            "Curtis Ventriss",
+            "Tina Nabatchi"
+          ],
+          "publishedAt": "2026-10-08",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70209",
+          "doi": "10.1111/puar.70209",
+          "tagIds": [
+            "citizen-participation",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公民参与与共同生产",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "citizen-participation": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公民参与与共同生产、问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1080/14719037.2026.2739597",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "pmr",
+          "outlet": "Public Management Review",
+          "outletZh": "《公共管理评论（英国）》",
+          "title": "When women lead: local political representation and pro-women institutions",
+          "abstract": "",
+          "authors": [
+            "Marylis Fantoni",
+            "Adalmir de Oliveira Gomes",
+            "Claudia N. Avellaneda"
+          ],
+          "publishedAt": "2026-10-05",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/14719037.2026.2739597",
+          "doi": "10.1080/14719037.2026.2739597",
+          "tagIds": [
+            "citizen-participation"
+          ],
+          "tags": [
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "citizen-participation": 2
+          },
+          "summaryZh": "涉及公民参与与共同生产"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "共同生产中的责任边界模糊问题",
+          "theory": "共同生产 × 责任分配",
+          "method": "案例研究 + 责权文本分析",
+          "data": "社区共同缔造项目的合同、分工与纠纷记录"
+        },
+        {
+          "title": "参与式预算的实际影响力边界",
+          "theory": "参与式民主 × 共同生产",
+          "method": "准实验 + 预算结果比对",
+          "data": "推行参与式预算试点地区的预算调整记录"
+        },
+        {
+          "title": "协商民主机制的加入门槛与代表性偏差",
+          "theory": "协商民主理论 × 参与不平等",
+          "method": "参与数据分层分析",
+          "data": "听证会、议事会参与人员构成与发言记录"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "cssn:20261010_i977ts",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国社会科学院与中华全国新闻工作者协会签署战略合作协议",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-10",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261010_6072325.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261010_xs26ri",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以巡视利剑推动全面从严治党向纵深发展",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-10",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261010_6072324.shtml",
+      "doi": null,
+      "tagIds": [
+        "accountability-corruption"
+      ],
+      "tags": [
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "accountability-corruption": 1.5
+      },
+      "summaryZh": "涉及问责、廉政与反腐败"
+    },
+    {
+      "id": "cssn:20261010_7gb81y",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "广州文化产业呈现量质齐升、结构优化的发展态势",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-10",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261010_6072267.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261010_q54rmp",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“‘十五五’上海改革与发展前景展望”青年论坛在上海举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-10",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261010_6072269.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261010_1n62zwi",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“中非文学何以交流互鉴”中外文学沙龙在上海师范大学举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-10",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261010_6072265.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261010_1bxk7eo",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "人工智能时代历史学的研究进路",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-10",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261010_6072218.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "doi:10.1111/puar.70224",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Public Interest Capacity: The Case of Direct File",
+      "abstract": "ABSTRACT This article describes the conditions for creating and undermining public interest capacity, that is, the ability of the state to generate public goods with widely distributed benefits. The creation and elimination of Direct File, a free, online public tax reporting system in the United States, offers an instrumental case. The creation of Direct File depended upon political commitment sufficient to overcome private interests: both the traditional dependence on private contractors to produce digital products, and the opposition of the private tax preparation industry which saw Direct File as a competitor. Political will was not enough: creating internal capacity in the form of skilled government tech teams who could build a quality digital product was also necessary. But without this political commitment in the Trump administration, which instead pursued downsizing and was recept…",
+      "authors": [
+        "Donald Moynihan",
+        "Pam Herd",
+        "Xiaoyang Xu"
+      ],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70224",
+      "doi": "10.1111/puar.70224",
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "doi:10.1111/puar.70215",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Reply to Kettl: Public Administration and the Shifting Competing Forces of Accountability",
+      "abstract": "ABSTRACT The accountability context for how public administrators operate has shifted markedly and has become much more volatile. This shift has placed new and some conflicting demands on public administrators to demonstrate their accountability to various competing governmental actors and has complicated policy and program implementation. The changed context, its causes, and the resultant challenges are analyzed and discussed. Questions are presented for public administration research to help public administrators deal with the challenges.",
+      "authors": [
+        "Charles Wise"
+      ],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70215",
+      "doi": "10.1111/puar.70215",
+      "tagIds": [
+        "accountability-corruption"
+      ],
+      "tags": [
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000105",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "How experiential knowledge becomes evidence in lawmaking through consultations with incarcerated people",
+      "abstract": "Experiential knowledge, grounded in lived experience, is increasingly recognized as an important source of evidence in policy making and legislative drafting. Yet questions remain about how knowledge derived from consultations with affected individuals can legitimately inform broader lawmaking. This article examines how experiential knowledge from targeted consultations with incarcerated individuals is transformed into context-specific legislative knowledge through the interplay of propositional system knowledge, procedural knowledge of navigating the prison system, and implicit analogical reasoning. Drawing on consultation memoranda and a draft Bill produced during the reform of the Finnish Imprisonment Act, we analyse consultations concerning incarcerated individuals’ use of communication technologies to manage essential practical matters beyond prison under conditions of administrativ…",
+      "authors": [
+        "Kati Rantala",
+        "Maija Helminen",
+        "Mika Simonen",
+        "Susanna Lundell"
+      ],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000105",
+      "doi": "10.1332/03055736y2026d000000105",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101342",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "How do middle-income states select vaccine partners? Projected capacity across sectors in Argentina",
+      "abstract": "Abstract How do governments select vaccine-production partners when sector-specific capacity is incomplete? The COVID-19 pandemic made this question especially pressing, as vaccine nationalism constrained external supply and pushed middle-income states to expand domestic production despite unproven capacities. Tracing Argentina’s vaccine strategy from 2020 to 2022, this article develops the concept of projected capacity: a mechanism through which states infer potential capacity in one sector from firms’ resources, credibility, and structural position in another. Policymakers rely on proxies for vaccine-production capacity, including industrial legacies, firm–state familiarity, and alignment with health-sovereignty goals. State selection then provides firms with resources, alliances, and legitimacy, transforming projected capacity into sector-specific structural power. The article contrib…",
+      "authors": [
+        "María Alejandra Costa",
+        "Luana Forlini"
+      ],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101342",
+      "doi": "10.1017/s0143814x26101342",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_1oqyvab",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以制度创新释放消费潜能",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072203.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_1ru24vi",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "全球领导力前沿论坛在上海外国语大学举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072186.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_o5b23b",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国社会科学院中非研究中心派驻人员座谈会举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072179.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_1dw1jxo",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "上海财经大学财经纪检监察研究院成立大会暨清廉金融文化教育联盟2026年会举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072177.shtml",
+      "doi": null,
+      "tagIds": [
+        "accountability-corruption"
+      ],
+      "tags": [
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "accountability-corruption": 3
+      },
+      "summaryZh": "涉及问责、廉政与反腐败"
+    },
+    {
+      "id": "cssn:20261009_1iz1aym",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以高质量审计保障哲学社会科学事业繁荣发展",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072170.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_1i3xja7",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "构建开放型世界经济理论自主知识体系",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072111.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_1n67jn1",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "未来产业“谁来投”“怎么投”",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072110.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_kl5rce",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "从注意力经济到意图经济：智能体重塑市场经济竞争逻辑",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072109.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_9mqbky",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "网络语言“破圈”的效率悖论及其调适",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072108.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_1x66nib",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "数智时代的汉语变异现象",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072107.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261009_1xam8rz",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "人工智能浪潮下语言学的守正创新",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072106.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261009_ck2hks",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "在法治轨道上纵深推进全国统一大市场建设",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072105.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_5icdgz",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "破解平台“内卷式” 竞争的法治方案",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072104.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_1b3dr71",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "充分激发各类经营主体活力的法治保障",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072103.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261009_cnunyp",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "人工智能赋能史学研究的两条路径",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072102.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261009_1klvmbo",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "人工智能时代，历史学如何认识自身",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072101.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261009_a97u0d",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "人工智能技术与楔形文字泥板的释读",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-09",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261009_6072100.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "doi:10.1111/puar.70209",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "A Public Philosophy for Public Administration in Times of Democratic Crisis",
+      "abstract": "ABSTRACT Public administration is at the center of the global democratic crisis. Meeting this challenge requires more than managerial and analytic competence—it requires a public philosophy grounded in the first principles of democratic ethos. We offer such a philosophy, drawing on four seminal thinkers whose concepts reflect the conditions public administrators face in times of democratic crisis. Judith Shklar's liberalism of fear establishes a negative obligation to refuse cruelty and resist its institutionalization. Alasdair MacIntyre's internal goods of practice create a positive obligation to cultivate virtue and protect the integrity of administrative practice. Isaiah Berlin's agony of choice obligates administrators to acknowledge irreducible value conflicts and their consequential impact on democratic life. Hannah Arendt's enlarged mentality provides a framework for thinking acro…",
+      "authors": [
+        "Curtis Ventriss",
+        "Tina Nabatchi"
+      ],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70209",
+      "doi": "10.1111/puar.70209",
+      "tagIds": [
+        "citizen-participation",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "公民参与与共同生产",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "citizen-participation": 1,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产、问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2741378",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Achievements amidst asymmetries: power dynamics in Swedish civil-military collaboration - an exploratory conceptualization",
+      "abstract": "",
+      "authors": [
+        "Helena Hermansson",
+        "Frida Linehagen"
+      ],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2741378",
+      "doi": "10.1080/14719037.2026.2741378",
+      "tagIds": [
+        "collaborative-governance"
+      ],
+      "tags": [
+        "协同治理与跨部门合作"
+      ],
+      "tagScore": {
+        "collaborative-governance": 1
+      },
+      "summaryZh": "涉及协同治理与跨部门合作"
+    },
+    {
+      "id": "gov:26772701",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复",
+      "abstract": "国务院关于《国家残疾预防行动计划 （2026—2030年）》的批复 国函〔2026〕105号 国务院残疾人工作委员会： 你委《关于报送〈国家残疾预防行动计划（2026—2030年）（送审稿）〉的请示》...",
+      "summary": "国务院关于《国家残疾预防行动计划 （2026—2030年）》的批复 国函〔2026〕105号 国务院残疾人工作委员会： 你委《关于报送〈国家残疾预防行动计划（2026—2030年）（送审稿）〉的请示》...",
+      "docNumber": "国函〔2026〕105号",
+      "org": "国务院",
+      "category": "民政、扶贫、救灾\\优抚安置",
+      "authors": [],
+      "publishedAt": "2026-10-08",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7082738.htm",
+      "doi": null,
+      "tagIds": [
+        "social-policy"
+      ],
+      "tags": [
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "social-policy": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障"
+    },
+    {
+      "id": "doi:10.1111/puar.70225",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Is Public Sector a Better Place for Moms to Work? Exploring Sector Difference in Child Penalties on Women",
+      "abstract": "ABSTRACT With commonly stabler and more flexible working environment, is public sector a better place for moms to work? Theorizing child penalties from sector difference perspective, we argue that childbirth may cause less gender gaps in unemployment and earnings but greater gender disparities in working time commitments in the public sector since job stability and family‐friendliness may form gender norms that depreciate women's work in the public sector. We test our hypotheses by employing event study designs using data from China Family Panel Studies (2010–2022). We found that women public employees experienced smaller child penalties in unemployment and earnings while greater child penalties in working hours than private counterparts, which can be explained by greater family responsibilities and spousal depreciation of women's jobs after childbirth. This paper advances theories of ge…",
+      "authors": [
+        "Fangda Ding",
+        "Yifan Chen"
+      ],
+      "publishedAt": "2026-10-07",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70225",
+      "doi": "10.1111/puar.70225",
+      "tagIds": [
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 2
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2743138",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
+      "abstract": "",
+      "authors": [
+        "Fabio Monteduro",
+        "Riccardo Mussari"
+      ],
+      "publishedAt": "2026-10-07",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2743138",
+      "doi": "10.1080/14719037.2026.2743138",
+      "tagIds": [
+        "fiscal-budget"
+      ],
+      "tags": [
+        "财政预算与公共支出"
+      ],
+      "tagScore": {
+        "fiscal-budget": 1
+      },
+      "summaryZh": "涉及财政预算与公共支出"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2744322",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel",
+      "abstract": "",
+      "authors": [
+        "Ofek Edri-Peer",
+        "Nissim Cohen"
+      ],
+      "publishedAt": "2026-10-07",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2744322",
+      "doi": "10.1080/14719037.2026.2744322",
+      "tagIds": [
+        "grassroots-governance",
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "基层治理与治理重心下移",
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "grassroots-governance": 1,
+        "bureaucratic-behavior": 1
+      },
+      "summaryZh": "涉及基层治理与治理重心下移、官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2744326",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Impact of organizational goals, leadership styles, and organizational culture on employee outcomes in the Korean public sector",
+      "abstract": "",
+      "authors": [
+        "Hyeon Jo"
+      ],
+      "publishedAt": "2026-10-06",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2744326",
+      "doi": "10.1080/14719037.2026.2744326",
+      "tagIds": [
+        "organization-institution",
+        "public-hr"
+      ],
+      "tags": [
+        "组织理论与制度变迁",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "organization-institution": 5,
+        "public-hr": 3
+      },
+      "summaryZh": "涉及组织理论与制度变迁、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2739597",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "When women lead: local political representation and pro-women institutions",
+      "abstract": "",
+      "authors": [
+        "Marylis Fantoni",
+        "Adalmir de Oliveira Gomes",
+        "Claudia N. Avellaneda"
+      ],
+      "publishedAt": "2026-10-05",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2739597",
+      "doi": "10.1080/14719037.2026.2739597",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 2
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2738184",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Explaining user-orientation in public service delivery networks: configurations of network structure, process, and context",
+      "abstract": "",
+      "authors": [
+        "Dimitri Cremers",
+        "John Goedee",
+        "Jörg Raab",
+        "Antony Pemberton"
+      ],
+      "publishedAt": "2026-10-03",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2738184",
+      "doi": "10.1080/14719037.2026.2738184",
+      "tagIds": [
+        "public-service-delivery"
+      ],
+      "tags": [
+        "公共服务供给与市场化"
+      ],
+      "tagScore": {
+        "public-service-delivery": 4
+      },
+      "summaryZh": "涉及公共服务供给与市场化"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2740550",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "How Do Community Stakeholder Groups Shape Local GHG Inventories? Evidence from U.S. Local Governments",
+      "abstract": "",
+      "authors": [
+        "Angela Y. S. Park",
+        "Christopher V. Hawkins",
+        "Rachel M. Krause",
+        "Minsung Michael Kang"
+      ],
+      "publishedAt": "2026-10-03",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2740550",
+      "doi": "10.1080/15309576.2026.2740550",
+      "tagIds": [
+        "collaborative-governance",
+        "environment-climate"
+      ],
+      "tags": [
+        "协同治理与跨部门合作",
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "collaborative-governance": 3,
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及协同治理与跨部门合作、环境治理与气候政策"
+    },
+    {
+      "id": "cnki:GGGL:kkumt6",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "常态化开发式驻村帮扶何以培育乡村内生发展能力——基于“跨界任务共同体”视角的过程分析",
+      "abstract": "在驻村帮扶由过渡性安排转向常态化开发式的新政策背景下，本文旨在解释外部政治使命及组织、制度与资源供给如何转化为乡村可持续调用的内生发展能力。研究提出了“跨界任务共同体”这一任务型中观组织分析框架，采用纵向单案例与过程追踪方法，研究2017—2025年Z市樟村驻村帮扶实践经验，发现常态化开发式驻村帮扶的关键并非增加项目，而是围绕治理修复、规则重建与主体培育等任务，将政府部门、村级组织、村民和市场主体...",
+      "authors": [
+        "张树旺"
+      ],
+      "publishedAt": "2026-09-22",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqMra0WRS6MTrqVZ-up9d5_FzPlfoCSkRgV3aM5PMAj9Nj3L5uWYHzdkxwolztBn72IfdhjsiqhEQaQc0EMjw-c7a6Iivu0sX8f0J4ye_XWYDaMe0OhN4G57ZsjkrP6VWQ4JSF0g9KNNOB9oiynpAuRw3lvKdCLrVKkBUhe1NyzY8A==",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGGL:1w0sb2y",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "城市基础设施生命线安全工程的类型建构与优化路径——“技术-治理”适配视角下的多案例分析",
+      "abstract": "城市基础设施生命线安全工程是保障城市正常运行的关键防线，在韧性城市建设中发挥着基础性支撑作用。既有研究多聚焦单一场景优化或局部技术迭代，不仅存在重工程轻治理、重硬件轻系统的理论局限，也未能回应全国统一制度环境下各地工程实践形态显著分化的现实。基于此，本文立足韧性治理理论，构建城市生命线安全工程韧性提升分析框架，提炼技术应用形态和治理模式两个分类维度，逻辑推导出集成协同型、集成统筹型、基础协同型、基...",
+      "authors": [
+        "郭瑞莲",
+        "朱正威"
+      ],
+      "publishedAt": "2026-09-18",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNG-6HXfHYPJENQpar9cRDg8Df7kv0dOw9YVIQm9VdnCVTl9XkTV7DtGdMZ435a9dLgBrM97ABGFPPJCTsYY2rEJCe790q7LBlSAvTpZnW1RFdIQ5hQts_5bbvCMJjaTjYBYGYIOjCNQTrkaX5RjtkXFODpjpP1H48wWQXm7XpR8Q==",
+      "doi": null,
+      "tagIds": [
+        "emergency-resilience",
+        "organization-institution"
+      ],
+      "tags": [
+        "应急管理与韧性治理",
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1.5,
+        "organization-institution": 1.5
+      },
+      "summaryZh": "涉及应急管理与韧性治理、组织理论与制度变迁",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:ZXGL:1pmqp6z",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-zxgl",
+      "outlet": "中国行政管理",
+      "outletZh": "《中国行政管理》",
+      "publisher": "中国行政管理学会",
+      "title": "社区嵌入式“双龄共养”融合服务的核心架构与内在机理研究",
+      "abstract": "作为中国社会结构的本源性议题，“一老一小”照料问题直接关系到公共服务均衡供给与人民福祉的实质性提升。本文以温州市H区为案例，以界面治理理论为“元理论”分析框架，结合代际支持理论与社会交换理论，采用探索性单案例研究方法，系统剖析社区嵌入式养老托育融合服务的核心架构与内在机理。研究发现，“双龄共养”融合服务实为传统养老与托育服务界面经耦合重构形成的新型服务系统。该系统以家庭照料赤字为现实起点，推动“私...",
+      "authors": [
+        "金红磊",
+        "张鹏飞"
+      ],
+      "publishedAt": "2026-09-17",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqM2iduXZP49TkxQHLEeZS0fn33_GRRamTBtRGCUg7HWYzDZ5dKFo32YZSL3sH8tc_FjNskhUbPNVPmSD4iYIruxcd6lE7MPSr2HzJ-M2Gzfxe5QVOumOSSJc6gtQ4YD_-SnrHsao2xW0XJko83E6MKV6TBEDn201Pg6oLxH9UqeUg==",
+      "doi": null,
+      "tagIds": [
+        "social-policy",
+        "grassroots-governance",
+        "public-service-delivery",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "社会政策与民生保障",
+        "基层治理与治理重心下移",
+        "公共服务供给与市场化",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "social-policy": 3,
+        "grassroots-governance": 1.5,
+        "public-service-delivery": 1.5,
+        "methodology-frontier": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障、基层治理与治理重心下移、公共服务供给与市场化",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:ZXGL:sstscj",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-zxgl",
+      "outlet": "中国行政管理",
+      "outletZh": "《中国行政管理》",
+      "publisher": "中国行政管理学会",
+      "title": "人才驱动科技创新和产业创新融合发展的行动机制与实现路径",
+      "abstract": "在全球科技革命与产业变革加速演进的时代背景下，本文分析苏州市和深圳市通过人才驱动科技创新和产业创新深度融合的实践经验，归纳人才驱动科技创新和产业创新融合发展的行动机制与内在机理，并提出针对性的政策建议，以期为政府更好发挥职能，提升国家创新体系整体效能、破解“科技经济两张皮”难题提供理论支撑。研究发现，地方政府立足差异化的资源禀赋，因地制宜逐步形成不同的政府角色演化路径,从而加速了人才驱动科技创新和...",
+      "authors": [
+        "徐明"
+      ],
+      "publishedAt": "2026-09-17",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNRG4CAGlmhdiVOpvp96MFGFntkxwDDXTnnHPPwfSgw9G6ud_JvCk7QgYl-m_ZXAfRK-j8e89MHhq94IX3EJthNMZSAEbKrEAZK5GGHh-eMLe3T82yThEXTBMH94-0Kc7OddJ68r0rS_2Nj1oBILKBwMBwObPXeMDz-AK3UPJ9wsw==",
+      "doi": null,
+      "tagIds": [
+        "performance-management",
+        "public-hr"
+      ],
+      "tags": [
+        "绩效管理与政府效能",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "performance-management": 1.5,
+        "public-hr": 1.5
+      },
+      "summaryZh": "涉及绩效管理与政府效能、公共部门人力资源与人事管理",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGGL:14hb5v1",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "层级缝隙：乡村产业振兴政策绩效损失的生成逻辑——基于G省现代农业产业园扶持政策的案例研究",
+      "abstract": "乡村产业振兴政策在多层级政府体系中的有效执行，是推进农业农村现代化的核心议题。针对既有研究对政策绩效损失如何在层级传导中逐级生成缺乏过程刻画与逻辑阐释的问题，本文引入“层级缝隙”概念，构建其分析框架，并将概念内涵界定为多层级政府因目标函数差异、资源约束与信息不对称而形成的非协调性状态。采用嵌入式单案例研究方法，以G省现代农业产业园扶持政策为对象，对H县兰花产业园进行过程追踪，结果发现：决策层—统筹...",
+      "authors": [
+        "刘畅",
+        "郑方辉",
+        "费睿"
+      ],
+      "publishedAt": "2026-09-14",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNMvb2D8c8uDV74KnDVx0mf35wTtxo_mDHsLJyaLRMdc2fQ-CaJo7ouomsExAnVSSegnUx4lJRclBxAOLHz_zbgqr5iOXIvY9PoAs95cYvZHzxjkvW_d8xf3bn0XR2oqGbwl-0A4CWWLkZsZpi1GjbILO26tHVu5oG2gPiE-_L1jA==",
+      "doi": null,
+      "tagIds": [
+        "methodology-frontier"
+      ],
+      "tags": [
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "methodology-frontier": 1.5
+      },
+      "summaryZh": "涉及研究方法与方法论前沿",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGGL:1yrhz1j",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "人工智能嵌入科研过程中的公共科研组织适应机制——基于制度接口重建的纵向案例研究",
+      "abstract": "人工智能进入科研核心环节后，技术潜力如何转化为公共科研组织的持续科研能力，需要从组织过程加以解释。本文以中国科学院等离子体物理研究所及EAST装置为案例，依据2006年至2026年7月的相关文献和2024—2025年补充性访谈，采用纵向过程追踪方法，考察制度接口重建的过程与机制。研究发现，资源接入、认知校正和价值沉淀三个制度接口相互依赖，重建节奏却并不同步。数据规则和平台安排支持分散数据的持续调用...",
+      "authors": [
+        "于楠楠",
+        "吴佳正"
+      ],
+      "publishedAt": "2026-09-08",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqMgzde9qs-jrybCbaVAQW5X9l4e6NkFX-jfa3u_AzquNiLw1GdFOx-9sIsCBDzVtdJE-pyTSXvFb8eFYcBkePqLDr0quN3dJIwnLJUDTNvHcETIGtdkZNHbmOPiuli5zmH0bGo1E89nRaJtradPwgQFSlr3LsKsR3kgU6h0SwfxtA==",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGXZ:1uvi0xx",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-ggxz",
+      "outlet": "公共行政评论",
+      "outletZh": "《公共行政评论》",
+      "publisher": "中山大学",
+      "title": "国际公共政策转移的差异化路径及其逻辑:基于“能力-目标”框架的多案例研究",
+      "abstract": "国际公共政策转移是推动全球治理创新、优化全球公共产品供给和实现共同繁荣的关键机制。现有研究虽然对国际公共政策转移路径进行了类型学划分,但多停留在宏观描述,未能深入揭示路径选择背后的深层动因。论文构建“能力-目标”分析框架,选取绿色金融政策、光伏发电政策与生态红线保护政策进行多案例研究,从“政策能力差异性”和“政策目标模糊性”两个维度来分析影响政策转移路径选择的关键因素。研究发现,当政策主体间能力差...",
+      "authors": [
+        "徐菁媛",
+        "杨玢璐",
+        "敬乂嘉"
+      ],
+      "publishedAt": "2026-09-08",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqOh_hCm40Ki-ukjW8fM80b6PTb8M--hOtGOWopfraqP7GSPBA5tCNXHuxK3GeSh7Yy-ZehX5c8r0diEvWgtuIyjTG3XSu7jEMfed1LOT8FL2Zv6dUH5ReNUnlCRlUp09OjpT6OfrHJ3cO-X-XNJq86jd9UXHkmzZtxGdCNMVw5ljQ==",
+      "doi": null,
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 3
+      },
+      "summaryZh": "涉及环境治理与气候政策",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGGL:133pu5w",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "最小可行协同：地方政府高耦合事项协同治理的演进机制——基于H市X区“水电气网联合报装一件事”的案例研究",
+      "abstract": "在“高效办成一件事”改革持续推进的背景下，水电气网联合报装等高耦合公共服务事项对跨部门协同提出了更高要求。然而，在资源约束、规则分割和技术条件并不充分的情境下，地方政府如何使跨部门协同先行启动并逐步稳定，仍是理解“一件事”改革基层运行逻辑的关键问题。本文以H市X区“水电气网联合报装一件事”为案例，考察高耦合事项协同生成的过程逻辑与演进机制。研究发现，面对多主体分散、流程割裂和责任边界模糊等现实约束...",
+      "authors": [
+        "吴旭红",
+        "吴宇",
+        "胡月"
+      ],
+      "publishedAt": "2026-08-28",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqPlViI7PXTrTlFCyScYAX_9nle3VCq0LYfCLYj7rm2Rmc_n83zpq_YTP2YQzF57FaL0Qcq_X6ZDgyb94DJCe4L3xCrjyp7P1i8V2AfvGYk7xOmqtrjc3FCpustlHMF-8r4d0G28wwEzRuB19qW0m-9MwZPuXGL6XcWKHZYAuZOIXg==",
+      "doi": null,
+      "tagIds": [
+        "collaborative-governance",
+        "public-service-delivery"
+      ],
+      "tags": [
+        "协同治理与跨部门合作",
+        "公共服务供给与市场化"
+      ],
+      "tagScore": {
+        "collaborative-governance": 4.5,
+        "public-service-delivery": 1.5
+      },
+      "summaryZh": "涉及协同治理与跨部门合作、公共服务供给与市场化",
+      "carriedFrom": "2026-10-06"
+    }
+  ]
+}

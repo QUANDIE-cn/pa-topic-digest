@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-13",
+    "generatedAt": "2026-10-13T22:35:36.220Z",
+    "topicLabels": [
+      "研究方法与方法论前沿",
+      "公民参与与共同生产",
+      "官僚行为与公共服务动机"
+    ],
+    "topicIds": [
+      "methodology-frontier",
+      "citizen-participation",
+      "bureaucratic-behavior"
+    ],
+    "entryCount": 47,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-12",
     "generatedAt": "2026-10-12T22:25:15.924Z",
     "topicLabels": [

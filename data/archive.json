@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-14",
+    "generatedAt": "2026-10-14T22:35:17.262Z",
+    "topicLabels": [
+      "绩效管理与政府效能",
+      "官僚行为与公共服务动机",
+      "研究方法与方法论前沿"
+    ],
+    "topicIds": [
+      "performance-management",
+      "bureaucratic-behavior",
+      "methodology-frontier"
+    ],
+    "entryCount": 48,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-13",
     "generatedAt": "2026-10-13T22:35:36.220Z",
     "topicLabels": [

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-15",
+    "generatedAt": "2026-10-15T22:35:50.886Z",
+    "topicLabels": [
+      "应急管理与韧性治理",
+      "公民参与与共同生产",
+      "数字政府与算法治理"
+    ],
+    "topicIds": [
+      "emergency-resilience",
+      "citizen-participation",
+      "digital-government"
+    ],
+    "entryCount": 47,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-14",
     "generatedAt": "2026-10-14T22:35:17.262Z",
     "topicLabels": [

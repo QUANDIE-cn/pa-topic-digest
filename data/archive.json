@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-16",
+    "generatedAt": "2026-10-16T22:35:16.358Z",
+    "topicLabels": [
+      "研究方法与方法论前沿",
+      "公共部门人力资源与人事管理",
+      "官僚行为与公共服务动机"
+    ],
+    "topicIds": [
+      "methodology-frontier",
+      "public-hr",
+      "bureaucratic-behavior"
+    ],
+    "entryCount": 49,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-15",
     "generatedAt": "2026-10-15T22:35:50.886Z",
     "topicLabels": [

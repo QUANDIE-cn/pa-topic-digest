@@ -1,0 +1,2147 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T22:31:29.567Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-10-10",
+  "stats": {
+    "entries": 53,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "methodology-frontier",
+      "label": "研究方法与方法论前沿",
+      "summary": "实验、因果推断、文本与大数据方法在公共管理研究中的应用与争论。",
+      "kind": "最新",
+      "hotScore": 4.41,
+      "entryCount": 6,
+      "recent3Count": 1,
+      "outletCount": 6,
+      "typeBreakdown": {
+        "journal": 4,
+        "cnjournal": 2,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《公共行政研究与理论杂志》",
+          "count": 1
+        },
+        {
+          "name": "《公共管理评论（英国）》",
+          "count": 1
+        },
+        {
+          "name": "美国《公共行政评论》",
+          "count": 1
+        },
+        {
+          "name": "《政策与政治》",
+          "count": 1
+        },
+        {
+          "name": "《中国行政管理》",
+          "count": 1
+        },
+        {
+          "name": "《公共管理学报》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 6 条，覆盖 6 个来源（国际顶刊 4 篇 / 中文动态 0 条 / 政策文件 0 条），其中 1 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1093/jopart/muag032",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpart",
+          "outlet": "Journal of Public Administration Research and Theory",
+          "outletZh": "《公共行政研究与理论杂志》",
+          "title": "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services",
+          "abstract": "Abstract Predictive algorithms are increasingly used to support frontline decision-making in public administration, but evidence remains limited on how they affect bureaucratic capacity. This study examines county-level adoption of predictive screening tools in U.S. Child Protective Services using NCANDS data (2010–2023) and a stacked difference-in-differences design. Leveraging staggered adoption, I find no change in the total number of investigations opened and a sizable decline (about 15%) in the share of investigations that are substantiated. These results are inconsistent with operational capacity gains and more consistent with misclassification that erodes analytical capacity. These findings are consistent with a mechanism of routinized deference: under workload and accountability pressures, algorithmic recommendations can become procedurally defensible defaults. Overall, this stud…",
+          "authors": [
+            "Jiaen Wu"
+          ],
+          "publishedAt": "2026-10-16",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1093/jopart/muag032",
+          "doi": "10.1093/jopart/muag032",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "digital-government",
+            "accountability-corruption",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "数字政府与算法治理",
+            "问责、廉政与反腐败",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 2,
+            "digital-government": 1,
+            "accountability-corruption": 1,
+            "methodology-frontier": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、数字政府与算法治理、问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1080/14719037.2026.2745616",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "pmr",
+          "outlet": "Public Management Review",
+          "outletZh": "《公共管理评论（英国）》",
+          "title": "Evaluating the validity of performance measurement systems in law enforcement: a pragmatic constructivism approach",
+          "abstract": "",
+          "authors": [
+            "Adel AlSaqri",
+            "Ahmed Abdel-Maksoud",
+            "Rashed A. Alzahmi",
+            "Graham Manville",
+            "Mike Perkins"
+          ],
+          "publishedAt": "2026-10-13",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/14719037.2026.2745616",
+          "doi": "10.1080/14719037.2026.2745616",
+          "tagIds": [
+            "performance-management",
+            "regulation-governance",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "绩效管理与政府效能",
+            "监管治理与规制改革",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "performance-management": 2,
+            "regulation-governance": 1,
+            "methodology-frontier": 1
+          },
+          "summaryZh": "涉及绩效管理与政府效能、监管治理与规制改革、研究方法与方法论前沿"
+        },
+        {
+          "id": "doi:10.1111/puar.70226",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Promises, Threats, and Norms: A Mixed Methods Study on Bureaucratic Support for Public Participation",
+          "abstract": "ABSTRACT Public participation can enhance policy quality and democratic legitimacy but may threaten bureaucratic control. We hypothesize that bureaucratic support for participation is higher when policies are less complex and participants are broadly representative. Using a mixed‐methods design involving Indonesian local public servants, we pursue complementarity by combining a 2 × 2 vignette‐based survey experiment with a Gioia analysis of qualitative reflections to explain the experimental results and further illuminate how bureaucrats evaluate participation. The experiment shows that participant representativeness significantly increases support, whereas policy complexity has no statistically significant effect. Integrating the experimental and qualitative data through joint displays reveals that bureaucrats rejecting participation frequently cite participant‐related risks, whereas su…",
+          "authors": [
+            "Jesse W. Campbell",
+            "Oscar Radyan Danar",
+            "Sanjay K. Pandey"
+          ],
+          "publishedAt": "2026-10-12",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70226",
+          "doi": "10.1111/puar.70226",
+          "tagIds": [
+            "methodology-frontier",
+            "citizen-participation",
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "公民参与与共同生产",
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "methodology-frontier": 4,
+            "citizen-participation": 3,
+            "bureaucratic-behavior": 1
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、公民参与与共同生产、官僚行为与公共服务动机"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000093",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "How cultural world views moderate policy framing on Universal Basic Income",
+          "abstract": "Universal Basic Income (UBI) has gained global attention as a potential policy response to the AI revolution, yet public support remains divided. While existing research highlights the role of political predisposition in shaping attitudes towards UBI, such explanations rely on the presence of partisan/ideological cues. In contexts where UBI is not yet politicized, ideological alignment may offer limited explanatory power. This article examines how individuals’ cultural predispositions, as conceptualized by Cultural Theory (CT), shape responses to different UBI framings in Taiwan, a non-Western democracy where partisan cues on UBI are less salient. Using an online survey experiment, the article tests how cultural world views interact with framing conditions to influence support for UBI. Findings demonstrate framing effects are conditioned by cultural orientations, supporting CT that indiv…",
+          "authors": [
+            "Wei-Ting Yen",
+            "Li-Yin Liu"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "month",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000093",
+          "doi": "10.1332/03055736y2026d000000093",
+          "tagIds": [
+            "methodology-frontier"
+          ],
+          "tags": [
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "methodology-frontier": 3
+          },
+          "summaryZh": "涉及研究方法与方法论前沿"
+        },
+        {
+          "id": "cnki:ZXGL:1pmqp6z",
+          "lang": "zh",
+          "sourceType": "cnjournal",
+          "sourceId": "cnki-zxgl",
+          "outlet": "中国行政管理",
+          "outletZh": "《中国行政管理》",
+          "publisher": "中国行政管理学会",
+          "title": "社区嵌入式“双龄共养”融合服务的核心架构与内在机理研究",
+          "abstract": "作为中国社会结构的本源性议题，“一老一小”照料问题直接关系到公共服务均衡供给与人民福祉的实质性提升。本文以温州市H区为案例，以界面治理理论为“元理论”分析框架，结合代际支持理论与社会交换理论，采用探索性单案例研究方法，系统剖析社区嵌入式养老托育融合服务的核心架构与内在机理。研究发现，“双龄共养”融合服务实为传统养老与托育服务界面经耦合重构形成的新型服务系统。该系统以家庭照料赤字为现实起点，推动“私...",
+          "authors": [
+            "金红磊",
+            "张鹏飞"
+          ],
+          "publishedAt": "2026-09-17",
+          "datePrecision": "day",
+          "windowDays": 45,
+          "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqM2iduXZP49TkxQHLEeZS0fn33_GRRamTBtRGCUg7HWYzDZ5dKFo32YZSL3sH8tc_FjNskhUbPNVPmSD4iYIruxcd6lE7MPSr2HzJ-M2Gzfxe5QVOumOSSJc6gtQ4YD_-SnrHsao2xW0XJko83E6MKV6TBEDn201Pg6oLxH9UqeUg==",
+          "doi": null,
+          "tagIds": [
+            "social-policy",
+            "grassroots-governance",
+            "public-service-delivery",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "社会政策与民生保障",
+            "基层治理与治理重心下移",
+            "公共服务供给与市场化",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "social-policy": 3,
+            "grassroots-governance": 1.5,
+            "public-service-delivery": 1.5,
+            "methodology-frontier": 1.5
+          },
+          "summaryZh": "涉及社会政策与民生保障、基层治理与治理重心下移、公共服务供给与市场化",
+          "carriedFrom": "2026-10-06"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "文本大模型在政策文本编码中的可靠性",
+          "theory": "测量理论 × 人机标注比较",
+          "method": "标注一致性检验 + 人机混合编码",
+          "data": "已有专家编码的政策文本语料作为基准"
+        },
+        {
+          "title": "行政数据的因果推断边界条件",
+          "theory": "因果推断 × 数据生成机制",
+          "method": "模拟研究 + 实证对照",
+          "data": "含已知处理效应的模拟数据与真实行政数据"
+        },
+        {
+          "title": "定性比较分析在公共管理中的使用规范",
+          "theory": "方法论文献计量",
+          "method": "系统综述 + 编码统计",
+          "data": "国内公共管理核心期刊近十年的 QCA 论文全集"
+        }
+      ]
+    },
+    {
+      "id": "bureaucratic-behavior",
+      "label": "官僚行为与公共服务动机",
+      "summary": "公务员与街头官僚的动机、裁量、代表性官僚制与行为公共管理研究。",
+      "kind": "最新",
+      "hotScore": 3.76,
+      "entryCount": 5,
+      "recent3Count": 3,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 5,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "美国《公共行政评论》",
+          "count": 4
+        },
+        {
+          "name": "《公共行政研究与理论杂志》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 5 条，覆盖 2 个来源（国际顶刊 5 篇 / 中文动态 0 条 / 政策文件 0 条），其中 3 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1111/puar.70232",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Institutional Amnesia and the Loss of “The Why Rationale” in Central Government Agencies",
+          "abstract": "ABSTRACT Data from 115 interviews conducted with officials in the Westminster systems of Australia, New Zealand, and the United Kingdom is used to substantiate a corrosive relationship between institutional amnesia and the ability of public servants to make sense of their organizational context. A process in which public servants question why the policies, procedures, and organizational frameworks that surround them is proposed as one medium through which this relationship operates. Four problematic effects produced by this relationship and process are subsequently analyzed: (1) public servants following but not understanding procedures, (2) inexplicable organizational aspects getting abandoned, (3) the layering of new organizational features on top of old ones, creating complexity, and (4) public service inefficiencies and associated public servant frustration. The article concludes wit…",
+          "authors": [
+            "Alastair Stark",
+            "Hridesh Gajural",
+            "Jack Corbett",
+            "Dennis C. Grube",
+            "Heather Lovell",
+            "Rodney J. Scott"
+          ],
+          "publishedAt": "2026-10-16",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70232",
+          "doi": "10.1111/puar.70232",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "intergovernmental",
+            "public-service-delivery",
+            "organization-institution"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "央地关系与府际协作",
+            "公共服务供给与市场化",
+            "组织理论与制度变迁"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 2,
+            "intergovernmental": 2,
+            "public-service-delivery": 2,
+            "organization-institution": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、央地关系与府际协作、公共服务供给与市场化"
+        },
+        {
+          "id": "doi:10.1093/jopart/muag032",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpart",
+          "outlet": "Journal of Public Administration Research and Theory",
+          "outletZh": "《公共行政研究与理论杂志》",
+          "title": "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services",
+          "abstract": "Abstract Predictive algorithms are increasingly used to support frontline decision-making in public administration, but evidence remains limited on how they affect bureaucratic capacity. This study examines county-level adoption of predictive screening tools in U.S. Child Protective Services using NCANDS data (2010–2023) and a stacked difference-in-differences design. Leveraging staggered adoption, I find no change in the total number of investigations opened and a sizable decline (about 15%) in the share of investigations that are substantiated. These results are inconsistent with operational capacity gains and more consistent with misclassification that erodes analytical capacity. These findings are consistent with a mechanism of routinized deference: under workload and accountability pressures, algorithmic recommendations can become procedurally defensible defaults. Overall, this stud…",
+          "authors": [
+            "Jiaen Wu"
+          ],
+          "publishedAt": "2026-10-16",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1093/jopart/muag032",
+          "doi": "10.1093/jopart/muag032",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "digital-government",
+            "accountability-corruption",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "数字政府与算法治理",
+            "问责、廉政与反腐败",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 2,
+            "digital-government": 1,
+            "accountability-corruption": 1,
+            "methodology-frontier": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、数字政府与算法治理、问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1111/puar.70223",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Between the Lines: Decoding Signaling Differences in Public and Private Sector Job Advertisements",
+          "abstract": "ABSTRACT To compete in the “war for talent,” public sector employers must demonstrate advantages over private employers. While public service motivation (PSM) predicts sector preference, scholars disagree on whether public employers (can) effectively signal PSM in job advertisements. Consequently, this article examines how public and private job advertisements differ in language. We collected 5000 advertisements from both sectors and performed natural language processing (NLP) and qualitative content analysis. Both sectors use specialized language that can narrow the applicant pool. PSM signals appear more often in the public sector, but affective motives are rarely communicated; instead, self‐sacrifice is framed as a legal obligation. Public sector advertisements adopt a rational tone instead of explaining purpose and societal value. Legally mandated, saturated signals may be perceived …",
+          "authors": [
+            "Nico Gießmann",
+            "Nicolas Drathschmidt"
+          ],
+          "publishedAt": "2026-10-14",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70223",
+          "doi": "10.1111/puar.70223",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "public-service-delivery",
+            "public-hr"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公共服务供给与市场化",
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 2,
+            "public-service-delivery": 2,
+            "public-hr": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公共服务供给与市场化、公共部门人力资源与人事管理"
+        },
+        {
+          "id": "doi:10.1111/puar.70220",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Governing Reserves: Managerial Discretion and Government Creditworthiness",
+          "abstract": "ABSTRACT A government's ability to generate surpluses and build reserves reflects prudent financial management, with the accumulation of reserves signaling sound budgeting practices. Reserves are essential for sound fiscal governance during economic downturns, and managerial discretion over these resources is crucial to minimizing disruptions in service delivery. While the counter‐cyclical benefits of formal reserves are well documented, less attention has been paid to the discretion managers retain over reserves. Using credit ratings as a proxy for creditworthiness, we find that managerial discretion over accumulated resources enhances fiscal flexibility and strengthens creditworthiness; however, the presence of formal reserves alone does not improve credit ratings. Our study contributes to an emerging literature exploring whether better financial reporting can help us understand the cr…",
+          "authors": [
+            "Sharon N. Kioko",
+            "Temirlan T. Moldogaziev"
+          ],
+          "publishedAt": "2026-10-12",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70220",
+          "doi": "10.1111/puar.70220",
+          "tagIds": [
+            "fiscal-budget",
+            "public-service-delivery",
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "财政预算与公共支出",
+            "公共服务供给与市场化",
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "fiscal-budget": 2,
+            "public-service-delivery": 2,
+            "bureaucratic-behavior": 1
+          },
+          "summaryZh": "涉及财政预算与公共支出、公共服务供给与市场化、官僚行为与公共服务动机"
+        },
+        {
+          "id": "doi:10.1111/puar.70226",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Promises, Threats, and Norms: A Mixed Methods Study on Bureaucratic Support for Public Participation",
+          "abstract": "ABSTRACT Public participation can enhance policy quality and democratic legitimacy but may threaten bureaucratic control. We hypothesize that bureaucratic support for participation is higher when policies are less complex and participants are broadly representative. Using a mixed‐methods design involving Indonesian local public servants, we pursue complementarity by combining a 2 × 2 vignette‐based survey experiment with a Gioia analysis of qualitative reflections to explain the experimental results and further illuminate how bureaucrats evaluate participation. The experiment shows that participant representativeness significantly increases support, whereas policy complexity has no statistically significant effect. Integrating the experimental and qualitative data through joint displays reveals that bureaucrats rejecting participation frequently cite participant‐related risks, whereas su…",
+          "authors": [
+            "Jesse W. Campbell",
+            "Oscar Radyan Danar",
+            "Sanjay K. Pandey"
+          ],
+          "publishedAt": "2026-10-12",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70226",
+          "doi": "10.1111/puar.70226",
+          "tagIds": [
+            "methodology-frontier",
+            "citizen-participation",
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "公民参与与共同生产",
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "methodology-frontier": 4,
+            "citizen-participation": 3,
+            "bureaucratic-behavior": 1
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、公民参与与共同生产、官僚行为与公共服务动机"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "公共服务动机与绩效的因果方向之辩",
+          "theory": "公共服务动机理论 × 社会交换",
+          "method": "交叉滞后面板模型／工具变量",
+          "data": "连续3年以上的公务员追踪调查"
+        },
+        {
+          "title": "代表性官僚制在基层执法中的实际效应",
+          "theory": "代表性官僚制 × 身份认同",
+          "method": "行政数据因果识别（RDD／事件研究）",
+          "data": "执法人员与辖区居民的人口结构匹配数据、执法处理结果"
+        },
+        {
+          "title": "一线人员的情绪劳动与倦怠前因",
+          "theory": "情绪劳动理论 × 工作要求—资源模型",
+          "method": "经验取样法（ESM）日记追踪",
+          "data": "窗口部门一线人员2~4周的每日多次自评"
+        }
+      ]
+    },
+    {
+      "id": "public-service-delivery",
+      "label": "公共服务供给与市场化",
+      "summary": "公共服务供给模式、政府购买、外包与公共服务均等化。",
+      "kind": "最新",
+      "hotScore": 3.53,
+      "entryCount": 5,
+      "recent3Count": 2,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 4,
+        "cnjournal": 1,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "美国《公共行政评论》",
+          "count": 3
+        },
+        {
+          "name": "《政策与政治》",
+          "count": 1
+        },
+        {
+          "name": "《中国行政管理》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 5 条，覆盖 3 个来源（国际顶刊 4 篇 / 中文动态 0 条 / 政策文件 0 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1111/puar.70232",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Institutional Amnesia and the Loss of “The Why Rationale” in Central Government Agencies",
+          "abstract": "ABSTRACT Data from 115 interviews conducted with officials in the Westminster systems of Australia, New Zealand, and the United Kingdom is used to substantiate a corrosive relationship between institutional amnesia and the ability of public servants to make sense of their organizational context. A process in which public servants question why the policies, procedures, and organizational frameworks that surround them is proposed as one medium through which this relationship operates. Four problematic effects produced by this relationship and process are subsequently analyzed: (1) public servants following but not understanding procedures, (2) inexplicable organizational aspects getting abandoned, (3) the layering of new organizational features on top of old ones, creating complexity, and (4) public service inefficiencies and associated public servant frustration. The article concludes wit…",
+          "authors": [
+            "Alastair Stark",
+            "Hridesh Gajural",
+            "Jack Corbett",
+            "Dennis C. Grube",
+            "Heather Lovell",
+            "Rodney J. Scott"
+          ],
+          "publishedAt": "2026-10-16",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70232",
+          "doi": "10.1111/puar.70232",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "intergovernmental",
+            "public-service-delivery",
+            "organization-institution"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "央地关系与府际协作",
+            "公共服务供给与市场化",
+            "组织理论与制度变迁"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 2,
+            "intergovernmental": 2,
+            "public-service-delivery": 2,
+            "organization-institution": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、央地关系与府际协作、公共服务供给与市场化"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000094",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "Explaining the policy advisory success of non-governmental organisations in unlikely settings: a complexity-oriented approach",
+          "abstract": "The aim of this study is to explore under what conditions policy actors are able to achieve advisory influence in a contested policy-making space. Specifically, it focuses on the factors leading to the success of a set of advisory actors typically assumed to be among the most disadvantaged – non-governmental organisations (NGOs). The article departs from dominant approaches to studying influence relying on theoretical exclusivity and argues for the need to adopt more flexible complexity-oriented analytical styles. To illustrate this, the study uses the extreme case of Bulgaria’s social service delivery reform. The analysis of the case provides strong support for the need to employ greater analytic eclecticism rather than rigid theoretical assumptions based on a single explanatory theory in making sense of advisory influence. It highlights the critical role of individual agents in leading…",
+          "authors": [
+            "Denitsa Marchevska"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "month",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000094",
+          "doi": "10.1332/03055736y2026d000000094",
+          "tagIds": [
+            "public-service-delivery"
+          ],
+          "tags": [
+            "公共服务供给与市场化"
+          ],
+          "tagScore": {
+            "public-service-delivery": 2
+          },
+          "summaryZh": "涉及公共服务供给与市场化"
+        },
+        {
+          "id": "cnki:ZXGL:1pmqp6z",
+          "lang": "zh",
+          "sourceType": "cnjournal",
+          "sourceId": "cnki-zxgl",
+          "outlet": "中国行政管理",
+          "outletZh": "《中国行政管理》",
+          "publisher": "中国行政管理学会",
+          "title": "社区嵌入式“双龄共养”融合服务的核心架构与内在机理研究",
+          "abstract": "作为中国社会结构的本源性议题，“一老一小”照料问题直接关系到公共服务均衡供给与人民福祉的实质性提升。本文以温州市H区为案例，以界面治理理论为“元理论”分析框架，结合代际支持理论与社会交换理论，采用探索性单案例研究方法，系统剖析社区嵌入式养老托育融合服务的核心架构与内在机理。研究发现，“双龄共养”融合服务实为传统养老与托育服务界面经耦合重构形成的新型服务系统。该系统以家庭照料赤字为现实起点，推动“私...",
+          "authors": [
+            "金红磊",
+            "张鹏飞"
+          ],
+          "publishedAt": "2026-09-17",
+          "datePrecision": "day",
+          "windowDays": 45,
+          "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqM2iduXZP49TkxQHLEeZS0fn33_GRRamTBtRGCUg7HWYzDZ5dKFo32YZSL3sH8tc_FjNskhUbPNVPmSD4iYIruxcd6lE7MPSr2HzJ-M2Gzfxe5QVOumOSSJc6gtQ4YD_-SnrHsao2xW0XJko83E6MKV6TBEDn201Pg6oLxH9UqeUg==",
+          "doi": null,
+          "tagIds": [
+            "social-policy",
+            "grassroots-governance",
+            "public-service-delivery",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "社会政策与民生保障",
+            "基层治理与治理重心下移",
+            "公共服务供给与市场化",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "social-policy": 3,
+            "grassroots-governance": 1.5,
+            "public-service-delivery": 1.5,
+            "methodology-frontier": 1.5
+          },
+          "summaryZh": "涉及社会政策与民生保障、基层治理与治理重心下移、公共服务供给与市场化",
+          "carriedFrom": "2026-10-06"
+        },
+        {
+          "id": "doi:10.1111/puar.70223",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Between the Lines: Decoding Signaling Differences in Public and Private Sector Job Advertisements",
+          "abstract": "ABSTRACT To compete in the “war for talent,” public sector employers must demonstrate advantages over private employers. While public service motivation (PSM) predicts sector preference, scholars disagree on whether public employers (can) effectively signal PSM in job advertisements. Consequently, this article examines how public and private job advertisements differ in language. We collected 5000 advertisements from both sectors and performed natural language processing (NLP) and qualitative content analysis. Both sectors use specialized language that can narrow the applicant pool. PSM signals appear more often in the public sector, but affective motives are rarely communicated; instead, self‐sacrifice is framed as a legal obligation. Public sector advertisements adopt a rational tone instead of explaining purpose and societal value. Legally mandated, saturated signals may be perceived …",
+          "authors": [
+            "Nico Gießmann",
+            "Nicolas Drathschmidt"
+          ],
+          "publishedAt": "2026-10-14",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70223",
+          "doi": "10.1111/puar.70223",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "public-service-delivery",
+            "public-hr"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公共服务供给与市场化",
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 2,
+            "public-service-delivery": 2,
+            "public-hr": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公共服务供给与市场化、公共部门人力资源与人事管理"
+        },
+        {
+          "id": "doi:10.1111/puar.70220",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Governing Reserves: Managerial Discretion and Government Creditworthiness",
+          "abstract": "ABSTRACT A government's ability to generate surpluses and build reserves reflects prudent financial management, with the accumulation of reserves signaling sound budgeting practices. Reserves are essential for sound fiscal governance during economic downturns, and managerial discretion over these resources is crucial to minimizing disruptions in service delivery. While the counter‐cyclical benefits of formal reserves are well documented, less attention has been paid to the discretion managers retain over reserves. Using credit ratings as a proxy for creditworthiness, we find that managerial discretion over accumulated resources enhances fiscal flexibility and strengthens creditworthiness; however, the presence of formal reserves alone does not improve credit ratings. Our study contributes to an emerging literature exploring whether better financial reporting can help us understand the cr…",
+          "authors": [
+            "Sharon N. Kioko",
+            "Temirlan T. Moldogaziev"
+          ],
+          "publishedAt": "2026-10-12",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70220",
+          "doi": "10.1111/puar.70220",
+          "tagIds": [
+            "fiscal-budget",
+            "public-service-delivery",
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "财政预算与公共支出",
+            "公共服务供给与市场化",
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "fiscal-budget": 2,
+            "public-service-delivery": 2,
+            "bureaucratic-behavior": 1
+          },
+          "summaryZh": "涉及财政预算与公共支出、公共服务供给与市场化、官僚行为与公共服务动机"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "政府购买服务的质量控制困境",
+          "theory": "契约理论 × 质量不可观测性",
+          "method": "合同文本分析 + 服务对象调查",
+          "data": "购买服务合同条款与第三方服务质量评价数据"
+        },
+        {
+          "title": "基本公共服务均等化的可达性测量",
+          "theory": "空间正义 × 公共服务可达性",
+          "method": "GIS 空间分析 + 人口数据",
+          "data": "服务设施点位、交通网络与人口分布栅格数据"
+        },
+        {
+          "title": "公共服务满意度的参照点效应",
+          "theory": "期望—失验模型 × 行为公共管理",
+          "method": "调查实验（参照点随机化）",
+          "data": "线上样本的服务满意度随机化实验"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "cssn:20261017_y0bquz",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "山河见证初心，南沟苹果正红",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-17",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261017_6073799.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261017_ofvvb4",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "解码“延安”：基层党建驱动中国式现代化的学理逻辑",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-17",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261017_6073769.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1111/puar.70232",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Institutional Amnesia and the Loss of “The Why Rationale” in Central Government Agencies",
+      "abstract": "ABSTRACT Data from 115 interviews conducted with officials in the Westminster systems of Australia, New Zealand, and the United Kingdom is used to substantiate a corrosive relationship between institutional amnesia and the ability of public servants to make sense of their organizational context. A process in which public servants question why the policies, procedures, and organizational frameworks that surround them is proposed as one medium through which this relationship operates. Four problematic effects produced by this relationship and process are subsequently analyzed: (1) public servants following but not understanding procedures, (2) inexplicable organizational aspects getting abandoned, (3) the layering of new organizational features on top of old ones, creating complexity, and (4) public service inefficiencies and associated public servant frustration. The article concludes wit…",
+      "authors": [
+        "Alastair Stark",
+        "Hridesh Gajural",
+        "Jack Corbett",
+        "Dennis C. Grube",
+        "Heather Lovell",
+        "Rodney J. Scott"
+      ],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70232",
+      "doi": "10.1111/puar.70232",
+      "tagIds": [
+        "bureaucratic-behavior",
+        "intergovernmental",
+        "public-service-delivery",
+        "organization-institution"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机",
+        "央地关系与府际协作",
+        "公共服务供给与市场化",
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 2,
+        "intergovernmental": 2,
+        "public-service-delivery": 2,
+        "organization-institution": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机、央地关系与府际协作、公共服务供给与市场化"
+    },
+    {
+      "id": "doi:10.1093/jopart/muag032",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpart",
+      "outlet": "Journal of Public Administration Research and Theory",
+      "outletZh": "《公共行政研究与理论杂志》",
+      "title": "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services",
+      "abstract": "Abstract Predictive algorithms are increasingly used to support frontline decision-making in public administration, but evidence remains limited on how they affect bureaucratic capacity. This study examines county-level adoption of predictive screening tools in U.S. Child Protective Services using NCANDS data (2010–2023) and a stacked difference-in-differences design. Leveraging staggered adoption, I find no change in the total number of investigations opened and a sizable decline (about 15%) in the share of investigations that are substantiated. These results are inconsistent with operational capacity gains and more consistent with misclassification that erodes analytical capacity. These findings are consistent with a mechanism of routinized deference: under workload and accountability pressures, algorithmic recommendations can become procedurally defensible defaults. Overall, this stud…",
+      "authors": [
+        "Jiaen Wu"
+      ],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1093/jopart/muag032",
+      "doi": "10.1093/jopart/muag032",
+      "tagIds": [
+        "bureaucratic-behavior",
+        "digital-government",
+        "accountability-corruption",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机",
+        "数字政府与算法治理",
+        "问责、廉政与反腐败",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 2,
+        "digital-government": 1,
+        "accountability-corruption": 1,
+        "methodology-frontier": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机、数字政府与算法治理、问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1111/gove.70156",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "Regulatory Agencies Under Mutating Populism in Office: Insights From Italy (1990–2025)",
+      "abstract": "ABSTRACT Our paper builds a bridge between the emerging strand of research on public administration under populist rule and the established literature on delegation to independent regulatory authorities (IRAs). We focus on Italy, a critical case in Western Europe, which between 2001 and 2025 experienced six coalition governments dominated or strongly influenced by populist parties of different ideological orientations. Findings highlight that delegation to IRAs is remarkably resilient once institutionalized, even under sustained political contestation. Despite repeated populist participation in government since the early 2000s, Italian IRAs have not been subject to systematic de‐delegation or statutory retrenchment. However, the preservation of formal independence has not implied the absence of means for political control. Our analysis shows that populist governments have systematically …",
+      "authors": [
+        "Fabrizio Di Mascio",
+        "Giulio Francisci",
+        "Martino Maggetti",
+        "Alessandro Natalini"
+      ],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70156",
+      "doi": "10.1111/gove.70156",
+      "tagIds": [
+        "regulation-governance"
+      ],
+      "tags": [
+        "监管治理与规制改革"
+      ],
+      "tagScore": {
+        "regulation-governance": 1
+      },
+      "summaryZh": "涉及监管治理与规制改革"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2749676",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Mapping empathy in policy work: how public servants understand and use it",
+      "abstract": "",
+      "authors": [
+        "Assel Mussagulova",
+        "Colette Einfeld"
+      ],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2749676",
+      "doi": "10.1080/14719037.2026.2749676",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2748379",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Unpacking the causal complexity of collaborative effectiveness in urban marginalized community regeneration: a fuzzy-set configurational analysis",
+      "abstract": "",
+      "authors": [
+        "Chunyu Shi",
+        "Yanfeng Wang",
+        "Chunyao Li"
+      ],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2748379",
+      "doi": "10.1080/14719037.2026.2748379",
+      "tagIds": [
+        "performance-management"
+      ],
+      "tags": [
+        "绩效管理与政府效能"
+      ],
+      "tagScore": {
+        "performance-management": 1
+      },
+      "summaryZh": "涉及绩效管理与政府效能"
+    },
+    {
+      "id": "cssn:20261016_scg2ue",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "第六届中国与中东欧国家合作“西部论坛”召开",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073750.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_11lpcv2",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "守正创新推进新时代廉洁文化建设",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073746.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_xzfz2c",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国社会科学院第37届老年运动会趣味赛举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073739.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_1v1dp8d",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "第五届中国考古学大会在山西运城举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073738.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_1a7bjw0",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "关注人机共生时代创作的多元面向",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073725.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_1bcc54q",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "深化中墨文明对话 共筑全球南方知识桥梁",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073726.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_7umj5r",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中俄携手共育高层次音乐人才",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073651.shtml",
+      "doi": null,
+      "tagIds": [
+        "public-hr"
+      ],
+      "tags": [
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "public-hr": 1.5
+      },
+      "summaryZh": "涉及公共部门人力资源与人事管理"
+    },
+    {
+      "id": "cssn:20261016_yq6e48",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "重估情绪经济时代的文艺生产",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073650.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_1h23bcv",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“非洲地区传染病风险与健康防护”专题讲座在京举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073642.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_plj52x",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "茶文化赋能边疆基层治理的德宏实践",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073637.shtml",
+      "doi": null,
+      "tagIds": [
+        "grassroots-governance"
+      ],
+      "tags": [
+        "基层治理与治理重心下移"
+      ],
+      "tagScore": {
+        "grassroots-governance": 1.5
+      },
+      "summaryZh": "涉及基层治理与治理重心下移"
+    },
+    {
+      "id": "cssn:20261016_1dl6sk2",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "传承·创新·规范：青年学者的职责与使命",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073615.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_1yy6ex2",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "菊花须插满头归",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073611.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_ieprs0",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "千佛山上又重阳",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073610.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_1q58gom",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以文明实践成果推动思政课建设",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073598.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_1axmgpa",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以文明史阐释中国道路与政党使命",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073596.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_c2jn0u",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "聚焦经济高质量发展重大命题",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073597.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_15ovw1u",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "不断丰富长征史研究图景",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073594.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_1ya7wuw",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "将党的创新理论融入思政课",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073595.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_twqeea",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "深化数字劳动与国家治理研究",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073593.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261016_2um7un",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "扎根实践创新经济学理论",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261016_6073592.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1111/puar.70231",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Steering and Setting Free: Insights From a 20‐Year Retrospective Case Study of a Security and Justice Organization's Digital Transformation",
+      "abstract": "ABSTRACT Advances in digital technologies are expected to fundamentally change how organizations operate and create value. Empirical studies show that public organizations face difficulties organizing and sustaining this digital transformation. To better understand these challenges, this study examines the organizational mechanisms underlying digital transformation in a public organization over the past 20 years. Our findings show that this transformation was primarily enabled by an emergent change approach, with influential planned changes occurring only occasionally. We identify the organizational mechanisms underlying both types of change and analyze their interdependence. Our findings suggest that both emergent and planned change approaches may be needed to enable digital transformation in public organizations effectively, but that combining them is complex in practice.",
+      "authors": [
+        "Friso Selten",
+        "Dorus van Loo",
+        "Bram Klievink"
+      ],
+      "publishedAt": "2026-10-15",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70231",
+      "doi": "10.1111/puar.70231",
+      "tagIds": [
+        "digital-government",
+        "organization-institution"
+      ],
+      "tags": [
+        "数字政府与算法治理",
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "digital-government": 3,
+        "organization-institution": 3
+      },
+      "summaryZh": "涉及数字政府与算法治理、组织理论与制度变迁"
+    },
+    {
+      "id": "doi:10.1111/gove.70158",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "Rethinking Multilevel Governance. By ArthurBenz. Cheltenham, UK: Edward Elgar Publishing, 2024. 208 pp. ISBN: 978‐1‐03‐530628‐2",
+      "abstract": "",
+      "authors": [
+        "Miguel Matos Torres"
+      ],
+      "publishedAt": "2026-10-15",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70158",
+      "doi": "10.1111/gove.70158",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 1
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2748381",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees",
+      "abstract": "",
+      "authors": [
+        "Evelyn Rodriguez-Plesa",
+        "Ana-Maria Dimand",
+        "Mohamad G. Alkadry",
+        "Sawsan Abutabenjeh"
+      ],
+      "publishedAt": "2026-10-15",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2748381",
+      "doi": "10.1080/14719037.2026.2748381",
+      "tagIds": [
+        "public-hr"
+      ],
+      "tags": [
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "public-hr": 1
+      },
+      "summaryZh": "涉及公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2747053",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Staging the invisible: tracing public value co-creation through sub-micro infrastructures configured by information coordination organizations in China’s disaster information services",
+      "abstract": "",
+      "authors": [
+        "Qingyue Du",
+        "Ziqiang Han"
+      ],
+      "publishedAt": "2026-10-15",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2747053",
+      "doi": "10.1080/14719037.2026.2747053",
+      "tagIds": [
+        "emergency-resilience",
+        "citizen-participation"
+      ],
+      "tags": [
+        "应急管理与韧性治理",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及应急管理与韧性治理、公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1111/puar.70223",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Between the Lines: Decoding Signaling Differences in Public and Private Sector Job Advertisements",
+      "abstract": "ABSTRACT To compete in the “war for talent,” public sector employers must demonstrate advantages over private employers. While public service motivation (PSM) predicts sector preference, scholars disagree on whether public employers (can) effectively signal PSM in job advertisements. Consequently, this article examines how public and private job advertisements differ in language. We collected 5000 advertisements from both sectors and performed natural language processing (NLP) and qualitative content analysis. Both sectors use specialized language that can narrow the applicant pool. PSM signals appear more often in the public sector, but affective motives are rarely communicated; instead, self‐sacrifice is framed as a legal obligation. Public sector advertisements adopt a rational tone instead of explaining purpose and societal value. Legally mandated, saturated signals may be perceived …",
+      "authors": [
+        "Nico Gießmann",
+        "Nicolas Drathschmidt"
+      ],
+      "publishedAt": "2026-10-14",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70223",
+      "doi": "10.1111/puar.70223",
+      "tagIds": [
+        "bureaucratic-behavior",
+        "public-service-delivery",
+        "public-hr"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机",
+        "公共服务供给与市场化",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 2,
+        "public-service-delivery": 2,
+        "public-hr": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机、公共服务供给与市场化、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2748382",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
+      "abstract": "",
+      "authors": [
+        "Heewon Lee",
+        "Tian Tang"
+      ],
+      "publishedAt": "2026-10-14",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2748382",
+      "doi": "10.1080/14719037.2026.2748382",
+      "tagIds": [
+        "collaborative-governance",
+        "emergency-resilience"
+      ],
+      "tags": [
+        "协同治理与跨部门合作",
+        "应急管理与韧性治理"
+      ],
+      "tagScore": {
+        "collaborative-governance": 1,
+        "emergency-resilience": 1
+      },
+      "summaryZh": "涉及协同治理与跨部门合作、应急管理与韧性治理"
+    },
+    {
+      "id": "cssn:20261014_1r58mzg",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "深刻把握习近平党建思想的重大原创性贡献",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261014_6073242.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2745616",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Evaluating the validity of performance measurement systems in law enforcement: a pragmatic constructivism approach",
+      "abstract": "",
+      "authors": [
+        "Adel AlSaqri",
+        "Ahmed Abdel-Maksoud",
+        "Rashed A. Alzahmi",
+        "Graham Manville",
+        "Mike Perkins"
+      ],
+      "publishedAt": "2026-10-13",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2745616",
+      "doi": "10.1080/14719037.2026.2745616",
+      "tagIds": [
+        "performance-management",
+        "regulation-governance",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "绩效管理与政府效能",
+        "监管治理与规制改革",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "performance-management": 2,
+        "regulation-governance": 1,
+        "methodology-frontier": 1
+      },
+      "summaryZh": "涉及绩效管理与政府效能、监管治理与规制改革、研究方法与方法论前沿"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2738177",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil",
+      "abstract": "",
+      "authors": [
+        "Paulo Arvate",
+        "Sandro Cabral",
+        "Trang Hoang",
+        "Meghna Sabharwal"
+      ],
+      "publishedAt": "2026-10-13",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2738177",
+      "doi": "10.1080/14719037.2026.2738177",
+      "tagIds": [
+        "performance-management"
+      ],
+      "tags": [
+        "绩效管理与政府效能"
+      ],
+      "tagScore": {
+        "performance-management": 1
+      },
+      "summaryZh": "涉及绩效管理与政府效能"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101329",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "Transcending sports: public demand for gender equity in name, image, and likeness (NIL) policy and its connection to the diversity, equity, and inclusion (DEI) policy debate in higher education",
+      "abstract": "Abstract Public demand suggests that salience and opinion shape how individuals interpret policy, creating openings for framing and value branding to influence those views. I apply this framework to assess public demand for gender equity in name, image, and likeness (NIL) policy and examine how it aligns with the broader debate in higher education concerning diversity, equity, and inclusion (DEI). Using survey data from 1,510 respondents across five states, I find that attitudes toward DEI significantly structure views of gender equity in NIL. Public demand for equity in NIL follows traditional predictors, including political ideology, age, education, and gender, while support for college sports has an unexpected negative association. I also identify foundational connections between NIL and support for regulating diversity and equity in higher education, suggesting that NIL functions as …",
+      "authors": [
+        "Darrell Lovell"
+      ],
+      "publishedAt": "2026-10-13",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101329",
+      "doi": "10.1017/s0143814x26101329",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1111/puar.70220",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Governing Reserves: Managerial Discretion and Government Creditworthiness",
+      "abstract": "ABSTRACT A government's ability to generate surpluses and build reserves reflects prudent financial management, with the accumulation of reserves signaling sound budgeting practices. Reserves are essential for sound fiscal governance during economic downturns, and managerial discretion over these resources is crucial to minimizing disruptions in service delivery. While the counter‐cyclical benefits of formal reserves are well documented, less attention has been paid to the discretion managers retain over reserves. Using credit ratings as a proxy for creditworthiness, we find that managerial discretion over accumulated resources enhances fiscal flexibility and strengthens creditworthiness; however, the presence of formal reserves alone does not improve credit ratings. Our study contributes to an emerging literature exploring whether better financial reporting can help us understand the cr…",
+      "authors": [
+        "Sharon N. Kioko",
+        "Temirlan T. Moldogaziev"
+      ],
+      "publishedAt": "2026-10-12",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70220",
+      "doi": "10.1111/puar.70220",
+      "tagIds": [
+        "fiscal-budget",
+        "public-service-delivery",
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "财政预算与公共支出",
+        "公共服务供给与市场化",
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "fiscal-budget": 2,
+        "public-service-delivery": 2,
+        "bureaucratic-behavior": 1
+      },
+      "summaryZh": "涉及财政预算与公共支出、公共服务供给与市场化、官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1111/puar.70226",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Promises, Threats, and Norms: A Mixed Methods Study on Bureaucratic Support for Public Participation",
+      "abstract": "ABSTRACT Public participation can enhance policy quality and democratic legitimacy but may threaten bureaucratic control. We hypothesize that bureaucratic support for participation is higher when policies are less complex and participants are broadly representative. Using a mixed‐methods design involving Indonesian local public servants, we pursue complementarity by combining a 2 × 2 vignette‐based survey experiment with a Gioia analysis of qualitative reflections to explain the experimental results and further illuminate how bureaucrats evaluate participation. The experiment shows that participant representativeness significantly increases support, whereas policy complexity has no statistically significant effect. Integrating the experimental and qualitative data through joint displays reveals that bureaucrats rejecting participation frequently cite participant‐related risks, whereas su…",
+      "authors": [
+        "Jesse W. Campbell",
+        "Oscar Radyan Danar",
+        "Sanjay K. Pandey"
+      ],
+      "publishedAt": "2026-10-12",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70226",
+      "doi": "10.1111/puar.70226",
+      "tagIds": [
+        "methodology-frontier",
+        "citizen-participation",
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "研究方法与方法论前沿",
+        "公民参与与共同生产",
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "methodology-frontier": 4,
+        "citizen-participation": 3,
+        "bureaucratic-behavior": 1
+      },
+      "summaryZh": "涉及研究方法与方法论前沿、公民参与与共同生产、官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1111/puar.70217",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Reply to Kettl: The Field of Public Administration in America and an Unpreparedness of Its Own Making?",
+      "abstract": "ABSTRACT This Reply suggests the sub‐field of U.S.‐specific public administration is under‐prepared to address democratic deconsolidation given its multi‐decade distance from the disciplines of comparative politics and political economy and from the sub‐fields of comparative and development public administration. The narrowness of what is understand as “good” public administration by U.S.‐based scholars has largely excluded cross‐disciplinary and non‐U.S. intellectual histories which, if understood, would have deepened sub‐field intellectual depth and breadth but also, better prepared the sub‐field for America's current administrative state. This Reply suggests the value of drawing upon post‐WWII administration‐linked trends in other disciplines and upon links between administration and prior democratic deconsolidations (the U.S. is not unique). This includes the sub‐field's historical r…",
+      "authors": [
+        "Kim Moloney"
+      ],
+      "publishedAt": "2026-10-11",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70217",
+      "doi": "10.1111/puar.70217",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000093",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "How cultural world views moderate policy framing on Universal Basic Income",
+      "abstract": "Universal Basic Income (UBI) has gained global attention as a potential policy response to the AI revolution, yet public support remains divided. While existing research highlights the role of political predisposition in shaping attitudes towards UBI, such explanations rely on the presence of partisan/ideological cues. In contexts where UBI is not yet politicized, ideological alignment may offer limited explanatory power. This article examines how individuals’ cultural predispositions, as conceptualized by Cultural Theory (CT), shape responses to different UBI framings in Taiwan, a non-Western democracy where partisan cues on UBI are less salient. Using an online survey experiment, the article tests how cultural world views interact with framing conditions to influence support for UBI. Findings demonstrate framing effects are conditioned by cultural orientations, supporting CT that indiv…",
+      "authors": [
+        "Wei-Ting Yen",
+        "Li-Yin Liu"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000093",
+      "doi": "10.1332/03055736y2026d000000093",
+      "tagIds": [
+        "methodology-frontier"
+      ],
+      "tags": [
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "methodology-frontier": 3
+      },
+      "summaryZh": "涉及研究方法与方法论前沿"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000102",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Power, politics, and policy agency: towards a Functional Theory of Agency",
+      "abstract": "This article examines how political position shapes policy agency in local policy making. Specifically, it asks: what patterns of policy agency functions do municipal councillors ( regidores ) exhibit in the local policy process? Drawing on the Functional Theory of Agency framework and a sequential mixed-methods design combining a national survey of Mexican municipal councillors with follow-up semi-structured interviews, we analyse how councillors exercise four modes of policy agency: steering, innovation, intermediation, and intelligence. Our findings reveal systematic differences between majoritarian and opposition councillors. Majoritarian councillors dominate commissions, align with mayoral priorities, and primarily act as steerers and brokers of executive policy. By contrast, opposition councillors, who are often excluded from formal decision-making arenas, engage in disruptive inno…",
+      "authors": [
+        "Oliver Meza",
+        "Ana Cecilia de Alba"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000102",
+      "doi": "10.1332/03055736y2026d000000102",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000094",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Explaining the policy advisory success of non-governmental organisations in unlikely settings: a complexity-oriented approach",
+      "abstract": "The aim of this study is to explore under what conditions policy actors are able to achieve advisory influence in a contested policy-making space. Specifically, it focuses on the factors leading to the success of a set of advisory actors typically assumed to be among the most disadvantaged – non-governmental organisations (NGOs). The article departs from dominant approaches to studying influence relying on theoretical exclusivity and argues for the need to adopt more flexible complexity-oriented analytical styles. To illustrate this, the study uses the extreme case of Bulgaria’s social service delivery reform. The analysis of the case provides strong support for the need to employ greater analytic eclecticism rather than rigid theoretical assumptions based on a single explanatory theory in making sense of advisory influence. It highlights the critical role of individual agents in leading…",
+      "authors": [
+        "Denitsa Marchevska"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000094",
+      "doi": "10.1332/03055736y2026d000000094",
+      "tagIds": [
+        "public-service-delivery"
+      ],
+      "tags": [
+        "公共服务供给与市场化"
+      ],
+      "tagScore": {
+        "public-service-delivery": 2
+      },
+      "summaryZh": "涉及公共服务供给与市场化"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000100",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Extending the Advocacy Coalition Framework: measuring within-coalition belief variation in offshore wind policy conflicts",
+      "abstract": "This study advances the Advocacy Coalition Framework (ACF) literature by introducing new approaches to capture variation in actors’ belief expression and to analyse how such expressions are constrained by actors’ organisational affiliations. Moving beyond existing accounts of constrained belief expression, it reconceptualises constraint as measurable differences in the breadth and intensity of beliefs articulated by actors within a coalition. Drawing on debates over US offshore wind energy, the study examines how organisational affiliation shapes patterns of constrained belief expression in public discourse. To do this, the article develops two quantitative metrics – the Belief Variety Score and the Belief Extreme Score – which capture the range and intensity of belief expression within coalitions. These are complemented by network-based measures of cohesion across actor types. The findi…",
+      "authors": [
+        "Aerang Nam"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000100",
+      "doi": "10.1332/03055736y2026d000000100",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000101",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "A systematic review of policy conflict and its (un)productive consequences",
+      "abstract": "Like most collective decision-making processes, the formulation, adaptation, and implementation of public policies are not immune to conflict. Recently, various authors have lamented the lack of explicit attention to conflict in the policy process and called for more research into how policy conflicts unfold and what consequences they produce. This article contributes to that scholarship in two ways: first, through a systematic discussion of empirical studies on the consequences of policy conflict since 2000; and second, by bringing into conversation insights that are currently dispersed across fragmented research traditions. The systematic literature review focuses on three aspects: how and where policy conflicts have been studied; whether and how they have been conceptualised; and what their consequences are. In doing so, the article highlights the often overlooked productive potential…",
+      "authors": [
+        "Ilana Schröder",
+        "Eva E.A. Wolf"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000101",
+      "doi": "10.1332/03055736y2026d000000101",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 4
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000092",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Not yet partisan: Cultural Theory explains attitudes about solar radiation management in the US",
+      "abstract": "This article investigates the role of Cultural Theory (CT) in explaining attitudes towards solar radiation management (SRM) in the US. Partisanship traditionally provides a clear lens through which to view favourability to climate change policies; however, the lack of partisan attention to geoengineering policies, such as SRM, suggests other belief systems may be better explainers of attitudes. Previously, scholars have found climate attitudes to vary based upon cultural types, which are a function of how individuals see the role of authority in policy making and the extent to which individuals see themselves as part of a social unit. We find that partisanship is a weak predictor of SRM attitudes, while cultural affinities provide strong influences over SRM attitudes. Specifically, we find strong group affinities (particularly egalitarians) to lead to more favourable impressions of SRM r…",
+      "authors": [
+        "Chris Koski",
+        "Paul Manson"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000092",
+      "doi": "10.1332/03055736y2026d000000092",
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "cnki:GGGL:kkumt6",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "常态化开发式驻村帮扶何以培育乡村内生发展能力——基于“跨界任务共同体”视角的过程分析",
+      "abstract": "在驻村帮扶由过渡性安排转向常态化开发式的新政策背景下，本文旨在解释外部政治使命及组织、制度与资源供给如何转化为乡村可持续调用的内生发展能力。研究提出了“跨界任务共同体”这一任务型中观组织分析框架，采用纵向单案例与过程追踪方法，研究2017—2025年Z市樟村驻村帮扶实践经验，发现常态化开发式驻村帮扶的关键并非增加项目，而是围绕治理修复、规则重建与主体培育等任务，将政府部门、村级组织、村民和市场主体...",
+      "authors": [
+        "张树旺"
+      ],
+      "publishedAt": "2026-09-22",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqMra0WRS6MTrqVZ-up9d5_FzPlfoCSkRgV3aM5PMAj9Nj3L5uWYHzdkxwolztBn72IfdhjsiqhEQaQc0EMjw-c7a6Iivu0sX8f0J4ye_XWYDaMe0OhN4G57ZsjkrP6VWQ4JSF0g9KNNOB9oiynpAuRw3lvKdCLrVKkBUhe1NyzY8A==",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGGL:1w0sb2y",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "城市基础设施生命线安全工程的类型建构与优化路径——“技术-治理”适配视角下的多案例分析",
+      "abstract": "城市基础设施生命线安全工程是保障城市正常运行的关键防线，在韧性城市建设中发挥着基础性支撑作用。既有研究多聚焦单一场景优化或局部技术迭代，不仅存在重工程轻治理、重硬件轻系统的理论局限，也未能回应全国统一制度环境下各地工程实践形态显著分化的现实。基于此，本文立足韧性治理理论，构建城市生命线安全工程韧性提升分析框架，提炼技术应用形态和治理模式两个分类维度，逻辑推导出集成协同型、集成统筹型、基础协同型、基...",
+      "authors": [
+        "郭瑞莲",
+        "朱正威"
+      ],
+      "publishedAt": "2026-09-18",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNG-6HXfHYPJENQpar9cRDg8Df7kv0dOw9YVIQm9VdnCVTl9XkTV7DtGdMZ435a9dLgBrM97ABGFPPJCTsYY2rEJCe790q7LBlSAvTpZnW1RFdIQ5hQts_5bbvCMJjaTjYBYGYIOjCNQTrkaX5RjtkXFODpjpP1H48wWQXm7XpR8Q==",
+      "doi": null,
+      "tagIds": [
+        "emergency-resilience",
+        "organization-institution"
+      ],
+      "tags": [
+        "应急管理与韧性治理",
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1.5,
+        "organization-institution": 1.5
+      },
+      "summaryZh": "涉及应急管理与韧性治理、组织理论与制度变迁",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:ZXGL:1pmqp6z",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-zxgl",
+      "outlet": "中国行政管理",
+      "outletZh": "《中国行政管理》",
+      "publisher": "中国行政管理学会",
+      "title": "社区嵌入式“双龄共养”融合服务的核心架构与内在机理研究",
+      "abstract": "作为中国社会结构的本源性议题，“一老一小”照料问题直接关系到公共服务均衡供给与人民福祉的实质性提升。本文以温州市H区为案例，以界面治理理论为“元理论”分析框架，结合代际支持理论与社会交换理论，采用探索性单案例研究方法，系统剖析社区嵌入式养老托育融合服务的核心架构与内在机理。研究发现，“双龄共养”融合服务实为传统养老与托育服务界面经耦合重构形成的新型服务系统。该系统以家庭照料赤字为现实起点，推动“私...",
+      "authors": [
+        "金红磊",
+        "张鹏飞"
+      ],
+      "publishedAt": "2026-09-17",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqM2iduXZP49TkxQHLEeZS0fn33_GRRamTBtRGCUg7HWYzDZ5dKFo32YZSL3sH8tc_FjNskhUbPNVPmSD4iYIruxcd6lE7MPSr2HzJ-M2Gzfxe5QVOumOSSJc6gtQ4YD_-SnrHsao2xW0XJko83E6MKV6TBEDn201Pg6oLxH9UqeUg==",
+      "doi": null,
+      "tagIds": [
+        "social-policy",
+        "grassroots-governance",
+        "public-service-delivery",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "社会政策与民生保障",
+        "基层治理与治理重心下移",
+        "公共服务供给与市场化",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "social-policy": 3,
+        "grassroots-governance": 1.5,
+        "public-service-delivery": 1.5,
+        "methodology-frontier": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障、基层治理与治理重心下移、公共服务供给与市场化",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:ZXGL:sstscj",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-zxgl",
+      "outlet": "中国行政管理",
+      "outletZh": "《中国行政管理》",
+      "publisher": "中国行政管理学会",
+      "title": "人才驱动科技创新和产业创新融合发展的行动机制与实现路径",
+      "abstract": "在全球科技革命与产业变革加速演进的时代背景下，本文分析苏州市和深圳市通过人才驱动科技创新和产业创新深度融合的实践经验，归纳人才驱动科技创新和产业创新融合发展的行动机制与内在机理，并提出针对性的政策建议，以期为政府更好发挥职能，提升国家创新体系整体效能、破解“科技经济两张皮”难题提供理论支撑。研究发现，地方政府立足差异化的资源禀赋，因地制宜逐步形成不同的政府角色演化路径,从而加速了人才驱动科技创新和...",
+      "authors": [
+        "徐明"
+      ],
+      "publishedAt": "2026-09-17",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNRG4CAGlmhdiVOpvp96MFGFntkxwDDXTnnHPPwfSgw9G6ud_JvCk7QgYl-m_ZXAfRK-j8e89MHhq94IX3EJthNMZSAEbKrEAZK5GGHh-eMLe3T82yThEXTBMH94-0Kc7OddJ68r0rS_2Nj1oBILKBwMBwObPXeMDz-AK3UPJ9wsw==",
+      "doi": null,
+      "tagIds": [
+        "performance-management",
+        "public-hr"
+      ],
+      "tags": [
+        "绩效管理与政府效能",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "performance-management": 1.5,
+        "public-hr": 1.5
+      },
+      "summaryZh": "涉及绩效管理与政府效能、公共部门人力资源与人事管理",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGGL:14hb5v1",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "层级缝隙：乡村产业振兴政策绩效损失的生成逻辑——基于G省现代农业产业园扶持政策的案例研究",
+      "abstract": "乡村产业振兴政策在多层级政府体系中的有效执行，是推进农业农村现代化的核心议题。针对既有研究对政策绩效损失如何在层级传导中逐级生成缺乏过程刻画与逻辑阐释的问题，本文引入“层级缝隙”概念，构建其分析框架，并将概念内涵界定为多层级政府因目标函数差异、资源约束与信息不对称而形成的非协调性状态。采用嵌入式单案例研究方法，以G省现代农业产业园扶持政策为对象，对H县兰花产业园进行过程追踪，结果发现：决策层—统筹...",
+      "authors": [
+        "刘畅",
+        "郑方辉",
+        "费睿"
+      ],
+      "publishedAt": "2026-09-14",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNMvb2D8c8uDV74KnDVx0mf35wTtxo_mDHsLJyaLRMdc2fQ-CaJo7ouomsExAnVSSegnUx4lJRclBxAOLHz_zbgqr5iOXIvY9PoAs95cYvZHzxjkvW_d8xf3bn0XR2oqGbwl-0A4CWWLkZsZpi1GjbILO26tHVu5oG2gPiE-_L1jA==",
+      "doi": null,
+      "tagIds": [
+        "methodology-frontier"
+      ],
+      "tags": [
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "methodology-frontier": 1.5
+      },
+      "summaryZh": "涉及研究方法与方法论前沿",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGGL:1yrhz1j",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "人工智能嵌入科研过程中的公共科研组织适应机制——基于制度接口重建的纵向案例研究",
+      "abstract": "人工智能进入科研核心环节后，技术潜力如何转化为公共科研组织的持续科研能力，需要从组织过程加以解释。本文以中国科学院等离子体物理研究所及EAST装置为案例，依据2006年至2026年7月的相关文献和2024—2025年补充性访谈，采用纵向过程追踪方法，考察制度接口重建的过程与机制。研究发现，资源接入、认知校正和价值沉淀三个制度接口相互依赖，重建节奏却并不同步。数据规则和平台安排支持分散数据的持续调用...",
+      "authors": [
+        "于楠楠",
+        "吴佳正"
+      ],
+      "publishedAt": "2026-09-08",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqMgzde9qs-jrybCbaVAQW5X9l4e6NkFX-jfa3u_AzquNiLw1GdFOx-9sIsCBDzVtdJE-pyTSXvFb8eFYcBkePqLDr0quN3dJIwnLJUDTNvHcETIGtdkZNHbmOPiuli5zmH0bGo1E89nRaJtradPwgQFSlr3LsKsR3kgU6h0SwfxtA==",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGXZ:1uvi0xx",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-ggxz",
+      "outlet": "公共行政评论",
+      "outletZh": "《公共行政评论》",
+      "publisher": "中山大学",
+      "title": "国际公共政策转移的差异化路径及其逻辑:基于“能力-目标”框架的多案例研究",
+      "abstract": "国际公共政策转移是推动全球治理创新、优化全球公共产品供给和实现共同繁荣的关键机制。现有研究虽然对国际公共政策转移路径进行了类型学划分,但多停留在宏观描述,未能深入揭示路径选择背后的深层动因。论文构建“能力-目标”分析框架,选取绿色金融政策、光伏发电政策与生态红线保护政策进行多案例研究,从“政策能力差异性”和“政策目标模糊性”两个维度来分析影响政策转移路径选择的关键因素。研究发现,当政策主体间能力差...",
+      "authors": [
+        "徐菁媛",
+        "杨玢璐",
+        "敬乂嘉"
+      ],
+      "publishedAt": "2026-09-08",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqOh_hCm40Ki-ukjW8fM80b6PTb8M--hOtGOWopfraqP7GSPBA5tCNXHuxK3GeSh7Yy-ZehX5c8r0diEvWgtuIyjTG3XSu7jEMfed1LOT8FL2Zv6dUH5ReNUnlCRlUp09OjpT6OfrHJ3cO-X-XNJq86jd9UXHkmzZtxGdCNMVw5ljQ==",
+      "doi": null,
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 3
+      },
+      "summaryZh": "涉及环境治理与气候政策",
+      "carriedFrom": "2026-10-06"
+    }
+  ]
+}

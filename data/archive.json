@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-18",
+    "generatedAt": "2026-10-18T22:31:51.380Z",
+    "topicLabels": [
+      "研究方法与方法论前沿",
+      "官僚行为与公共服务动机",
+      "公共服务供给与市场化"
+    ],
+    "topicIds": [
+      "methodology-frontier",
+      "bureaucratic-behavior",
+      "public-service-delivery"
+    ],
+    "entryCount": 53,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-17",
     "generatedAt": "2026-10-17T22:31:29.567Z",
     "topicLabels": [

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-20",
+    "generatedAt": "2026-10-20T22:35:10.143Z",
+    "topicLabels": [
+      "问责、廉政与反腐败",
+      "组织理论与制度变迁",
+      "数字政府与算法治理"
+    ],
+    "topicIds": [
+      "accountability-corruption",
+      "organization-institution",
+      "digital-government"
+    ],
+    "entryCount": 52,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-19",
     "generatedAt": "2026-10-19T22:35:54.765Z",
     "topicLabels": [

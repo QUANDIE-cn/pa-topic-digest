@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-21",
+    "generatedAt": "2026-10-21T22:36:44.544Z",
+    "topicLabels": [
+      "公共服务供给与市场化",
+      "数字政府与算法治理",
+      "公共部门人力资源与人事管理"
+    ],
+    "topicIds": [
+      "public-service-delivery",
+      "digital-government",
+      "public-hr"
+    ],
+    "entryCount": 51,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-20",
     "generatedAt": "2026-10-20T22:35:10.143Z",
     "topicLabels": [

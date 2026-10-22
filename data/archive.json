@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-22",
+    "generatedAt": "2026-10-22T22:34:55.921Z",
+    "topicLabels": [
+      "数字政府与算法治理",
+      "环境治理与气候政策",
+      "官僚行为与公共服务动机"
+    ],
+    "topicIds": [
+      "digital-government",
+      "environment-climate",
+      "bureaucratic-behavior"
+    ],
+    "entryCount": 54,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-21",
     "generatedAt": "2026-10-21T22:36:44.544Z",
     "topicLabels": [

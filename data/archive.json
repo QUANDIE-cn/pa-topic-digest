@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-23",
+    "generatedAt": "2026-10-23T22:35:33.198Z",
+    "topicLabels": [
+      "官僚行为与公共服务动机",
+      "数字政府与算法治理",
+      "公共服务供给与市场化"
+    ],
+    "topicIds": [
+      "bureaucratic-behavior",
+      "digital-government",
+      "public-service-delivery"
+    ],
+    "entryCount": 51,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-22",
     "generatedAt": "2026-10-22T22:34:55.921Z",
     "topicLabels": [

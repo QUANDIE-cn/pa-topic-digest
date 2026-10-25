@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-25",
+    "generatedAt": "2026-10-25T22:30:46.399Z",
+    "topicLabels": [
+      "问责、廉政与反腐败",
+      "官僚行为与公共服务动机",
+      "数字政府与算法治理"
+    ],
+    "topicIds": [
+      "accountability-corruption",
+      "bureaucratic-behavior",
+      "digital-government"
+    ],
+    "entryCount": 45,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-24",
     "generatedAt": "2026-10-24T22:32:02.051Z",
     "topicLabels": [

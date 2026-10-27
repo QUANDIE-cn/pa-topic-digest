@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-27",
+    "generatedAt": "2026-10-27T22:40:26.841Z",
+    "topicLabels": [
+      "环境治理与气候政策",
+      "问责、廉政与反腐败",
+      "数字政府与算法治理"
+    ],
+    "topicIds": [
+      "environment-climate",
+      "accountability-corruption",
+      "digital-government"
+    ],
+    "entryCount": 49,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-26",
     "generatedAt": "2026-10-26T22:38:41.600Z",
     "topicLabels": [

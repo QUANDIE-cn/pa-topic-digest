@@ -1,0 +1,1916 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T22:43:24.352Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-10-21",
+  "stats": {
+    "entries": 51,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "environment-climate",
+      "label": "环境治理与气候政策",
+      "summary": "环境监管、气候治理、双碳目标与地方环境执法研究。",
+      "kind": "最新",
+      "hotScore": 5.17,
+      "entryCount": 6,
+      "recent3Count": 4,
+      "outletCount": 5,
+      "typeBreakdown": {
+        "journal": 5,
+        "cnjournal": 0,
+        "news": 1,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《公共政策杂志》",
+          "count": 2
+        },
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 1
+        },
+        {
+          "name": "《公共绩效与管理评论》",
+          "count": 1
+        },
+        {
+          "name": "《公共管理评论（英国）》",
+          "count": 1
+        },
+        {
+          "name": "《政策与政治》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 6 条，覆盖 5 个来源（国际顶刊 5 篇 / 中文动态 1 条 / 政策文件 0 条），其中 4 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261028_1ia3oj8",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "人工智能重塑教育生态",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-28",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075342.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government",
+            "environment-climate"
+          ],
+          "tags": [
+            "数字政府与算法治理",
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "digital-government": 1.5,
+            "environment-climate": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理、环境治理与气候政策"
+        },
+        {
+          "id": "doi:10.1080/15309576.2026.2749342",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "ppmr",
+          "outlet": "Public Performance & Management Review",
+          "outletZh": "《公共绩效与管理评论》",
+          "title": "Feedback Control for Sustainability: Integrated Planning, Capabilities and Performance Management in Constrained Local Governments",
+          "abstract": "",
+          "authors": [
+            "Aaron Deslatte",
+            "Yunchen Zhu"
+          ],
+          "publishedAt": "2026-10-27",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/15309576.2026.2749342",
+          "doi": "10.1080/15309576.2026.2749342",
+          "tagIds": [
+            "performance-management",
+            "environment-climate"
+          ],
+          "tags": [
+            "绩效管理与政府效能",
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "performance-management": 2,
+            "environment-climate": 1
+          },
+          "summaryZh": "涉及绩效管理与政府效能、环境治理与气候政策"
+        },
+        {
+          "id": "doi:10.1017/s0143814x2610138x",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpp",
+          "outlet": "Journal of Public Policy",
+          "outletZh": "《公共政策杂志》",
+          "title": "Don’t say it’s green! How green framing can depress support for renewable energy",
+          "abstract": "Abstract The green transition implies a shift towards renewable energies. However, their deployment has faced some backlash. This article assesses whether (a) the type of renewables and (b) framing can affect support for deployment. Through a survey experiment, three types of renewables (hydropower, onshore wind, offshore wind) and three types of frames (energy sovereignty, economic competitiveness, green transition) are evaluated, in general and for two typically skeptical groups (the least climate-worried and the less-educated ruralites). Using the case of Norway, we find strong effects for the type of renewables but little evidence for general framing effects. There are two exceptions: green framing has a negative effect on support for renewables where citizens have more fluid preferences (offshore wind) and depresses support among the least climate-worried and the less-educated rural…",
+          "authors": [
+            "Marte S. Skogen",
+            "Michaël Tatham"
+          ],
+          "publishedAt": "2026-10-27",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1017/s0143814x2610138x",
+          "doi": "10.1017/s0143814x2610138x",
+          "tagIds": [
+            "methodology-frontier",
+            "environment-climate"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "methodology-frontier": 3,
+            "environment-climate": 2
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、环境治理与气候政策"
+        },
+        {
+          "id": "doi:10.1080/14719037.2026.2749668",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "pmr",
+          "outlet": "Public Management Review",
+          "outletZh": "《公共管理评论（英国）》",
+          "title": "Threat perception, issue knowledge, and citizen coproduction preferences: evidence from a national public survey on environmental health",
+          "abstract": "",
+          "authors": [
+            "Xinsheng Liu",
+            "Rotem Dvir",
+            "Arnold Vedlitz"
+          ],
+          "publishedAt": "2026-10-22",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/14719037.2026.2749668",
+          "doi": "10.1080/14719037.2026.2749668",
+          "tagIds": [
+            "environment-climate"
+          ],
+          "tags": [
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "environment-climate": 1
+          },
+          "summaryZh": "涉及环境治理与气候政策"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000092",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "Not yet partisan: Cultural Theory explains attitudes about solar radiation management in the US",
+          "abstract": "This article investigates the role of Cultural Theory (CT) in explaining attitudes towards solar radiation management (SRM) in the US. Partisanship traditionally provides a clear lens through which to view favourability to climate change policies; however, the lack of partisan attention to geoengineering policies, such as SRM, suggests other belief systems may be better explainers of attitudes. Previously, scholars have found climate attitudes to vary based upon cultural types, which are a function of how individuals see the role of authority in policy making and the extent to which individuals see themselves as part of a social unit. We find that partisanship is a weak predictor of SRM attitudes, while cultural affinities provide strong influences over SRM attitudes. Specifically, we find strong group affinities (particularly egalitarians) to lead to more favourable impressions of SRM r…",
+          "authors": [
+            "Chris Koski",
+            "Paul Manson"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "month",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000092",
+          "doi": "10.1332/03055736y2026d000000092",
+          "tagIds": [
+            "environment-climate"
+          ],
+          "tags": [
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "environment-climate": 1
+          },
+          "summaryZh": "涉及环境治理与气候政策"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "公众环境诉求如何进入政策议程",
+          "theory": "议程设置 × 环境正义",
+          "method": "文本挖掘 + 面板回归",
+          "data": "环保投诉平台语料与地方政策产出"
+        },
+        {
+          "title": "环境监测数据质量与地方激励扭曲",
+          "theory": "委托代理 × 多任务激励",
+          "method": "断点回归（监测站国控/省控边界）",
+          "data": "空气质量监测站数据与站点属性"
+        },
+        {
+          "title": "双碳目标下地方产业政策的路径依赖",
+          "theory": "路径依赖 × 转型政治经济学",
+          "method": "比较案例 + 文本分析",
+          "data": "资源型城市碳达峰实施方案与产业投资数据"
+        }
+      ]
+    },
+    {
+      "id": "methodology-frontier",
+      "label": "研究方法与方法论前沿",
+      "summary": "实验、因果推断、文本与大数据方法在公共管理研究中的应用与争论。",
+      "kind": "最新",
+      "hotScore": 3.78,
+      "entryCount": 5,
+      "recent3Count": 2,
+      "outletCount": 5,
+      "typeBreakdown": {
+        "journal": 3,
+        "cnjournal": 2,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《公共行政研究与理论杂志》",
+          "count": 1
+        },
+        {
+          "name": "《公共政策杂志》",
+          "count": 1
+        },
+        {
+          "name": "《政策与政治》",
+          "count": 1
+        },
+        {
+          "name": "《中国行政管理》",
+          "count": 1
+        },
+        {
+          "name": "《公共管理学报》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 5 条，覆盖 5 个来源（国际顶刊 3 篇 / 中文动态 0 条 / 政策文件 0 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1093/jopart/muag036",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpart",
+          "outlet": "Journal of Public Administration Research and Theory",
+          "outletZh": "《公共行政研究与理论杂志》",
+          "title": "Sick of change? Sickness absence following ownership conversions in Norwegian kindergartens",
+          "abstract": "Abstract The expansion of mixed-provider welfare systems has intensified debates about the consequences of public, nonprofit, and for-profit provision. Existing research focuses primarily on efficiency, service quality, and citizens' outcomes, while less is known about ownership conversions’ consequences for employees. We depart from research suggesting that ownership conversions can disrupt employee-organization value congruence as well as change the incentive structures. Leveraging population-wide administrative data from Norwegian childcare services (2015-2019), we examine whether ownership conversions are associated with changes in employee sickness absence. Using a staggered difference-in-differences design, we find that sickness absence increases following nonprofit-to-for-profit conversions. At the same time, public-to-for-profit transitions show little consistent relationship wit…",
+          "authors": [
+            "Håvard Thorsen Rydland",
+            "Dag Arne Christensen"
+          ],
+          "publishedAt": "2026-10-28",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1093/jopart/muag036",
+          "doi": "10.1093/jopart/muag036",
+          "tagIds": [
+            "public-service-delivery",
+            "social-policy",
+            "performance-management",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "公共服务供给与市场化",
+            "社会政策与民生保障",
+            "绩效管理与政府效能",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "public-service-delivery": 2,
+            "social-policy": 2,
+            "performance-management": 1,
+            "methodology-frontier": 1
+          },
+          "summaryZh": "涉及公共服务供给与市场化、社会政策与民生保障、绩效管理与政府效能"
+        },
+        {
+          "id": "doi:10.1017/s0143814x2610138x",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpp",
+          "outlet": "Journal of Public Policy",
+          "outletZh": "《公共政策杂志》",
+          "title": "Don’t say it’s green! How green framing can depress support for renewable energy",
+          "abstract": "Abstract The green transition implies a shift towards renewable energies. However, their deployment has faced some backlash. This article assesses whether (a) the type of renewables and (b) framing can affect support for deployment. Through a survey experiment, three types of renewables (hydropower, onshore wind, offshore wind) and three types of frames (energy sovereignty, economic competitiveness, green transition) are evaluated, in general and for two typically skeptical groups (the least climate-worried and the less-educated ruralites). Using the case of Norway, we find strong effects for the type of renewables but little evidence for general framing effects. There are two exceptions: green framing has a negative effect on support for renewables where citizens have more fluid preferences (offshore wind) and depresses support among the least climate-worried and the less-educated rural…",
+          "authors": [
+            "Marte S. Skogen",
+            "Michaël Tatham"
+          ],
+          "publishedAt": "2026-10-27",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1017/s0143814x2610138x",
+          "doi": "10.1017/s0143814x2610138x",
+          "tagIds": [
+            "methodology-frontier",
+            "environment-climate"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "methodology-frontier": 3,
+            "environment-climate": 2
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、环境治理与气候政策"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000093",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "How cultural world views moderate policy framing on Universal Basic Income",
+          "abstract": "Universal Basic Income (UBI) has gained global attention as a potential policy response to the AI revolution, yet public support remains divided. While existing research highlights the role of political predisposition in shaping attitudes towards UBI, such explanations rely on the presence of partisan/ideological cues. In contexts where UBI is not yet politicized, ideological alignment may offer limited explanatory power. This article examines how individuals’ cultural predispositions, as conceptualized by Cultural Theory (CT), shape responses to different UBI framings in Taiwan, a non-Western democracy where partisan cues on UBI are less salient. Using an online survey experiment, the article tests how cultural world views interact with framing conditions to influence support for UBI. Findings demonstrate framing effects are conditioned by cultural orientations, supporting CT that indiv…",
+          "authors": [
+            "Wei-Ting Yen",
+            "Li-Yin Liu"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "month",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000093",
+          "doi": "10.1332/03055736y2026d000000093",
+          "tagIds": [
+            "methodology-frontier"
+          ],
+          "tags": [
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "methodology-frontier": 3
+          },
+          "summaryZh": "涉及研究方法与方法论前沿"
+        },
+        {
+          "id": "cnki:ZXGL:1pmqp6z",
+          "lang": "zh",
+          "sourceType": "cnjournal",
+          "sourceId": "cnki-zxgl",
+          "outlet": "中国行政管理",
+          "outletZh": "《中国行政管理》",
+          "publisher": "中国行政管理学会",
+          "title": "社区嵌入式“双龄共养”融合服务的核心架构与内在机理研究",
+          "abstract": "作为中国社会结构的本源性议题，“一老一小”照料问题直接关系到公共服务均衡供给与人民福祉的实质性提升。本文以温州市H区为案例，以界面治理理论为“元理论”分析框架，结合代际支持理论与社会交换理论，采用探索性单案例研究方法，系统剖析社区嵌入式养老托育融合服务的核心架构与内在机理。研究发现，“双龄共养”融合服务实为传统养老与托育服务界面经耦合重构形成的新型服务系统。该系统以家庭照料赤字为现实起点，推动“私...",
+          "authors": [
+            "金红磊",
+            "张鹏飞"
+          ],
+          "publishedAt": "2026-09-17",
+          "datePrecision": "day",
+          "windowDays": 45,
+          "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqM2iduXZP49TkxQHLEeZS0fn33_GRRamTBtRGCUg7HWYzDZ5dKFo32YZSL3sH8tc_FjNskhUbPNVPmSD4iYIruxcd6lE7MPSr2HzJ-M2Gzfxe5QVOumOSSJc6gtQ4YD_-SnrHsao2xW0XJko83E6MKV6TBEDn201Pg6oLxH9UqeUg==",
+          "doi": null,
+          "tagIds": [
+            "social-policy",
+            "grassroots-governance",
+            "public-service-delivery",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "社会政策与民生保障",
+            "基层治理与治理重心下移",
+            "公共服务供给与市场化",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "social-policy": 3,
+            "grassroots-governance": 1.5,
+            "public-service-delivery": 1.5,
+            "methodology-frontier": 1.5
+          },
+          "summaryZh": "涉及社会政策与民生保障、基层治理与治理重心下移、公共服务供给与市场化",
+          "carriedFrom": "2026-10-06"
+        },
+        {
+          "id": "cnki:GGGL:14hb5v1",
+          "lang": "zh",
+          "sourceType": "cnjournal",
+          "sourceId": "cnki-gggl",
+          "outlet": "公共管理学报",
+          "outletZh": "《公共管理学报》",
+          "publisher": "哈尔滨工业大学管理学院",
+          "title": "层级缝隙：乡村产业振兴政策绩效损失的生成逻辑——基于G省现代农业产业园扶持政策的案例研究",
+          "abstract": "乡村产业振兴政策在多层级政府体系中的有效执行，是推进农业农村现代化的核心议题。针对既有研究对政策绩效损失如何在层级传导中逐级生成缺乏过程刻画与逻辑阐释的问题，本文引入“层级缝隙”概念，构建其分析框架，并将概念内涵界定为多层级政府因目标函数差异、资源约束与信息不对称而形成的非协调性状态。采用嵌入式单案例研究方法，以G省现代农业产业园扶持政策为对象，对H县兰花产业园进行过程追踪，结果发现：决策层—统筹...",
+          "authors": [
+            "刘畅",
+            "郑方辉",
+            "费睿"
+          ],
+          "publishedAt": "2026-09-14",
+          "datePrecision": "day",
+          "windowDays": 45,
+          "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNMvb2D8c8uDV74KnDVx0mf35wTtxo_mDHsLJyaLRMdc2fQ-CaJo7ouomsExAnVSSegnUx4lJRclBxAOLHz_zbgqr5iOXIvY9PoAs95cYvZHzxjkvW_d8xf3bn0XR2oqGbwl-0A4CWWLkZsZpi1GjbILO26tHVu5oG2gPiE-_L1jA==",
+          "doi": null,
+          "tagIds": [
+            "methodology-frontier"
+          ],
+          "tags": [
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "methodology-frontier": 1.5
+          },
+          "summaryZh": "涉及研究方法与方法论前沿",
+          "carriedFrom": "2026-10-06"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "定性比较分析在公共管理中的使用规范",
+          "theory": "方法论文献计量",
+          "method": "系统综述 + 编码统计",
+          "data": "国内公共管理核心期刊近十年的 QCA 论文全集"
+        },
+        {
+          "title": "公共管理实验研究的可复制性检验",
+          "theory": "复制研究 × 科学累积",
+          "method": "预注册复制实验 + 元分析",
+          "data": "过往高影响力实验研究的可复制样本集"
+        },
+        {
+          "title": "文本大模型在政策文本编码中的可靠性",
+          "theory": "测量理论 × 人机标注比较",
+          "method": "标注一致性检验 + 人机混合编码",
+          "data": "已有专家编码的政策文本语料作为基准"
+        }
+      ]
+    },
+    {
+      "id": "digital-government",
+      "label": "数字政府与算法治理",
+      "summary": "政府数字化转型、数据要素流通、人工智能与算法决策进入公务流程后的组织与问责问题。",
+      "kind": "最新",
+      "hotScore": 2.69,
+      "entryCount": 3,
+      "recent3Count": 2,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 0,
+        "cnjournal": 0,
+        "news": 2,
+        "policy": 1
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 2
+        },
+        {
+          "name": "中国政府网 · 政策文件库",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 3 条，覆盖 2 个来源（国际顶刊 0 篇 / 中文动态 2 条 / 政策文件 1 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261028_1ia3oj8",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "人工智能重塑教育生态",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-28",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075342.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government",
+            "environment-climate"
+          ],
+          "tags": [
+            "数字政府与算法治理",
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "digital-government": 1.5,
+            "environment-climate": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理、环境治理与气候政策"
+        },
+        {
+          "id": "gov:26853584",
+          "lang": "zh",
+          "sourceType": "policy",
+          "sourceId": "gov-policy",
+          "outlet": "中国政府网",
+          "outletZh": "中国政府网 · 政策文件库",
+          "title": "国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+          "abstract": "国务院办公厅关于适应人工智能技术发展 助力构建就业友好型发展方式的意见 国办发〔2026〕29号 各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 就业是最基本的民生。为贯彻落实党中央、国务院...",
+          "summary": "国务院办公厅关于适应人工智能技术发展 助力构建就业友好型发展方式的意见 国办发〔2026〕29号 各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 就业是最基本的民生。为贯彻落实党中央、国务院...",
+          "docNumber": "国办发〔2026〕29号",
+          "org": "国务院办公厅",
+          "category": "劳动、人事、监察\\劳动就业",
+          "authors": [],
+          "publishedAt": "2026-10-23",
+          "datePrecision": "day",
+          "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084108.htm",
+          "doi": null,
+          "tagIds": [
+            "social-policy",
+            "digital-government",
+            "public-hr",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "社会政策与民生保障",
+            "数字政府与算法治理",
+            "公共部门人力资源与人事管理",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "social-policy": 3,
+            "digital-government": 1.5,
+            "public-hr": 1.5,
+            "accountability-corruption": 1.5
+          },
+          "summaryZh": "涉及社会政策与民生保障、数字政府与算法治理、公共部门人力资源与人事管理"
+        },
+        {
+          "id": "cssn:20261028_l6c4yx",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "促进数智时代经济伦理研究",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-10-28",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075344.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "大模型进入公文流程后的裁量权重新分配",
+          "theory": "街头官僚理论 × 技术执行／社会物质性",
+          "method": "多案例过程追踪 + 一线人员访谈",
+          "data": "选取2~3个已部署智能写作／智能审批的地市，跟踪公文起草到签发全流程的权限变化"
+        },
+        {
+          "title": "算法辅助决策的问责空白如何被填补",
+          "theory": "问责理论 × 算法问责与可解释性",
+          "method": "文本与制度分析 + 深度访谈",
+          "data": "地方政府算法应用管理办法、采购合同文本、供应商技术文档"
+        },
+        {
+          "title": "数字鸿沟在政务服务下沉中的再生成机制",
+          "theory": "公共服务均等化 × 数字排斥",
+          "method": "多层级调查数据的分层模型",
+          "data": "县域抽样问卷 + 政务平台办事日志（脱敏后）"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "doi:10.1093/jopart/muag036",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpart",
+      "outlet": "Journal of Public Administration Research and Theory",
+      "outletZh": "《公共行政研究与理论杂志》",
+      "title": "Sick of change? Sickness absence following ownership conversions in Norwegian kindergartens",
+      "abstract": "Abstract The expansion of mixed-provider welfare systems has intensified debates about the consequences of public, nonprofit, and for-profit provision. Existing research focuses primarily on efficiency, service quality, and citizens' outcomes, while less is known about ownership conversions’ consequences for employees. We depart from research suggesting that ownership conversions can disrupt employee-organization value congruence as well as change the incentive structures. Leveraging population-wide administrative data from Norwegian childcare services (2015-2019), we examine whether ownership conversions are associated with changes in employee sickness absence. Using a staggered difference-in-differences design, we find that sickness absence increases following nonprofit-to-for-profit conversions. At the same time, public-to-for-profit transitions show little consistent relationship wit…",
+      "authors": [
+        "Håvard Thorsen Rydland",
+        "Dag Arne Christensen"
+      ],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1093/jopart/muag036",
+      "doi": "10.1093/jopart/muag036",
+      "tagIds": [
+        "public-service-delivery",
+        "social-policy",
+        "performance-management",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "公共服务供给与市场化",
+        "社会政策与民生保障",
+        "绩效管理与政府效能",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "public-service-delivery": 2,
+        "social-policy": 2,
+        "performance-management": 1,
+        "methodology-frontier": 1
+      },
+      "summaryZh": "涉及公共服务供给与市场化、社会政策与民生保障、绩效管理与政府效能"
+    },
+    {
+      "id": "cssn:20261028_hvns9m",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "摩洛哥中非研究中心在拉巴特正式揭牌",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075464.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_11m55uq",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "全球战略对话（2026）在京举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075457.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_zbmqr1",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "【书评】打破“单向度”的传播：中国学术话语体系建构的路径与使命",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075448.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_m6o23",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“跨界对话与人文新声”青年学者论坛在上海大学举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075441.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_s7bai6",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "寻迹长江——上海交通大学开展长江流域渡口聚落文化资源专题调研",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075440.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_601zph",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "第五届中华优秀文化传承与传播研讨会举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075424.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_lboc6u",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国企业出海非洲的行稳致远之路",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075425.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_7rwbbo",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "智媒时代的新闻传播教育：判断力何以升值",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075412.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_1sfjbmh",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“十五五”数字经济赋能区域高质量发展",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075411.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_teamck",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "当“古诗词＋AI＋英译”会发生什么？南京图书馆这个资源库，把中国诗意讲给世界听",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075398.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_akvcnz",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“区域国别学自主知识体系构建”上海论坛在上海外国语大学举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075378.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_6xasqp",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "为加强新时代党的建设提供学理支撑",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075349.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_73asnk",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推动马克思主义经济哲学的中国话语建构",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075348.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_1ttn15z",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "深挖古籍蕴含的思想价值",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075347.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_pii5ep",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "揭示中国文学源流演变轨迹",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075346.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_12l9xi7",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "将长征精神融入党性教育",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075345.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_1ia3oj8",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "人工智能重塑教育生态",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075342.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government",
+        "environment-climate"
+      ],
+      "tags": [
+        "数字政府与算法治理",
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "digital-government": 1.5,
+        "environment-climate": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理、环境治理与气候政策"
+    },
+    {
+      "id": "cssn:20261028_l6c4yx",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "促进数智时代经济伦理研究",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075344.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261028_kht3ai",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推进新时代商法学研究",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075341.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_19od875",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "在深化认识三大规律中增强历史主动",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075340.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_15wh2as",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "拓展公共管理研究场景",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075339.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_5yw556",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "探索建立综合性涉外法治解决机制",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075338.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261028_18f6d2v",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "共建“一带一路”与中国海外经济利益维护",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261028_6075337.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2749342",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "Feedback Control for Sustainability: Integrated Planning, Capabilities and Performance Management in Constrained Local Governments",
+      "abstract": "",
+      "authors": [
+        "Aaron Deslatte",
+        "Yunchen Zhu"
+      ],
+      "publishedAt": "2026-10-27",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2749342",
+      "doi": "10.1080/15309576.2026.2749342",
+      "tagIds": [
+        "performance-management",
+        "environment-climate"
+      ],
+      "tags": [
+        "绩效管理与政府效能",
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "performance-management": 2,
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及绩效管理与政府效能、环境治理与气候政策"
+    },
+    {
+      "id": "doi:10.1017/s0143814x2610138x",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "Don’t say it’s green! How green framing can depress support for renewable energy",
+      "abstract": "Abstract The green transition implies a shift towards renewable energies. However, their deployment has faced some backlash. This article assesses whether (a) the type of renewables and (b) framing can affect support for deployment. Through a survey experiment, three types of renewables (hydropower, onshore wind, offshore wind) and three types of frames (energy sovereignty, economic competitiveness, green transition) are evaluated, in general and for two typically skeptical groups (the least climate-worried and the less-educated ruralites). Using the case of Norway, we find strong effects for the type of renewables but little evidence for general framing effects. There are two exceptions: green framing has a negative effect on support for renewables where citizens have more fluid preferences (offshore wind) and depresses support among the least climate-worried and the less-educated rural…",
+      "authors": [
+        "Marte S. Skogen",
+        "Michaël Tatham"
+      ],
+      "publishedAt": "2026-10-27",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x2610138x",
+      "doi": "10.1017/s0143814x2610138x",
+      "tagIds": [
+        "methodology-frontier",
+        "environment-climate"
+      ],
+      "tags": [
+        "研究方法与方法论前沿",
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "methodology-frontier": 3,
+        "environment-climate": 2
+      },
+      "summaryZh": "涉及研究方法与方法论前沿、环境治理与气候政策"
+    },
+    {
+      "id": "doi:10.1111/gove.70157",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "Governance of a Party‐State: Corruption, Law, and the Modus Operandi of the Chinese Communist Party. By LingLi, Cambridge: Cambridge University Press, 2025. 358 pp. £110.00/$140.00 (hardcover). ISBN: 978‐1‐00‐927500‐2",
+      "abstract": "",
+      "authors": [
+        "Patricia M. Thornton"
+      ],
+      "publishedAt": "2026-10-26",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70157",
+      "doi": "10.1111/gove.70157",
+      "tagIds": [
+        "accountability-corruption"
+      ],
+      "tags": [
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101366",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "Transparency and toxics: policy tool interactions in environmental regulation",
+      "abstract": "Abstract Toxics information disclosure programs have been hailed by some as being among the most successful environmental programs in history. Yet critics have argued that these policies may invite abuse by reducing traditional regulatory monitoring and enforcement, leading to poorer policy outcomes. Leveraging variation in U.S. state toxics transparency programs, we assess these conflicting claims. We find that information disclosure policies are associated with differences in agency monitoring and enforcement actions as well as with emission levels, but that these relationships are conditioned by the severity of the pollution problem. Overall, our evidence suggests that public information policies and traditional forms of regulation are imperfect substitutes, and successfully reducing toxic emissions requires both policy tools working in concert.",
+      "authors": [
+        "Christopher Eddy",
+        "Neal D. Woods"
+      ],
+      "publishedAt": "2026-10-26",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101366",
+      "doi": "10.1017/s0143814x26101366",
+      "tagIds": [
+        "environment-climate",
+        "regulation-governance",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "环境治理与气候政策",
+        "监管治理与规制改革",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "environment-climate": 5,
+        "regulation-governance": 3,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策、监管治理与规制改革、问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101305",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "A memory policy review: exploring perspectives on memory policies",
+      "abstract": "Abstract This paper examines the field of memory policy research within the broader study of memory politics. It asks how memory policies are conceptualized in existing scholarship and whether they are approached from a policy studies perspective. Previous research has addressed diverse memory-related practices but has failed to provide a consistent and policy-oriented conceptualization of memory policies. To address this gap, we integrate a scoping review with a systematic literature review structured through the PRISMA approach. We analyze peer-reviewed articles to map trends, assess conceptual uses, and reconstruct the notion of memory policies by examining how scholars define and evaluate them across different empirical contexts. Our findings demonstrate the need for a clearer, policy-focused framework to better understand the dynamics and implications of memory policies.",
+      "authors": [
+        "Matteo Bassoli",
+        "Polina Zavershinskaia"
+      ],
+      "publishedAt": "2026-10-26",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101305",
+      "doi": "10.1017/s0143814x26101305",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101354",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "The Geography of Local Politics: How Jurisdiction Size Shapes Local Policy Agendas",
+      "abstract": "Abstract One of the enduring questions in political science is whether large communities behave differently from small ones. While prior research has examined the political, democratic, and economic implications of community size, a key dimension remains underexplored: how political agendas differ across jurisdictions of varying sizes. This study addresses this gap by examining how the size and geography of local jurisdictions shape the size, issue diversity, complexity, and issue content of local policy agendas. Drawing on a systematic collection and coding of thousands of local council meeting agendas from Danish and Norwegian municipalities, the analysis reveals significant differences in agenda characteristics between large and small communities. The findings contribute to a deeper understanding of how jurisdiction size shapes democratic processes and local governance.",
+      "authors": [
+        "Jan Erling Klausen",
+        "Peter B. Mortensen",
+        "Søren Serritzlew",
+        "Signy Irene Vabo"
+      ],
+      "publishedAt": "2026-10-26",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101354",
+      "doi": "10.1017/s0143814x26101354",
+      "tagIds": [
+        "grassroots-governance",
+        "citizen-participation"
+      ],
+      "tags": [
+        "基层治理与治理重心下移",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "grassroots-governance": 2,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及基层治理与治理重心下移、公民参与与共同生产"
+    },
+    {
+      "id": "gov:26866640",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "事业单位登记管理条例",
+      "abstract": "中华人民共和国国务院令 第849号 《事业单位登记管理条例》已经2026年9月28日国务院第98次常务会议通过，现予公布，自2026年12月1日起施行。 总理 李强 2026年10...",
+      "summary": "中华人民共和国国务院令 第849号 《事业单位登记管理条例》已经2026年9月28日国务院第98次常务会议通过，现予公布，自2026年12月1日起施行。 总理 李强 2026年10...",
+      "docNumber": "国令第849号",
+      "org": "国务院",
+      "category": "综合政务\\其他",
+      "authors": [],
+      "publishedAt": "2026-10-26",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084280.htm",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2750929",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Nudging citizens to use chatbots: an information and default option approach",
+      "abstract": "",
+      "authors": [
+        "Haoting Chang",
+        "Lei Tao"
+      ],
+      "publishedAt": "2026-10-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2750929",
+      "doi": "10.1080/14719037.2026.2750929",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26853584",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+      "abstract": "国务院办公厅关于适应人工智能技术发展 助力构建就业友好型发展方式的意见 国办发〔2026〕29号 各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 就业是最基本的民生。为贯彻落实党中央、国务院...",
+      "summary": "国务院办公厅关于适应人工智能技术发展 助力构建就业友好型发展方式的意见 国办发〔2026〕29号 各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 就业是最基本的民生。为贯彻落实党中央、国务院...",
+      "docNumber": "国办发〔2026〕29号",
+      "org": "国务院办公厅",
+      "category": "劳动、人事、监察\\劳动就业",
+      "authors": [],
+      "publishedAt": "2026-10-23",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084108.htm",
+      "doi": null,
+      "tagIds": [
+        "social-policy",
+        "digital-government",
+        "public-hr",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "社会政策与民生保障",
+        "数字政府与算法治理",
+        "公共部门人力资源与人事管理",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "social-policy": 3,
+        "digital-government": 1.5,
+        "public-hr": 1.5,
+        "accountability-corruption": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障、数字政府与算法治理、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1111/puar.70213",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Public Administration and the Crisis of American Democracy",
+      "abstract": "ABSTRACT The field of public administration stands amid genuine crisis. Americans don't trust government or its administrators. Elected officials have attacked the career service as agents of the “deep state” and, though it might be hard to admit, many of public administration's critics have a point. Government's performance too often falls short of what people expect, practitioners too often seem too unresponsive to elected officials, and researchers too often seem to have only fuzzy guidance for practitioners. However, public administration undoubtedly is more important now than ever in translating public goals into effective action, and in bringing to life the democratic aspirations Madison and his colleagues wished for the country at its founding. The field urgently needs new strategies and tactics for solving the new generation of puzzles the country faces. In coming together, pract…",
+      "authors": [
+        "Donald F. Kettl"
+      ],
+      "publishedAt": "2026-10-22",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70213",
+      "doi": "10.1111/puar.70213",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2750928",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "The blurred line between ends and means: how frontline workers factor production attributes into results in performance evaluations",
+      "abstract": "",
+      "authors": [
+        "Paw Hansen"
+      ],
+      "publishedAt": "2026-10-22",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2750928",
+      "doi": "10.1080/14719037.2026.2750928",
+      "tagIds": [
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2738181",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Assessing performance in collaborative governance networks: testing the Productivity Performance Matrix",
+      "abstract": "",
+      "authors": [
+        "Siobhan McQuaid",
+        "Mary Lee Rhodes"
+      ],
+      "publishedAt": "2026-10-22",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2738181",
+      "doi": "10.1080/14719037.2026.2738181",
+      "tagIds": [
+        "collaborative-governance"
+      ],
+      "tags": [
+        "协同治理与跨部门合作"
+      ],
+      "tagScore": {
+        "collaborative-governance": 2
+      },
+      "summaryZh": "涉及协同治理与跨部门合作"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2749668",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Threat perception, issue knowledge, and citizen coproduction preferences: evidence from a national public survey on environmental health",
+      "abstract": "",
+      "authors": [
+        "Xinsheng Liu",
+        "Rotem Dvir",
+        "Arnold Vedlitz"
+      ],
+      "publishedAt": "2026-10-22",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2749668",
+      "doi": "10.1080/14719037.2026.2749668",
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "doi:10.1080/10967494.2026.2642317",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ipmj",
+      "outlet": "International Public Management Journal",
+      "outletZh": "《国际公共管理杂志》",
+      "title": "Which costs loom largest? How public employees view the relationship between administrative burdens and performance",
+      "abstract": "",
+      "authors": [
+        "Nicola Belle",
+        "Paola Cantarelli",
+        "Donald P. Moynihan"
+      ],
+      "publishedAt": "2026-10-22",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/10967494.2026.2642317",
+      "doi": "10.1080/10967494.2026.2642317",
+      "tagIds": [
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 2
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2748976",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "Data Science Integration as Practice: Micro-Level Dynamics from Intelligence Agencies",
+      "abstract": "",
+      "authors": [
+        "Tess Horlings",
+        "Sebastiaan Rietjens",
+        "Roy Lindelauf",
+        "V.S. Subrahmanian"
+      ],
+      "publishedAt": "2026-10-21",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2748976",
+      "doi": "10.1080/15309576.2026.2748976",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101317",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "Deterrence and retribution as motives for supporting punitive public policies",
+      "abstract": "Abstract Punitive policies such as migrant detention and benefits sanctions are growing in popularity. Politicians claim that the threat of harsher punishment deters undesired behavior, yet much evidence suggests that this is incorrect. Why, then, is it popular with voters? Building on literature from crime and punishment, I use vignette experiments in the UK to test whether this is because they believe that punishment acts as a deterrent, or because they view it as retribution for immoral behavior. Respondents rated the likelihood of desired behavior from hypothetical migrants and benefits claimants, and from themselves, in response to punishments of varying severity. They believed that some punishment had a deterrent effect but harsher penalties had little further payoff. Punishment was supported because migrants and benefits claimants fail to live up to people’s behavioral standards, …",
+      "authors": [
+        "Tom O’Grady"
+      ],
+      "publishedAt": "2026-10-21",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101317",
+      "doi": "10.1017/s0143814x26101317",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000093",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "How cultural world views moderate policy framing on Universal Basic Income",
+      "abstract": "Universal Basic Income (UBI) has gained global attention as a potential policy response to the AI revolution, yet public support remains divided. While existing research highlights the role of political predisposition in shaping attitudes towards UBI, such explanations rely on the presence of partisan/ideological cues. In contexts where UBI is not yet politicized, ideological alignment may offer limited explanatory power. This article examines how individuals’ cultural predispositions, as conceptualized by Cultural Theory (CT), shape responses to different UBI framings in Taiwan, a non-Western democracy where partisan cues on UBI are less salient. Using an online survey experiment, the article tests how cultural world views interact with framing conditions to influence support for UBI. Findings demonstrate framing effects are conditioned by cultural orientations, supporting CT that indiv…",
+      "authors": [
+        "Wei-Ting Yen",
+        "Li-Yin Liu"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000093",
+      "doi": "10.1332/03055736y2026d000000093",
+      "tagIds": [
+        "methodology-frontier"
+      ],
+      "tags": [
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "methodology-frontier": 3
+      },
+      "summaryZh": "涉及研究方法与方法论前沿"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000102",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Power, politics, and policy agency: towards a Functional Theory of Agency",
+      "abstract": "This article examines how political position shapes policy agency in local policy making. Specifically, it asks: what patterns of policy agency functions do municipal councillors ( regidores ) exhibit in the local policy process? Drawing on the Functional Theory of Agency framework and a sequential mixed-methods design combining a national survey of Mexican municipal councillors with follow-up semi-structured interviews, we analyse how councillors exercise four modes of policy agency: steering, innovation, intermediation, and intelligence. Our findings reveal systematic differences between majoritarian and opposition councillors. Majoritarian councillors dominate commissions, align with mayoral priorities, and primarily act as steerers and brokers of executive policy. By contrast, opposition councillors, who are often excluded from formal decision-making arenas, engage in disruptive inno…",
+      "authors": [
+        "Oliver Meza",
+        "Ana Cecilia de Alba"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000102",
+      "doi": "10.1332/03055736y2026d000000102",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000094",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Explaining the policy advisory success of non-governmental organisations in unlikely settings: a complexity-oriented approach",
+      "abstract": "The aim of this study is to explore under what conditions policy actors are able to achieve advisory influence in a contested policy-making space. Specifically, it focuses on the factors leading to the success of a set of advisory actors typically assumed to be among the most disadvantaged – non-governmental organisations (NGOs). The article departs from dominant approaches to studying influence relying on theoretical exclusivity and argues for the need to adopt more flexible complexity-oriented analytical styles. To illustrate this, the study uses the extreme case of Bulgaria’s social service delivery reform. The analysis of the case provides strong support for the need to employ greater analytic eclecticism rather than rigid theoretical assumptions based on a single explanatory theory in making sense of advisory influence. It highlights the critical role of individual agents in leading…",
+      "authors": [
+        "Denitsa Marchevska"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000094",
+      "doi": "10.1332/03055736y2026d000000094",
+      "tagIds": [
+        "public-service-delivery"
+      ],
+      "tags": [
+        "公共服务供给与市场化"
+      ],
+      "tagScore": {
+        "public-service-delivery": 2
+      },
+      "summaryZh": "涉及公共服务供给与市场化"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000100",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Extending the Advocacy Coalition Framework: measuring within-coalition belief variation in offshore wind policy conflicts",
+      "abstract": "This study advances the Advocacy Coalition Framework (ACF) literature by introducing new approaches to capture variation in actors’ belief expression and to analyse how such expressions are constrained by actors’ organisational affiliations. Moving beyond existing accounts of constrained belief expression, it reconceptualises constraint as measurable differences in the breadth and intensity of beliefs articulated by actors within a coalition. Drawing on debates over US offshore wind energy, the study examines how organisational affiliation shapes patterns of constrained belief expression in public discourse. To do this, the article develops two quantitative metrics – the Belief Variety Score and the Belief Extreme Score – which capture the range and intensity of belief expression within coalitions. These are complemented by network-based measures of cohesion across actor types. The findi…",
+      "authors": [
+        "Aerang Nam"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000100",
+      "doi": "10.1332/03055736y2026d000000100",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000101",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "A systematic review of policy conflict and its (un)productive consequences",
+      "abstract": "Like most collective decision-making processes, the formulation, adaptation, and implementation of public policies are not immune to conflict. Recently, various authors have lamented the lack of explicit attention to conflict in the policy process and called for more research into how policy conflicts unfold and what consequences they produce. This article contributes to that scholarship in two ways: first, through a systematic discussion of empirical studies on the consequences of policy conflict since 2000; and second, by bringing into conversation insights that are currently dispersed across fragmented research traditions. The systematic literature review focuses on three aspects: how and where policy conflicts have been studied; whether and how they have been conceptualised; and what their consequences are. In doing so, the article highlights the often overlooked productive potential…",
+      "authors": [
+        "Ilana Schröder",
+        "Eva E.A. Wolf"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000101",
+      "doi": "10.1332/03055736y2026d000000101",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 4
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000092",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Not yet partisan: Cultural Theory explains attitudes about solar radiation management in the US",
+      "abstract": "This article investigates the role of Cultural Theory (CT) in explaining attitudes towards solar radiation management (SRM) in the US. Partisanship traditionally provides a clear lens through which to view favourability to climate change policies; however, the lack of partisan attention to geoengineering policies, such as SRM, suggests other belief systems may be better explainers of attitudes. Previously, scholars have found climate attitudes to vary based upon cultural types, which are a function of how individuals see the role of authority in policy making and the extent to which individuals see themselves as part of a social unit. We find that partisanship is a weak predictor of SRM attitudes, while cultural affinities provide strong influences over SRM attitudes. Specifically, we find strong group affinities (particularly egalitarians) to lead to more favourable impressions of SRM r…",
+      "authors": [
+        "Chris Koski",
+        "Paul Manson"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000092",
+      "doi": "10.1332/03055736y2026d000000092",
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "cnki:GGGL:kkumt6",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "常态化开发式驻村帮扶何以培育乡村内生发展能力——基于“跨界任务共同体”视角的过程分析",
+      "abstract": "在驻村帮扶由过渡性安排转向常态化开发式的新政策背景下，本文旨在解释外部政治使命及组织、制度与资源供给如何转化为乡村可持续调用的内生发展能力。研究提出了“跨界任务共同体”这一任务型中观组织分析框架，采用纵向单案例与过程追踪方法，研究2017—2025年Z市樟村驻村帮扶实践经验，发现常态化开发式驻村帮扶的关键并非增加项目，而是围绕治理修复、规则重建与主体培育等任务，将政府部门、村级组织、村民和市场主体...",
+      "authors": [
+        "张树旺"
+      ],
+      "publishedAt": "2026-09-22",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqMra0WRS6MTrqVZ-up9d5_FzPlfoCSkRgV3aM5PMAj9Nj3L5uWYHzdkxwolztBn72IfdhjsiqhEQaQc0EMjw-c7a6Iivu0sX8f0J4ye_XWYDaMe0OhN4G57ZsjkrP6VWQ4JSF0g9KNNOB9oiynpAuRw3lvKdCLrVKkBUhe1NyzY8A==",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGGL:1w0sb2y",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "城市基础设施生命线安全工程的类型建构与优化路径——“技术-治理”适配视角下的多案例分析",
+      "abstract": "城市基础设施生命线安全工程是保障城市正常运行的关键防线，在韧性城市建设中发挥着基础性支撑作用。既有研究多聚焦单一场景优化或局部技术迭代，不仅存在重工程轻治理、重硬件轻系统的理论局限，也未能回应全国统一制度环境下各地工程实践形态显著分化的现实。基于此，本文立足韧性治理理论，构建城市生命线安全工程韧性提升分析框架，提炼技术应用形态和治理模式两个分类维度，逻辑推导出集成协同型、集成统筹型、基础协同型、基...",
+      "authors": [
+        "郭瑞莲",
+        "朱正威"
+      ],
+      "publishedAt": "2026-09-18",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNG-6HXfHYPJENQpar9cRDg8Df7kv0dOw9YVIQm9VdnCVTl9XkTV7DtGdMZ435a9dLgBrM97ABGFPPJCTsYY2rEJCe790q7LBlSAvTpZnW1RFdIQ5hQts_5bbvCMJjaTjYBYGYIOjCNQTrkaX5RjtkXFODpjpP1H48wWQXm7XpR8Q==",
+      "doi": null,
+      "tagIds": [
+        "emergency-resilience",
+        "organization-institution"
+      ],
+      "tags": [
+        "应急管理与韧性治理",
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1.5,
+        "organization-institution": 1.5
+      },
+      "summaryZh": "涉及应急管理与韧性治理、组织理论与制度变迁",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:ZXGL:1pmqp6z",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-zxgl",
+      "outlet": "中国行政管理",
+      "outletZh": "《中国行政管理》",
+      "publisher": "中国行政管理学会",
+      "title": "社区嵌入式“双龄共养”融合服务的核心架构与内在机理研究",
+      "abstract": "作为中国社会结构的本源性议题，“一老一小”照料问题直接关系到公共服务均衡供给与人民福祉的实质性提升。本文以温州市H区为案例，以界面治理理论为“元理论”分析框架，结合代际支持理论与社会交换理论，采用探索性单案例研究方法，系统剖析社区嵌入式养老托育融合服务的核心架构与内在机理。研究发现，“双龄共养”融合服务实为传统养老与托育服务界面经耦合重构形成的新型服务系统。该系统以家庭照料赤字为现实起点，推动“私...",
+      "authors": [
+        "金红磊",
+        "张鹏飞"
+      ],
+      "publishedAt": "2026-09-17",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqM2iduXZP49TkxQHLEeZS0fn33_GRRamTBtRGCUg7HWYzDZ5dKFo32YZSL3sH8tc_FjNskhUbPNVPmSD4iYIruxcd6lE7MPSr2HzJ-M2Gzfxe5QVOumOSSJc6gtQ4YD_-SnrHsao2xW0XJko83E6MKV6TBEDn201Pg6oLxH9UqeUg==",
+      "doi": null,
+      "tagIds": [
+        "social-policy",
+        "grassroots-governance",
+        "public-service-delivery",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "社会政策与民生保障",
+        "基层治理与治理重心下移",
+        "公共服务供给与市场化",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "social-policy": 3,
+        "grassroots-governance": 1.5,
+        "public-service-delivery": 1.5,
+        "methodology-frontier": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障、基层治理与治理重心下移、公共服务供给与市场化",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:ZXGL:sstscj",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-zxgl",
+      "outlet": "中国行政管理",
+      "outletZh": "《中国行政管理》",
+      "publisher": "中国行政管理学会",
+      "title": "人才驱动科技创新和产业创新融合发展的行动机制与实现路径",
+      "abstract": "在全球科技革命与产业变革加速演进的时代背景下，本文分析苏州市和深圳市通过人才驱动科技创新和产业创新深度融合的实践经验，归纳人才驱动科技创新和产业创新融合发展的行动机制与内在机理，并提出针对性的政策建议，以期为政府更好发挥职能，提升国家创新体系整体效能、破解“科技经济两张皮”难题提供理论支撑。研究发现，地方政府立足差异化的资源禀赋，因地制宜逐步形成不同的政府角色演化路径,从而加速了人才驱动科技创新和...",
+      "authors": [
+        "徐明"
+      ],
+      "publishedAt": "2026-09-17",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNRG4CAGlmhdiVOpvp96MFGFntkxwDDXTnnHPPwfSgw9G6ud_JvCk7QgYl-m_ZXAfRK-j8e89MHhq94IX3EJthNMZSAEbKrEAZK5GGHh-eMLe3T82yThEXTBMH94-0Kc7OddJ68r0rS_2Nj1oBILKBwMBwObPXeMDz-AK3UPJ9wsw==",
+      "doi": null,
+      "tagIds": [
+        "performance-management",
+        "public-hr"
+      ],
+      "tags": [
+        "绩效管理与政府效能",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "performance-management": 1.5,
+        "public-hr": 1.5
+      },
+      "summaryZh": "涉及绩效管理与政府效能、公共部门人力资源与人事管理",
+      "carriedFrom": "2026-10-06"
+    },
+    {
+      "id": "cnki:GGGL:14hb5v1",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "层级缝隙：乡村产业振兴政策绩效损失的生成逻辑——基于G省现代农业产业园扶持政策的案例研究",
+      "abstract": "乡村产业振兴政策在多层级政府体系中的有效执行，是推进农业农村现代化的核心议题。针对既有研究对政策绩效损失如何在层级传导中逐级生成缺乏过程刻画与逻辑阐释的问题，本文引入“层级缝隙”概念，构建其分析框架，并将概念内涵界定为多层级政府因目标函数差异、资源约束与信息不对称而形成的非协调性状态。采用嵌入式单案例研究方法，以G省现代农业产业园扶持政策为对象，对H县兰花产业园进行过程追踪，结果发现：决策层—统筹...",
+      "authors": [
+        "刘畅",
+        "郑方辉",
+        "费睿"
+      ],
+      "publishedAt": "2026-09-14",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqNMvb2D8c8uDV74KnDVx0mf35wTtxo_mDHsLJyaLRMdc2fQ-CaJo7ouomsExAnVSSegnUx4lJRclBxAOLHz_zbgqr5iOXIvY9PoAs95cYvZHzxjkvW_d8xf3bn0XR2oqGbwl-0A4CWWLkZsZpi1GjbILO26tHVu5oG2gPiE-_L1jA==",
+      "doi": null,
+      "tagIds": [
+        "methodology-frontier"
+      ],
+      "tags": [
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "methodology-frontier": 1.5
+      },
+      "summaryZh": "涉及研究方法与方法论前沿",
+      "carriedFrom": "2026-10-06"
+    }
+  ]
+}

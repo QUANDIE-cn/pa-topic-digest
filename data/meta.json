@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-10-27T22:40:26.841Z",
-  "lastRunDate": "2026-10-27",
+  "lastRunAt": "2026-10-28T22:43:24.352Z",
+  "lastRunDate": "2026-10-28",
   "lastRunOk": false,
   "windowDays": 7,
   "sourceStatus": [
@@ -10,15 +10,15 @@
       "type": "journal",
       "ok": true,
       "count": 1,
-      "ms": 562
+      "ms": 385
     },
     {
       "id": "jpart",
       "name": "Journal of Public Administration Research and Theory",
       "type": "journal",
       "ok": true,
-      "count": 20,
-      "ms": 1021
+      "count": 1,
+      "ms": 360
     },
     {
       "id": "governance",
@@ -26,7 +26,7 @@
       "type": "journal",
       "ok": true,
       "count": 1,
-      "ms": 561
+      "ms": 549
     },
     {
       "id": "pmr",
@@ -34,7 +34,7 @@
       "type": "journal",
       "ok": true,
       "count": 4,
-      "ms": 485
+      "ms": 568
     },
     {
       "id": "public-administration",
@@ -42,7 +42,7 @@
       "type": "journal",
       "ok": true,
       "count": 18,
-      "ms": 657
+      "ms": 383
     },
     {
       "id": "ipmj",
@@ -50,7 +50,7 @@
       "type": "journal",
       "ok": true,
       "count": 1,
-      "ms": 389
+      "ms": 102
     },
     {
       "id": "policy-politics",
@@ -58,15 +58,15 @@
       "type": "journal",
       "ok": true,
       "count": 20,
-      "ms": 1231
+      "ms": 577
     },
     {
       "id": "ppmr",
       "name": "Public Performance & Management Review",
       "type": "journal",
       "ok": true,
-      "count": 1,
-      "ms": 667
+      "count": 2,
+      "ms": 126
     },
     {
       "id": "jpp",
@@ -74,7 +74,7 @@
       "type": "journal",
       "ok": true,
       "count": 5,
-      "ms": 781
+      "ms": 122
     },
     {
       "id": "cnki-zxgl",
@@ -83,7 +83,7 @@
       "ok": false,
       "count": 0,
       "error": "fetch failed",
-      "ms": 3198,
+      "ms": 2862,
       "carriedFrom": "2026-10-06",
       "carriedCount": 2
     },
@@ -94,7 +94,7 @@
       "ok": false,
       "count": 0,
       "error": "fetch failed",
-      "ms": 2761,
+      "ms": 2842,
       "carriedFrom": "2026-10-06",
       "carriedCount": 3
     },
@@ -105,7 +105,7 @@
       "ok": false,
       "count": 0,
       "error": "fetch failed",
-      "ms": 2608
+      "ms": 2900
     },
     {
       "id": "cnki-xzgl",
@@ -114,7 +114,7 @@
       "ok": false,
       "count": 0,
       "error": "fetch failed",
-      "ms": 2596
+      "ms": 2565
     },
     {
       "id": "cssn-bwyc",
@@ -122,7 +122,7 @@
       "type": "news",
       "ok": true,
       "count": 24,
-      "ms": 1875
+      "ms": 1989
     },
     {
       "id": "gov-policy",
@@ -130,17 +130,17 @@
       "type": "policy",
       "ok": true,
       "count": 40,
-      "ms": 1598
+      "ms": 1572
     }
   ],
   "stats": {
-    "entries": 49,
+    "entries": 51,
     "topics": 3,
     "journals": 9,
     "sourcesOk": 11,
     "sourcesTotal": 15
   },
-  "durationMs": 6293,
+  "durationMs": 5658,
   "failedSources": [
     "中国行政管理",
     "公共管理学报",

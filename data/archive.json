@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-01",
+    "generatedAt": "2026-11-01T22:39:59.068Z",
+    "topicLabels": [
+      "环境治理与气候政策",
+      "研究方法与方法论前沿",
+      "社会政策与民生保障"
+    ],
+    "topicIds": [
+      "environment-climate",
+      "methodology-frontier",
+      "social-policy"
+    ],
+    "entryCount": 44,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-10-31",
     "generatedAt": "2026-10-31T22:39:09.702Z",
     "topicLabels": [

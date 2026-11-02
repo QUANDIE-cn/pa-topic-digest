@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T22:45:42.279Z",
+    "topicLabels": [
+      "政策过程与政策工具",
+      "研究方法与方法论前沿",
+      "组织理论与制度变迁"
+    ],
+    "topicIds": [
+      "policy-process",
+      "methodology-frontier",
+      "organization-institution"
+    ],
+    "entryCount": 45,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-01",
     "generatedAt": "2026-11-01T22:39:59.068Z",
     "topicLabels": [

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-05",
+    "generatedAt": "2026-11-05T22:51:22.129Z",
+    "topicLabels": [
+      "环境治理与气候政策",
+      "研究方法与方法论前沿",
+      "政策过程与政策工具"
+    ],
+    "topicIds": [
+      "environment-climate",
+      "methodology-frontier",
+      "policy-process"
+    ],
+    "entryCount": 49,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-04",
     "generatedAt": "2026-11-04T22:50:52.533Z",
     "topicLabels": [

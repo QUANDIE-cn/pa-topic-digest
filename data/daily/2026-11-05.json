@@ -1,0 +1,1866 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T22:51:22.129Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-10-29",
+  "stats": {
+    "entries": 49,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "environment-climate",
+      "label": "环境治理与气候政策",
+      "summary": "环境监管、气候治理、双碳目标与地方环境执法研究。",
+      "kind": "最新",
+      "hotScore": 3.76,
+      "entryCount": 4,
+      "recent3Count": 3,
+      "outletCount": 4,
+      "typeBreakdown": {
+        "journal": 3,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 1
+      },
+      "outlets": [
+        {
+          "name": "中国政府网 · 政策文件库",
+          "count": 1
+        },
+        {
+          "name": "《公共管理评论（英国）》",
+          "count": 1
+        },
+        {
+          "name": "《国际公共管理杂志》",
+          "count": 1
+        },
+        {
+          "name": "《政策与政治》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 4 条，覆盖 4 个来源（国际顶刊 3 篇 / 中文动态 0 条 / 政策文件 1 条），其中 3 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "gov:26919870",
+          "lang": "zh",
+          "sourceType": "policy",
+          "sourceId": "gov-policy",
+          "outlet": "中国政府网",
+          "outletZh": "中国政府网 · 政策文件库",
+          "title": "国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复",
+          "abstract": "国务院关于辽宁等9省区国家级自然保护区 和国家级风景名胜区整合优化方案的批复 国函〔2026〕113号 自然资源部、生态环境部、国家林草局： 《自然资源部、生态环境部关于报请批准辽宁等9省区国家级自然...",
+          "summary": "国务院关于辽宁等9省区国家级自然保护区 和国家级风景名胜区整合优化方案的批复 国函〔2026〕113号 自然资源部、生态环境部、国家林草局： 《自然资源部、生态环境部关于报请批准辽宁等9省区国家级自然...",
+          "docNumber": "国函〔2026〕113号",
+          "org": "国务院",
+          "category": "城乡建设、环境保护\\环境监测、保护与治理",
+          "authors": [],
+          "publishedAt": "2026-11-05",
+          "datePrecision": "day",
+          "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085110.htm",
+          "doi": null,
+          "tagIds": [
+            "environment-climate"
+          ],
+          "tags": [
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "environment-climate": 1.5
+          },
+          "summaryZh": "涉及环境治理与气候政策"
+        },
+        {
+          "id": "doi:10.1080/14719037.2026.2759174",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "pmr",
+          "outlet": "Public Management Review",
+          "outletZh": "《公共管理评论（英国）》",
+          "title": "The only game in town: NPM’s resilience and depoliticizing effects in (r)urban sustainability transition",
+          "abstract": "",
+          "authors": [
+            "David Scott",
+            "Malin Rönnblom"
+          ],
+          "publishedAt": "2026-11-04",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/14719037.2026.2759174",
+          "doi": "10.1080/14719037.2026.2759174",
+          "tagIds": [
+            "emergency-resilience",
+            "environment-climate"
+          ],
+          "tags": [
+            "应急管理与韧性治理",
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "emergency-resilience": 1,
+            "environment-climate": 1
+          },
+          "summaryZh": "涉及应急管理与韧性治理、环境治理与气候政策"
+        },
+        {
+          "id": "doi:10.1080/10967494.2026.2716261",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "ipmj",
+          "outlet": "International Public Management Journal",
+          "outletZh": "《国际公共管理杂志》",
+          "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts",
+          "abstract": "",
+          "authors": [
+            "Geneviève Morin",
+            "Étienne Charbonneau",
+            "Daniel Bromberg"
+          ],
+          "publishedAt": "2026-11-04",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/10967494.2026.2716261",
+          "doi": "10.1080/10967494.2026.2716261",
+          "tagIds": [
+            "environment-climate"
+          ],
+          "tags": [
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "environment-climate": 1
+          },
+          "summaryZh": "涉及环境治理与气候政策"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000092",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "Not yet partisan: Cultural Theory explains attitudes about solar radiation management in the US",
+          "abstract": "This article investigates the role of Cultural Theory (CT) in explaining attitudes towards solar radiation management (SRM) in the US. Partisanship traditionally provides a clear lens through which to view favourability to climate change policies; however, the lack of partisan attention to geoengineering policies, such as SRM, suggests other belief systems may be better explainers of attitudes. Previously, scholars have found climate attitudes to vary based upon cultural types, which are a function of how individuals see the role of authority in policy making and the extent to which individuals see themselves as part of a social unit. We find that partisanship is a weak predictor of SRM attitudes, while cultural affinities provide strong influences over SRM attitudes. Specifically, we find strong group affinities (particularly egalitarians) to lead to more favourable impressions of SRM r…",
+          "authors": [
+            "Chris Koski",
+            "Paul Manson"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "month",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000092",
+          "doi": "10.1332/03055736y2026d000000092",
+          "tagIds": [
+            "environment-climate"
+          ],
+          "tags": [
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "environment-climate": 1
+          },
+          "summaryZh": "涉及环境治理与气候政策"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "公众环境诉求如何进入政策议程",
+          "theory": "议程设置 × 环境正义",
+          "method": "文本挖掘 + 面板回归",
+          "data": "环保投诉平台语料与地方政策产出"
+        },
+        {
+          "title": "环境监测数据质量与地方激励扭曲",
+          "theory": "委托代理 × 多任务激励",
+          "method": "断点回归（监测站国控/省控边界）",
+          "data": "空气质量监测站数据与站点属性"
+        },
+        {
+          "title": "双碳目标下地方产业政策的路径依赖",
+          "theory": "路径依赖 × 转型政治经济学",
+          "method": "比较案例 + 文本分析",
+          "data": "资源型城市碳达峰实施方案与产业投资数据"
+        }
+      ]
+    },
+    {
+      "id": "methodology-frontier",
+      "label": "研究方法与方法论前沿",
+      "summary": "实验、因果推断、文本与大数据方法在公共管理研究中的应用与争论。",
+      "kind": "最新",
+      "hotScore": 3.59,
+      "entryCount": 5,
+      "recent3Count": 3,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 5,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《公共行政研究与理论杂志》",
+          "count": 3
+        },
+        {
+          "name": "《公共政策杂志》",
+          "count": 1
+        },
+        {
+          "name": "《政策与政治》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 5 条，覆盖 3 个来源（国际顶刊 5 篇 / 中文动态 0 条 / 政策文件 0 条），其中 3 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1017/s0143814x26101378",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpp",
+          "outlet": "Journal of Public Policy",
+          "outletZh": "《公共政策杂志》",
+          "title": "Bureaucratic behavior in the implementation of freedom of information laws: evidence from a field experiment in Belgian municipalities",
+          "abstract": "Abstract Freedom of Information (FOI) laws are widely adopted to promote transparency, yet their implementation diverges from formal legal expectations. This article examines how variations in FOI requests shape administrative responses and what these patterns reveal about bureaucratic behavior in municipal administrations. Drawing on a randomized field experiment across Belgian municipalities, the study analyzes how public officials respond to identical FOI requests varying by requester identity and legal framing. The findings show that responsiveness is not neutral but varies systematically across request characteristics and contexts. Ordinary citizens receive higher disclosure rates than institutional or advocacy actors, and invoking FOI law increases compliance for some requesters while reducing it for others. These patterns suggest that administrative responses – understood as obser…",
+          "authors": [
+            "Giovanni Esposito",
+            "Lorenzo Cicatiello",
+            "Giuseppe Lucio Gaeta",
+            "Vincent Mabillard"
+          ],
+          "publishedAt": "2026-11-04",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1017/s0143814x26101378",
+          "doi": "10.1017/s0143814x26101378",
+          "tagIds": [
+            "methodology-frontier",
+            "bureaucratic-behavior",
+            "citizen-participation",
+            "regulation-governance",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "官僚行为与公共服务动机",
+            "公民参与与共同生产",
+            "监管治理与规制改革",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "methodology-frontier": 4,
+            "bureaucratic-behavior": 1,
+            "citizen-participation": 1,
+            "regulation-governance": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机、公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1093/jopart/muag037",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpart",
+          "outlet": "Journal of Public Administration Research and Theory",
+          "outletZh": "《公共行政研究与理论杂志》",
+          "title": "Toward an “Identity Turn” in Public Service Motivation Theory: A Problematizing Review and Research Agenda",
+          "abstract": "Abstract Since its inception, Public Service Motivation (PSM) has been recognized as a key driver of behavior in public institutions. Despite its prominence, skepticism has emerged. In response, research has primarily focused on empirical analysis and measurement refinement rather than on conceptual development. This conceptual path dependency has become problematic as mixed empirical results increasingly challenge core theoretical propositions of PSM theory. We argue that one potential cause lies in a dominant assumption shaping the field: its positioning within motivation theory. To address this, we conducted a problematizing review across concepts and disciplines, comparing how PSM is understood in Public Administration with related concepts–such as motivation, altruism, and identity–in Management, Psychology, Sociology, and Economics. Based on this analysis, we propose a novel theore…",
+          "authors": [
+            "Lorenza Micacchi",
+            "Adrian Ritz"
+          ],
+          "publishedAt": "2026-11-03",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1093/jopart/muag037",
+          "doi": "10.1093/jopart/muag037",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "public-service-delivery",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公共服务供给与市场化",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 2,
+            "public-service-delivery": 2,
+            "methodology-frontier": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公共服务供给与市场化、研究方法与方法论前沿"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000093",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "How cultural world views moderate policy framing on Universal Basic Income",
+          "abstract": "Universal Basic Income (UBI) has gained global attention as a potential policy response to the AI revolution, yet public support remains divided. While existing research highlights the role of political predisposition in shaping attitudes towards UBI, such explanations rely on the presence of partisan/ideological cues. In contexts where UBI is not yet politicized, ideological alignment may offer limited explanatory power. This article examines how individuals’ cultural predispositions, as conceptualized by Cultural Theory (CT), shape responses to different UBI framings in Taiwan, a non-Western democracy where partisan cues on UBI are less salient. Using an online survey experiment, the article tests how cultural world views interact with framing conditions to influence support for UBI. Findings demonstrate framing effects are conditioned by cultural orientations, supporting CT that indiv…",
+          "authors": [
+            "Wei-Ting Yen",
+            "Li-Yin Liu"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "month",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000093",
+          "doi": "10.1332/03055736y2026d000000093",
+          "tagIds": [
+            "methodology-frontier"
+          ],
+          "tags": [
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "methodology-frontier": 3
+          },
+          "summaryZh": "涉及研究方法与方法论前沿"
+        },
+        {
+          "id": "doi:10.1093/jopart/muag040",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpart",
+          "outlet": "Journal of Public Administration Research and Theory",
+          "outletZh": "《公共行政研究与理论杂志》",
+          "title": "The Effect of Clients’ Financial Resources, Mental Health, and Motivation on Frontline Workers’ Burden Reduction and Prioritizations",
+          "abstract": "Abstract The street-level bureaucracy literature shows that frontline workers’ decisions about clients are shaped by perceptions of deservingness based on clients’ demographic characteristics and behavioral conduct. Yet, we know little about whether frontline workers also act on clients’ financial resources and mental health, despite the administrative burden literature identifying these two factors as central to how citizens experience compliance demands. We contribute to both literatures by developing and testing preregistered hypotheses that examine how information about clients’ financial resources and mental health shapes frontline workers’ burden reduction and client prioritization. To do this, we run a large-scale vignette experiment with 775 caseworkers across 39 Danish unemployment agencies, manipulating client age, financial situation, mental health, and motivation but holding …",
+          "authors": [
+            "Niels Bjørn Grund Petersen",
+            "Jonas Krogh Madsen"
+          ],
+          "publishedAt": "2026-11-02",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1093/jopart/muag040",
+          "doi": "10.1093/jopart/muag040",
+          "tagIds": [
+            "grassroots-governance",
+            "bureaucratic-behavior",
+            "regulation-governance",
+            "methodology-frontier"
+          ],
+          "tags": [
+            "基层治理与治理重心下移",
+            "官僚行为与公共服务动机",
+            "监管治理与规制改革",
+            "研究方法与方法论前沿"
+          ],
+          "tagScore": {
+            "grassroots-governance": 3,
+            "bureaucratic-behavior": 1,
+            "regulation-governance": 1,
+            "methodology-frontier": 1
+          },
+          "summaryZh": "涉及基层治理与治理重心下移、官僚行为与公共服务动机、监管治理与规制改革"
+        },
+        {
+          "id": "doi:10.1093/jopart/muag038",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpart",
+          "outlet": "Journal of Public Administration Research and Theory",
+          "outletZh": "《公共行政研究与理论杂志》",
+          "title": "Every Mile Counts: Geographical Distance as Administrative Burden in Intellectual Property Services",
+          "abstract": "Abstract While existing research has examined procedural and informational sources of administrative burden, this paper examines how organizational design choices about the geographic location of administrative authority institutionalize spatial burdens on firms. We leverage China's decentralization reform in trademark registration services as a natural experiment to test this theory. This reform reduced geographic distance by establishing local acceptance windows across the country from 2016 to 2019. Prior to this reform, trademark applications had to be submitted exclusively at the centralized Beijing office, imposing substantial geographic barriers on firms nationwide. Using a unique dataset covering over 37 million trademark applications from 294 Chinese cities, we employ a staggered difference-in-differences approach to estimate the causal effects of reduced geographic distance on t…",
+          "authors": [
+            "Shenghua Lu"
+          ],
+          "publishedAt": "2026-10-29",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1093/jopart/muag038",
+          "doi": "10.1093/jopart/muag038",
+          "tagIds": [
+            "methodology-frontier",
+            "organization-institution"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "组织理论与制度变迁"
+          ],
+          "tagScore": {
+            "methodology-frontier": 2,
+            "organization-institution": 1
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、组织理论与制度变迁"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "定性比较分析在公共管理中的使用规范",
+          "theory": "方法论文献计量",
+          "method": "系统综述 + 编码统计",
+          "data": "国内公共管理核心期刊近十年的 QCA 论文全集"
+        },
+        {
+          "title": "公共管理实验研究的可复制性检验",
+          "theory": "复制研究 × 科学累积",
+          "method": "预注册复制实验 + 元分析",
+          "data": "过往高影响力实验研究的可复制样本集"
+        },
+        {
+          "title": "文本大模型在政策文本编码中的可靠性",
+          "theory": "测量理论 × 人机标注比较",
+          "method": "标注一致性检验 + 人机混合编码",
+          "data": "已有专家编码的政策文本语料作为基准"
+        }
+      ]
+    },
+    {
+      "id": "policy-process",
+      "label": "政策过程与政策工具",
+      "summary": "议程设置、政策设计、政策扩散、间断均衡与政策工具选择。",
+      "kind": "热门",
+      "hotScore": 3.06,
+      "entryCount": 5,
+      "recent3Count": 0,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 5,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《政策与政治》",
+          "count": 3
+        },
+        {
+          "name": "《治理》",
+          "count": 1
+        },
+        {
+          "name": "《公共管理评论（英国）》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 5 条，覆盖 3 个来源（国际顶刊 5 篇 / 中文动态 0 条 / 政策文件 0 条），其中 0 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1111/gove.70159",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "governance",
+          "outlet": "Governance",
+          "outletZh": "《治理》",
+          "title": "Emulate the Leader? Explaining Crisis Policy Change in the Canadian Federal System",
+          "abstract": "ABSTRACT In times of crises, do governments coordinate or do they make their own choices independent of what others do? Convergence of COVID‐19 policy at the beginning of the pandemic has been widely studied in federal countries. Yet, there is limited literature looking at the mechanisms that made policy between jurisdictions so similar. Utilizing Canada's decentralized federal system, this paper posits that convergence can be explained by a process of policy diffusion through emulation and a series of leader‐follower relationships. Drawing on the policy diffusion literature, this paper proposes three hypotheses for why some jurisdictions take on leadership roles in crisis policy while others follow. Synthesized as proximity, capacity, and urgency, these hypotheses are tested using a series of pairwise vector autoregressions identifying significant leader‐follower relationships between C…",
+          "authors": [
+            "Liddell Hastings"
+          ],
+          "publishedAt": "2026-11-01",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/gove.70159",
+          "doi": "10.1111/gove.70159",
+          "tagIds": [
+            "policy-process",
+            "public-hr"
+          ],
+          "tags": [
+            "政策过程与政策工具",
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "policy-process": 4,
+            "public-hr": 1
+          },
+          "summaryZh": "涉及政策过程与政策工具、公共部门人力资源与人事管理"
+        },
+        {
+          "id": "doi:10.1080/14719037.2026.2756935",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "pmr",
+          "outlet": "Public Management Review",
+          "outletZh": "《公共管理评论（英国）》",
+          "title": "Resolving institutional fragmentation in a multilevel governance system: configurational logics of social health insurance integration in China",
+          "abstract": "",
+          "authors": [
+            "Yingying Ma",
+            "Alex Jingwei He",
+            "Xin Zeng",
+            "Yumeng Fan"
+          ],
+          "publishedAt": "2026-11-01",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/14719037.2026.2756935",
+          "doi": "10.1080/14719037.2026.2756935",
+          "tagIds": [
+            "policy-process"
+          ],
+          "tags": [
+            "政策过程与政策工具"
+          ],
+          "tagScore": {
+            "policy-process": 1
+          },
+          "summaryZh": "涉及政策过程与政策工具"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000102",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "Power, politics, and policy agency: towards a Functional Theory of Agency",
+          "abstract": "This article examines how political position shapes policy agency in local policy making. Specifically, it asks: what patterns of policy agency functions do municipal councillors ( regidores ) exhibit in the local policy process? Drawing on the Functional Theory of Agency framework and a sequential mixed-methods design combining a national survey of Mexican municipal councillors with follow-up semi-structured interviews, we analyse how councillors exercise four modes of policy agency: steering, innovation, intermediation, and intelligence. Our findings reveal systematic differences between majoritarian and opposition councillors. Majoritarian councillors dominate commissions, align with mayoral priorities, and primarily act as steerers and brokers of executive policy. By contrast, opposition councillors, who are often excluded from formal decision-making arenas, engage in disruptive inno…",
+          "authors": [
+            "Oliver Meza",
+            "Ana Cecilia de Alba"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "month",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000102",
+          "doi": "10.1332/03055736y2026d000000102",
+          "tagIds": [
+            "policy-process"
+          ],
+          "tags": [
+            "政策过程与政策工具"
+          ],
+          "tagScore": {
+            "policy-process": 2
+          },
+          "summaryZh": "涉及政策过程与政策工具"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000100",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "Extending the Advocacy Coalition Framework: measuring within-coalition belief variation in offshore wind policy conflicts",
+          "abstract": "This study advances the Advocacy Coalition Framework (ACF) literature by introducing new approaches to capture variation in actors’ belief expression and to analyse how such expressions are constrained by actors’ organisational affiliations. Moving beyond existing accounts of constrained belief expression, it reconceptualises constraint as measurable differences in the breadth and intensity of beliefs articulated by actors within a coalition. Drawing on debates over US offshore wind energy, the study examines how organisational affiliation shapes patterns of constrained belief expression in public discourse. To do this, the article develops two quantitative metrics – the Belief Variety Score and the Belief Extreme Score – which capture the range and intensity of belief expression within coalitions. These are complemented by network-based measures of cohesion across actor types. The findi…",
+          "authors": [
+            "Aerang Nam"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "month",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000100",
+          "doi": "10.1332/03055736y2026d000000100",
+          "tagIds": [
+            "policy-process"
+          ],
+          "tags": [
+            "政策过程与政策工具"
+          ],
+          "tagScore": {
+            "policy-process": 2
+          },
+          "summaryZh": "涉及政策过程与政策工具"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000101",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "A systematic review of policy conflict and its (un)productive consequences",
+          "abstract": "Like most collective decision-making processes, the formulation, adaptation, and implementation of public policies are not immune to conflict. Recently, various authors have lamented the lack of explicit attention to conflict in the policy process and called for more research into how policy conflicts unfold and what consequences they produce. This article contributes to that scholarship in two ways: first, through a systematic discussion of empirical studies on the consequences of policy conflict since 2000; and second, by bringing into conversation insights that are currently dispersed across fragmented research traditions. The systematic literature review focuses on three aspects: how and where policy conflicts have been studied; whether and how they have been conceptualised; and what their consequences are. In doing so, the article highlights the often overlooked productive potential…",
+          "authors": [
+            "Ilana Schröder",
+            "Eva E.A. Wolf"
+          ],
+          "publishedAt": "2026-10-01",
+          "datePrecision": "month",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000101",
+          "doi": "10.1332/03055736y2026d000000101",
+          "tagIds": [
+            "policy-process"
+          ],
+          "tags": [
+            "政策过程与政策工具"
+          ],
+          "tagScore": {
+            "policy-process": 4
+          },
+          "summaryZh": "涉及政策过程与政策工具"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "政策工具组合的适配逻辑",
+          "theory": "政策设计理论 × 工具—目标匹配",
+          "method": "定性比较分析（QCA）",
+          "data": "同一领域不同城市的政策文本编码库"
+        },
+        {
+          "title": "政策执行的地方再解释空间",
+          "theory": "执行理论 × 意义建构",
+          "method": "解释性案例研究 + 访谈",
+          "data": "同一中央政策在3~4个地市的落地文件与执行者叙述"
+        },
+        {
+          "title": "政策试点的扩散机制与失败案例再评估",
+          "theory": "政策扩散 × 试点—推广理论",
+          "method": "事件史分析 + 过程追踪",
+          "data": "试点名单、推广文件与地方采纳时间序列"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "cssn:20261106_15a7fyn",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "在新征程上巩固党的长期执政地位",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-06",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261106_6076844.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261106_xnrwfs",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "探索政党建设规律 彰显科学思想伟力",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-06",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261106_6076843.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1111/puar.70234",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Digging Into the Subsoil: Considering and Theorizing Human Services Delivery at the Sub‐Micro‐Level of the Public Service Ecosystem",
+      "abstract": "ABSTRACT Public services are often delivered in partnership with families and communities, yet these relationships receive limited attention within public service ecosystem (PSE) theory. Responding to call to develop the sub‐micro‐level of the PSE, we introduce the concept of subsoil sensitivity to foreground the family and community ecosystems that underpin public service value creation. These informal systems are active sites of value creation and destruction with sensitivities arising from their alignment or misalignment with public services. We propose legislative and policy nodes as connectors that translate macrolevel policy into microlevel practice. Drawing on child protection vignettes, we show how nodes create the conditions for interaction, while subsoil dynamics influence whether value is cocreated or codestroyed amid power asymmetries and differing belief systems. The paper e…",
+      "authors": [
+        "Kate Broadhurst",
+        "Steven Parker"
+      ],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70234",
+      "doi": "10.1111/puar.70234",
+      "tagIds": [
+        "public-service-delivery",
+        "collaborative-governance"
+      ],
+      "tags": [
+        "公共服务供给与市场化",
+        "协同治理与跨部门合作"
+      ],
+      "tagScore": {
+        "public-service-delivery": 2,
+        "collaborative-governance": 1
+      },
+      "summaryZh": "涉及公共服务供给与市场化、协同治理与跨部门合作"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2759315",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "The difficulties of reducing administrative burden via the nonprofit sector: how sedimented governance stifles care coordination",
+      "abstract": "",
+      "authors": [
+        "Rene Wiedner",
+        "Alice Moore",
+        "Alec Fraser"
+      ],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2759315",
+      "doi": "10.1080/14719037.2026.2759315",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1my9xxz",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "高校学报要在中国自主知识体系建构中贡献更大力量",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076833.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1jdybs8",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国社会科学院大学与经济日报社签署共建协议",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076810.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_isc6c8",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "殷墟甲骨习刻研究回顾与前瞻",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076727.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_oh4lgl",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "超景深显微技术推动甲骨学微观研究",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076724.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1x5qx17",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "微痕增强图像技术在甲骨学中的应用",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076722.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1sz1ylc",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "探索人文为本的学科发展路径",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076721.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1jr6xg0",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "提炼本土概念与命题",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076720.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_2nfpxj",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "探寻共同富裕的省域路径",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076716.shtml",
+      "doi": null,
+      "tagIds": [
+        "social-policy"
+      ],
+      "tags": [
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "social-policy": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障"
+    },
+    {
+      "id": "cssn:20261105_6xluqs",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推进西部地区高质量发展",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076712.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1g9dzcl",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "促进青少年心理健康研究",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076710.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_eq08vh",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "驳斥“新清史2.0”对清代新疆治理的歪曲",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076709.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_11s9jtl",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“为中国而设计”第十二届环境艺术设计展览暨学术会议在汉举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076697.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1g0t742",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "善意呼吁为何难抵学术内卷现实",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076693.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1t0mofx",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "【理响中国】立党立国、兴党强国的一大法宝",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076692.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_m3zror",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "鼓动非洲：音乐架起文明对话的桥梁",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076660.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1e2uxs5",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "构建中国自主的太平洋岛国认知与叙事",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076659.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_z4yhs4",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "国际关系学和区域国别学的融合与创新",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076658.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_zgmujl",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "乡村赛事驱动多形态体育消费",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076657.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_3n6gke",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“村+”活动激发乡土中国新活力",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076656.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_1324ac8",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "让体育成为乡村发展的“柔性基础设施”",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076655.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261105_b13yd2",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "AI漫剧：精品化转型才是破局关键",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261105_6076654.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26919870",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复",
+      "abstract": "国务院关于辽宁等9省区国家级自然保护区 和国家级风景名胜区整合优化方案的批复 国函〔2026〕113号 自然资源部、生态环境部、国家林草局： 《自然资源部、生态环境部关于报请批准辽宁等9省区国家级自然...",
+      "summary": "国务院关于辽宁等9省区国家级自然保护区 和国家级风景名胜区整合优化方案的批复 国函〔2026〕113号 自然资源部、生态环境部、国家林草局： 《自然资源部、生态环境部关于报请批准辽宁等9省区国家级自然...",
+      "docNumber": "国函〔2026〕113号",
+      "org": "国务院",
+      "category": "城乡建设、环境保护\\环境监测、保护与治理",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085110.htm",
+      "doi": null,
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1.5
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "gov:26919736",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "国务院办公厅关于2027年部分节假日安排的通知",
+      "abstract": "国务院办公厅关于2027年 部分节假日安排的通知 国办发明电〔2026〕10号 各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 经国务院批准，现将2027年元旦、春节、清明节、劳动节、端午节...",
+      "summary": "国务院办公厅关于2027年 部分节假日安排的通知 国办发明电〔2026〕10号 各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 经国务院批准，现将2027年元旦、春节、清明节、劳动节、端午节...",
+      "docNumber": "国办发明电〔2026〕10号",
+      "org": "国务院办公厅",
+      "category": "综合政务\\其他",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.htm",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26919703",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "国务院关于修改和废止部分行政法规的决定",
+      "abstract": "中华人民共和国国务院令 第851号 《国务院关于修改和废止部分行政法规的决定》已经2026年10月16日国务院第99次常务会议通过，现予公布，自公布之日起施行。 总理 李强 202...",
+      "summary": "中华人民共和国国务院令 第851号 《国务院关于修改和废止部分行政法规的决定》已经2026年10月16日国务院第99次常务会议通过，现予公布，自公布之日起施行。 总理 李强 202...",
+      "docNumber": "国令第851号",
+      "org": "国务院",
+      "category": "公安、安全、司法\\司法",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085099.htm",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2759174",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "The only game in town: NPM’s resilience and depoliticizing effects in (r)urban sustainability transition",
+      "abstract": "",
+      "authors": [
+        "David Scott",
+        "Malin Rönnblom"
+      ],
+      "publishedAt": "2026-11-04",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2759174",
+      "doi": "10.1080/14719037.2026.2759174",
+      "tagIds": [
+        "emergency-resilience",
+        "environment-climate"
+      ],
+      "tags": [
+        "应急管理与韧性治理",
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1,
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及应急管理与韧性治理、环境治理与气候政策"
+    },
+    {
+      "id": "doi:10.1080/10967494.2026.2716261",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ipmj",
+      "outlet": "International Public Management Journal",
+      "outletZh": "《国际公共管理杂志》",
+      "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts",
+      "abstract": "",
+      "authors": [
+        "Geneviève Morin",
+        "Étienne Charbonneau",
+        "Daniel Bromberg"
+      ],
+      "publishedAt": "2026-11-04",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/10967494.2026.2716261",
+      "doi": "10.1080/10967494.2026.2716261",
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2756919",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "When Technology Meets Culture: Digital Co-Production and Public Value Creation",
+      "abstract": "",
+      "authors": [
+        "Huan-Sheng Lin"
+      ],
+      "publishedAt": "2026-11-04",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2756919",
+      "doi": "10.1080/15309576.2026.2756919",
+      "tagIds": [
+        "digital-government",
+        "collaborative-governance",
+        "citizen-participation"
+      ],
+      "tags": [
+        "数字政府与算法治理",
+        "协同治理与跨部门合作",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "digital-government": 1,
+        "collaborative-governance": 1,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及数字政府与算法治理、协同治理与跨部门合作、公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101378",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "Bureaucratic behavior in the implementation of freedom of information laws: evidence from a field experiment in Belgian municipalities",
+      "abstract": "Abstract Freedom of Information (FOI) laws are widely adopted to promote transparency, yet their implementation diverges from formal legal expectations. This article examines how variations in FOI requests shape administrative responses and what these patterns reveal about bureaucratic behavior in municipal administrations. Drawing on a randomized field experiment across Belgian municipalities, the study analyzes how public officials respond to identical FOI requests varying by requester identity and legal framing. The findings show that responsiveness is not neutral but varies systematically across request characteristics and contexts. Ordinary citizens receive higher disclosure rates than institutional or advocacy actors, and invoking FOI law increases compliance for some requesters while reducing it for others. These patterns suggest that administrative responses – understood as obser…",
+      "authors": [
+        "Giovanni Esposito",
+        "Lorenzo Cicatiello",
+        "Giuseppe Lucio Gaeta",
+        "Vincent Mabillard"
+      ],
+      "publishedAt": "2026-11-04",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101378",
+      "doi": "10.1017/s0143814x26101378",
+      "tagIds": [
+        "methodology-frontier",
+        "bureaucratic-behavior",
+        "citizen-participation",
+        "regulation-governance",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "研究方法与方法论前沿",
+        "官僚行为与公共服务动机",
+        "公民参与与共同生产",
+        "监管治理与规制改革",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "methodology-frontier": 4,
+        "bureaucratic-behavior": 1,
+        "citizen-participation": 1,
+        "regulation-governance": 1,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机、公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1093/jopart/muag037",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpart",
+      "outlet": "Journal of Public Administration Research and Theory",
+      "outletZh": "《公共行政研究与理论杂志》",
+      "title": "Toward an “Identity Turn” in Public Service Motivation Theory: A Problematizing Review and Research Agenda",
+      "abstract": "Abstract Since its inception, Public Service Motivation (PSM) has been recognized as a key driver of behavior in public institutions. Despite its prominence, skepticism has emerged. In response, research has primarily focused on empirical analysis and measurement refinement rather than on conceptual development. This conceptual path dependency has become problematic as mixed empirical results increasingly challenge core theoretical propositions of PSM theory. We argue that one potential cause lies in a dominant assumption shaping the field: its positioning within motivation theory. To address this, we conducted a problematizing review across concepts and disciplines, comparing how PSM is understood in Public Administration with related concepts–such as motivation, altruism, and identity–in Management, Psychology, Sociology, and Economics. Based on this analysis, we propose a novel theore…",
+      "authors": [
+        "Lorenza Micacchi",
+        "Adrian Ritz"
+      ],
+      "publishedAt": "2026-11-03",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1093/jopart/muag037",
+      "doi": "10.1093/jopart/muag037",
+      "tagIds": [
+        "bureaucratic-behavior",
+        "public-service-delivery",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机",
+        "公共服务供给与市场化",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 2,
+        "public-service-delivery": 2,
+        "methodology-frontier": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机、公共服务供给与市场化、研究方法与方法论前沿"
+    },
+    {
+      "id": "doi:10.1093/jopart/muag040",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpart",
+      "outlet": "Journal of Public Administration Research and Theory",
+      "outletZh": "《公共行政研究与理论杂志》",
+      "title": "The Effect of Clients’ Financial Resources, Mental Health, and Motivation on Frontline Workers’ Burden Reduction and Prioritizations",
+      "abstract": "Abstract The street-level bureaucracy literature shows that frontline workers’ decisions about clients are shaped by perceptions of deservingness based on clients’ demographic characteristics and behavioral conduct. Yet, we know little about whether frontline workers also act on clients’ financial resources and mental health, despite the administrative burden literature identifying these two factors as central to how citizens experience compliance demands. We contribute to both literatures by developing and testing preregistered hypotheses that examine how information about clients’ financial resources and mental health shapes frontline workers’ burden reduction and client prioritization. To do this, we run a large-scale vignette experiment with 775 caseworkers across 39 Danish unemployment agencies, manipulating client age, financial situation, mental health, and motivation but holding …",
+      "authors": [
+        "Niels Bjørn Grund Petersen",
+        "Jonas Krogh Madsen"
+      ],
+      "publishedAt": "2026-11-02",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1093/jopart/muag040",
+      "doi": "10.1093/jopart/muag040",
+      "tagIds": [
+        "grassroots-governance",
+        "bureaucratic-behavior",
+        "regulation-governance",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "基层治理与治理重心下移",
+        "官僚行为与公共服务动机",
+        "监管治理与规制改革",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "grassroots-governance": 3,
+        "bureaucratic-behavior": 1,
+        "regulation-governance": 1,
+        "methodology-frontier": 1
+      },
+      "summaryZh": "涉及基层治理与治理重心下移、官僚行为与公共服务动机、监管治理与规制改革"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2752047",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "The virtue paradox: how perceived organizational social responsibility and organizational shame fuel resistance to change among motivated public servants",
+      "abstract": "",
+      "authors": [
+        "Marc Ohana",
+        "Mathieu Molines",
+        "Elodie Arnéguy",
+        "Aurore Darmandieu",
+        "David Carassus"
+      ],
+      "publishedAt": "2026-11-02",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2752047",
+      "doi": "10.1080/14719037.2026.2752047",
+      "tagIds": [
+        "organization-institution"
+      ],
+      "tags": [
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "organization-institution": 1
+      },
+      "summaryZh": "涉及组织理论与制度变迁"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2752994",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Towards more impactful co-design: insights from a systematic review of food loss and waste solutions",
+      "abstract": "",
+      "authors": [
+        "Yaerin Park",
+        "Karol Olejniczak",
+        "Aidan Hudson-Lapore"
+      ],
+      "publishedAt": "2026-11-02",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2752994",
+      "doi": "10.1080/14719037.2026.2752994",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2756938",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Organizational sensemaking and AI adoption in U.S. local governments",
+      "abstract": "",
+      "authors": [
+        "Jihoon Jeong"
+      ],
+      "publishedAt": "2026-11-02",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2756938",
+      "doi": "10.1080/14719037.2026.2756938",
+      "tagIds": [
+        "organization-institution"
+      ],
+      "tags": [
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "organization-institution": 1
+      },
+      "summaryZh": "涉及组织理论与制度变迁"
+    },
+    {
+      "id": "doi:10.1111/gove.70159",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "Emulate the Leader? Explaining Crisis Policy Change in the Canadian Federal System",
+      "abstract": "ABSTRACT In times of crises, do governments coordinate or do they make their own choices independent of what others do? Convergence of COVID‐19 policy at the beginning of the pandemic has been widely studied in federal countries. Yet, there is limited literature looking at the mechanisms that made policy between jurisdictions so similar. Utilizing Canada's decentralized federal system, this paper posits that convergence can be explained by a process of policy diffusion through emulation and a series of leader‐follower relationships. Drawing on the policy diffusion literature, this paper proposes three hypotheses for why some jurisdictions take on leadership roles in crisis policy while others follow. Synthesized as proximity, capacity, and urgency, these hypotheses are tested using a series of pairwise vector autoregressions identifying significant leader‐follower relationships between C…",
+      "authors": [
+        "Liddell Hastings"
+      ],
+      "publishedAt": "2026-11-01",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70159",
+      "doi": "10.1111/gove.70159",
+      "tagIds": [
+        "policy-process",
+        "public-hr"
+      ],
+      "tags": [
+        "政策过程与政策工具",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "policy-process": 4,
+        "public-hr": 1
+      },
+      "summaryZh": "涉及政策过程与政策工具、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1111/gove.70160",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "The Immortality Paradox: One‐Party Dominance, Political Tenure, and Organizational Continuity in Japanese Agencies",
+      "abstract": "ABSTRACT In his classic 1976 study on organizational survival, Kaufman argued that public organizations are “immortal”. More recent research, however, has come to the opposite conclusion, finding that public organizations are frequently terminated. These findings largely relate to contexts where changes to the ruling party occur regularly. In contrast, this study examines the survival of government agencies in Japan, where the postwar political system has been characterized by one‐party dominance and short‐lived political leadership. The findings suggest that Japanese agencies remain largely “immortal,” and that when they do undergo transitions this tends to be linked to prime ministers with longer tenures who are able to implement minor, cosmetic changes; hence agencies typically persist even after such events. This study thus sheds new light on how political–administrative relations sh…",
+      "authors": [
+        "Ayako Nakamura"
+      ],
+      "publishedAt": "2026-11-01",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70160",
+      "doi": "10.1111/gove.70160",
+      "tagIds": [
+        "public-hr",
+        "organization-institution"
+      ],
+      "tags": [
+        "公共部门人力资源与人事管理",
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "public-hr": 1,
+        "organization-institution": 1
+      },
+      "summaryZh": "涉及公共部门人力资源与人事管理、组织理论与制度变迁"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2756935",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Resolving institutional fragmentation in a multilevel governance system: configurational logics of social health insurance integration in China",
+      "abstract": "",
+      "authors": [
+        "Yingying Ma",
+        "Alex Jingwei He",
+        "Xin Zeng",
+        "Yumeng Fan"
+      ],
+      "publishedAt": "2026-11-01",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2756935",
+      "doi": "10.1080/14719037.2026.2756935",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 1
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1093/jopart/muag038",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpart",
+      "outlet": "Journal of Public Administration Research and Theory",
+      "outletZh": "《公共行政研究与理论杂志》",
+      "title": "Every Mile Counts: Geographical Distance as Administrative Burden in Intellectual Property Services",
+      "abstract": "Abstract While existing research has examined procedural and informational sources of administrative burden, this paper examines how organizational design choices about the geographic location of administrative authority institutionalize spatial burdens on firms. We leverage China's decentralization reform in trademark registration services as a natural experiment to test this theory. This reform reduced geographic distance by establishing local acceptance windows across the country from 2016 to 2019. Prior to this reform, trademark applications had to be submitted exclusively at the centralized Beijing office, imposing substantial geographic barriers on firms nationwide. Using a unique dataset covering over 37 million trademark applications from 294 Chinese cities, we employ a staggered difference-in-differences approach to estimate the causal effects of reduced geographic distance on t…",
+      "authors": [
+        "Shenghua Lu"
+      ],
+      "publishedAt": "2026-10-29",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1093/jopart/muag038",
+      "doi": "10.1093/jopart/muag038",
+      "tagIds": [
+        "methodology-frontier",
+        "organization-institution"
+      ],
+      "tags": [
+        "研究方法与方法论前沿",
+        "组织理论与制度变迁"
+      ],
+      "tagScore": {
+        "methodology-frontier": 2,
+        "organization-institution": 1
+      },
+      "summaryZh": "涉及研究方法与方法论前沿、组织理论与制度变迁"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2752096",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "Assessing Villagers’ Preferences of Gender-Stereotypic Leaders in Village Development Programs: The Case of Rural Sri Lanka",
+      "abstract": "",
+      "authors": [
+        "Hulugalla Niranjala",
+        "Mai Seki",
+        "Kyohei Yamada",
+        "Makoto Kakinaka"
+      ],
+      "publishedAt": "2026-10-29",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2752096",
+      "doi": "10.1080/15309576.2026.2752096",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000093",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "How cultural world views moderate policy framing on Universal Basic Income",
+      "abstract": "Universal Basic Income (UBI) has gained global attention as a potential policy response to the AI revolution, yet public support remains divided. While existing research highlights the role of political predisposition in shaping attitudes towards UBI, such explanations rely on the presence of partisan/ideological cues. In contexts where UBI is not yet politicized, ideological alignment may offer limited explanatory power. This article examines how individuals’ cultural predispositions, as conceptualized by Cultural Theory (CT), shape responses to different UBI framings in Taiwan, a non-Western democracy where partisan cues on UBI are less salient. Using an online survey experiment, the article tests how cultural world views interact with framing conditions to influence support for UBI. Findings demonstrate framing effects are conditioned by cultural orientations, supporting CT that indiv…",
+      "authors": [
+        "Wei-Ting Yen",
+        "Li-Yin Liu"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000093",
+      "doi": "10.1332/03055736y2026d000000093",
+      "tagIds": [
+        "methodology-frontier"
+      ],
+      "tags": [
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "methodology-frontier": 3
+      },
+      "summaryZh": "涉及研究方法与方法论前沿"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000102",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Power, politics, and policy agency: towards a Functional Theory of Agency",
+      "abstract": "This article examines how political position shapes policy agency in local policy making. Specifically, it asks: what patterns of policy agency functions do municipal councillors ( regidores ) exhibit in the local policy process? Drawing on the Functional Theory of Agency framework and a sequential mixed-methods design combining a national survey of Mexican municipal councillors with follow-up semi-structured interviews, we analyse how councillors exercise four modes of policy agency: steering, innovation, intermediation, and intelligence. Our findings reveal systematic differences between majoritarian and opposition councillors. Majoritarian councillors dominate commissions, align with mayoral priorities, and primarily act as steerers and brokers of executive policy. By contrast, opposition councillors, who are often excluded from formal decision-making arenas, engage in disruptive inno…",
+      "authors": [
+        "Oliver Meza",
+        "Ana Cecilia de Alba"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000102",
+      "doi": "10.1332/03055736y2026d000000102",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000094",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Explaining the policy advisory success of non-governmental organisations in unlikely settings: a complexity-oriented approach",
+      "abstract": "The aim of this study is to explore under what conditions policy actors are able to achieve advisory influence in a contested policy-making space. Specifically, it focuses on the factors leading to the success of a set of advisory actors typically assumed to be among the most disadvantaged – non-governmental organisations (NGOs). The article departs from dominant approaches to studying influence relying on theoretical exclusivity and argues for the need to adopt more flexible complexity-oriented analytical styles. To illustrate this, the study uses the extreme case of Bulgaria’s social service delivery reform. The analysis of the case provides strong support for the need to employ greater analytic eclecticism rather than rigid theoretical assumptions based on a single explanatory theory in making sense of advisory influence. It highlights the critical role of individual agents in leading…",
+      "authors": [
+        "Denitsa Marchevska"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000094",
+      "doi": "10.1332/03055736y2026d000000094",
+      "tagIds": [
+        "public-service-delivery"
+      ],
+      "tags": [
+        "公共服务供给与市场化"
+      ],
+      "tagScore": {
+        "public-service-delivery": 2
+      },
+      "summaryZh": "涉及公共服务供给与市场化"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000100",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Extending the Advocacy Coalition Framework: measuring within-coalition belief variation in offshore wind policy conflicts",
+      "abstract": "This study advances the Advocacy Coalition Framework (ACF) literature by introducing new approaches to capture variation in actors’ belief expression and to analyse how such expressions are constrained by actors’ organisational affiliations. Moving beyond existing accounts of constrained belief expression, it reconceptualises constraint as measurable differences in the breadth and intensity of beliefs articulated by actors within a coalition. Drawing on debates over US offshore wind energy, the study examines how organisational affiliation shapes patterns of constrained belief expression in public discourse. To do this, the article develops two quantitative metrics – the Belief Variety Score and the Belief Extreme Score – which capture the range and intensity of belief expression within coalitions. These are complemented by network-based measures of cohesion across actor types. The findi…",
+      "authors": [
+        "Aerang Nam"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000100",
+      "doi": "10.1332/03055736y2026d000000100",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000101",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "A systematic review of policy conflict and its (un)productive consequences",
+      "abstract": "Like most collective decision-making processes, the formulation, adaptation, and implementation of public policies are not immune to conflict. Recently, various authors have lamented the lack of explicit attention to conflict in the policy process and called for more research into how policy conflicts unfold and what consequences they produce. This article contributes to that scholarship in two ways: first, through a systematic discussion of empirical studies on the consequences of policy conflict since 2000; and second, by bringing into conversation insights that are currently dispersed across fragmented research traditions. The systematic literature review focuses on three aspects: how and where policy conflicts have been studied; whether and how they have been conceptualised; and what their consequences are. In doing so, the article highlights the often overlooked productive potential…",
+      "authors": [
+        "Ilana Schröder",
+        "Eva E.A. Wolf"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000101",
+      "doi": "10.1332/03055736y2026d000000101",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 4
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000092",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Not yet partisan: Cultural Theory explains attitudes about solar radiation management in the US",
+      "abstract": "This article investigates the role of Cultural Theory (CT) in explaining attitudes towards solar radiation management (SRM) in the US. Partisanship traditionally provides a clear lens through which to view favourability to climate change policies; however, the lack of partisan attention to geoengineering policies, such as SRM, suggests other belief systems may be better explainers of attitudes. Previously, scholars have found climate attitudes to vary based upon cultural types, which are a function of how individuals see the role of authority in policy making and the extent to which individuals see themselves as part of a social unit. We find that partisanship is a weak predictor of SRM attitudes, while cultural affinities provide strong influences over SRM attitudes. Specifically, we find strong group affinities (particularly egalitarians) to lead to more favourable impressions of SRM r…",
+      "authors": [
+        "Chris Koski",
+        "Paul Manson"
+      ],
+      "publishedAt": "2026-10-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000092",
+      "doi": "10.1332/03055736y2026d000000092",
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "cnki:GGGL:kkumt6",
+      "lang": "zh",
+      "sourceType": "cnjournal",
+      "sourceId": "cnki-gggl",
+      "outlet": "公共管理学报",
+      "outletZh": "《公共管理学报》",
+      "publisher": "哈尔滨工业大学管理学院",
+      "title": "常态化开发式驻村帮扶何以培育乡村内生发展能力——基于“跨界任务共同体”视角的过程分析",
+      "abstract": "在驻村帮扶由过渡性安排转向常态化开发式的新政策背景下，本文旨在解释外部政治使命及组织、制度与资源供给如何转化为乡村可持续调用的内生发展能力。研究提出了“跨界任务共同体”这一任务型中观组织分析框架，采用纵向单案例与过程追踪方法，研究2017—2025年Z市樟村驻村帮扶实践经验，发现常态化开发式驻村帮扶的关键并非增加项目，而是围绕治理修复、规则重建与主体培育等任务，将政府部门、村级组织、村民和市场主体...",
+      "authors": [
+        "张树旺"
+      ],
+      "publishedAt": "2026-09-22",
+      "datePrecision": "day",
+      "windowDays": 45,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=q63SQ8OIxqMra0WRS6MTrqVZ-up9d5_FzPlfoCSkRgV3aM5PMAj9Nj3L5uWYHzdkxwolztBn72IfdhjsiqhEQaQc0EMjw-c7a6Iivu0sX8f0J4ye_XWYDaMe0OhN4G57ZsjkrP6VWQ4JSF0g9KNNOB9oiynpAuRw3lvKdCLrVKkBUhe1NyzY8A==",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签",
+      "carriedFrom": "2026-10-06"
+    }
+  ]
+}

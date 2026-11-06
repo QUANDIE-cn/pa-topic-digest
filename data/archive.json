@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-06",
+    "generatedAt": "2026-11-06T22:44:16.863Z",
+    "topicLabels": [
+      "环境治理与气候政策",
+      "研究方法与方法论前沿",
+      "协同治理与跨部门合作"
+    ],
+    "topicIds": [
+      "environment-climate",
+      "methodology-frontier",
+      "collaborative-governance"
+    ],
+    "entryCount": 49,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-05",
     "generatedAt": "2026-11-05T22:51:22.129Z",
     "topicLabels": [

@@ -1,6 +1,6 @@
 {
-  "lastRunAt": "2026-11-07T22:40:48.609Z",
-  "lastRunDate": "2026-11-07",
+  "lastRunAt": "2026-11-09T01:42:34.477Z",
+  "lastRunDate": "2026-11-09",
   "lastRunOk": false,
   "windowDays": 7,
   "sourceStatus": [
@@ -10,7 +10,7 @@
       "type": "journal",
       "ok": true,
       "count": 1,
-      "ms": 438
+      "ms": 428
     },
     {
       "id": "jpart",
@@ -18,23 +18,23 @@
       "type": "journal",
       "ok": true,
       "count": 2,
-      "ms": 414
+      "ms": 320
     },
     {
       "id": "governance",
       "name": "Governance",
       "type": "journal",
       "ok": true,
-      "count": 2,
-      "ms": 404
+      "count": 18,
+      "ms": 1348
     },
     {
       "id": "pmr",
       "name": "Public Management Review",
       "type": "journal",
       "ok": true,
-      "count": 7,
-      "ms": 516
+      "count": 6,
+      "ms": 448
     },
     {
       "id": "public-administration",
@@ -42,7 +42,7 @@
       "type": "journal",
       "ok": true,
       "count": 18,
-      "ms": 780
+      "ms": 3022
     },
     {
       "id": "ipmj",
@@ -50,7 +50,7 @@
       "type": "journal",
       "ok": true,
       "count": 2,
-      "ms": 199
+      "ms": 308
     },
     {
       "id": "policy-politics",
@@ -58,7 +58,7 @@
       "type": "journal",
       "ok": true,
       "count": 20,
-      "ms": 698
+      "ms": 859
     },
     {
       "id": "ppmr",
@@ -66,7 +66,7 @@
       "type": "journal",
       "ok": true,
       "count": 1,
-      "ms": 145
+      "ms": 2467
     },
     {
       "id": "jpp",
@@ -74,7 +74,7 @@
       "type": "journal",
       "ok": true,
       "count": 1,
-      "ms": 257
+      "ms": 419
     },
     {
       "id": "cnki-zxgl",
@@ -83,7 +83,7 @@
       "ok": false,
       "count": 0,
       "error": "fetch failed",
-      "ms": 3091
+      "ms": 4247
     },
     {
       "id": "cnki-gggl",
@@ -92,7 +92,7 @@
       "ok": false,
       "count": 0,
       "error": "fetch failed",
-      "ms": 2803
+      "ms": 3329
     },
     {
       "id": "cnki-ggxz",
@@ -101,7 +101,7 @@
       "ok": false,
       "count": 0,
       "error": "fetch failed",
-      "ms": 2842
+      "ms": 2563
     },
     {
       "id": "cnki-xzgl",
@@ -110,15 +110,15 @@
       "ok": false,
       "count": 0,
       "error": "fetch failed",
-      "ms": 2797
+      "ms": 5697
     },
     {
       "id": "cssn-bwyc",
       "name": "中国社会科学网 · 学术观察（本网原创）",
       "type": "news",
       "ok": true,
-      "count": 24,
-      "ms": 1622
+      "count": 23,
+      "ms": 1547
     },
     {
       "id": "gov-policy",
@@ -126,17 +126,17 @@
       "type": "policy",
       "ok": true,
       "count": 40,
-      "ms": 1943
+      "ms": 1572
     }
   ],
   "stats": {
-    "entries": 48,
+    "entries": 38,
     "topics": 3,
     "journals": 9,
     "sourcesOk": 11,
     "sourcesTotal": 15
   },
-  "durationMs": 5824,
+  "durationMs": 9170,
   "failedSources": [
     "中国行政管理",
     "公共管理学报",

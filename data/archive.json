@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-09",
+    "generatedAt": "2026-11-09T01:42:34.477Z",
+    "topicLabels": [
+      "数字政府与算法治理",
+      "协同治理与跨部门合作",
+      "官僚行为与公共服务动机"
+    ],
+    "topicIds": [
+      "digital-government",
+      "collaborative-governance",
+      "bureaucratic-behavior"
+    ],
+    "entryCount": 38,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-07",
     "generatedAt": "2026-11-07T22:40:48.609Z",
     "topicLabels": [

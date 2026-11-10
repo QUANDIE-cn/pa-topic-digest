@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-10",
+    "generatedAt": "2026-11-10T04:04:27.635Z",
+    "topicLabels": [
+      "环境治理与气候政策",
+      "公民参与与共同生产",
+      "数字政府与算法治理"
+    ],
+    "topicIds": [
+      "environment-climate",
+      "citizen-participation",
+      "digital-government"
+    ],
+    "entryCount": 39,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-09",
     "generatedAt": "2026-11-09T01:42:34.477Z",
     "topicLabels": [

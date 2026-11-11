@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-11",
+    "generatedAt": "2026-11-11T01:54:40.465Z",
+    "topicLabels": [
+      "公民参与与共同生产",
+      "社会政策与民生保障",
+      "协同治理与跨部门合作"
+    ],
+    "topicIds": [
+      "citizen-participation",
+      "social-policy",
+      "collaborative-governance"
+    ],
+    "entryCount": 38,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-10",
     "generatedAt": "2026-11-10T04:04:27.635Z",
     "topicLabels": [

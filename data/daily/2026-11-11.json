@@ -1,0 +1,1403 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T01:54:40.465Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-11-04",
+  "stats": {
+    "entries": 38,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "citizen-participation",
+      "label": "公民参与与共同生产",
+      "summary": "公众参与、公共服务共同生产、民主创新与回应性治理。",
+      "kind": "最新",
+      "hotScore": 2.5,
+      "entryCount": 4,
+      "recent3Count": 1,
+      "outletCount": 4,
+      "typeBreakdown": {
+        "journal": 4,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《政策与政治》",
+          "count": 1
+        },
+        {
+          "name": "《国际公共管理杂志》",
+          "count": 1
+        },
+        {
+          "name": "《公共绩效与管理评论》",
+          "count": 1
+        },
+        {
+          "name": "《公共政策杂志》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 4 条，覆盖 4 个来源（国际顶刊 4 篇 / 中文动态 0 条 / 政策文件 0 条），其中 1 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1332/03055736y2026d000000108",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "Policy feedback and media framing of crime victims",
+          "abstract": "Drawing on framing theory and the social construction of target populations, this study examines whether and how landmark legislation is associated with shifts in media framing of the populations it targets. We examine this question through the Crime Victims’ Rights Act of 2004 (CVRA), landmark legislation that significantly changed the way the legal process understood victims. By expanding victims’ participatory rights in the prosecution of those who harmed them, it designated victims as deserving a voice in the process and institutionalised the fact that the victim’s experience mattered for the fair provision of justice. Treating the CVRA as a chronological anchor, we conduct a theory-driven framing analysis of 315 articles from four major US newspapers across the four years surrounding the CVRA’s passage to examine how media frames of crime victims shifted across this threshold. We do…",
+          "authors": [
+            "Holly L. Peterson",
+            "Ryan J. Williams",
+            "Sarah Koon-Magnin",
+            "Logan Berthelot"
+          ],
+          "publishedAt": "2026-11-09",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000108",
+          "doi": "10.1332/03055736y2026d000000108",
+          "tagIds": [
+            "citizen-participation"
+          ],
+          "tags": [
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1080/10967494.2026.2728693",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "ipmj",
+          "outlet": "International Public Management Journal",
+          "outletZh": "《国际公共管理杂志》",
+          "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
+          "abstract": "",
+          "authors": [
+            "André Feliciano Lino",
+            "Elke Loeffler",
+            "Patrícia Maria Emerenciano de Mendonça",
+            "André Carlos Busanelli de Aquino"
+          ],
+          "publishedAt": "2026-11-06",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/10967494.2026.2728693",
+          "doi": "10.1080/10967494.2026.2728693",
+          "tagIds": [
+            "collaborative-governance",
+            "citizen-participation"
+          ],
+          "tags": [
+            "协同治理与跨部门合作",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "collaborative-governance": 1,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及协同治理与跨部门合作、公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1080/15309576.2026.2756919",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "ppmr",
+          "outlet": "Public Performance & Management Review",
+          "outletZh": "《公共绩效与管理评论》",
+          "title": "When Technology Meets Culture: Digital Co-Production and Public Value Creation",
+          "abstract": "",
+          "authors": [
+            "Huan-Sheng Lin"
+          ],
+          "publishedAt": "2026-11-04",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/15309576.2026.2756919",
+          "doi": "10.1080/15309576.2026.2756919",
+          "tagIds": [
+            "digital-government",
+            "collaborative-governance",
+            "citizen-participation"
+          ],
+          "tags": [
+            "数字政府与算法治理",
+            "协同治理与跨部门合作",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "digital-government": 1,
+            "collaborative-governance": 1,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及数字政府与算法治理、协同治理与跨部门合作、公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1017/s0143814x26101378",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "jpp",
+          "outlet": "Journal of Public Policy",
+          "outletZh": "《公共政策杂志》",
+          "title": "Bureaucratic behavior in the implementation of freedom of information laws: evidence from a field experiment in Belgian municipalities",
+          "abstract": "Abstract Freedom of Information (FOI) laws are widely adopted to promote transparency, yet their implementation diverges from formal legal expectations. This article examines how variations in FOI requests shape administrative responses and what these patterns reveal about bureaucratic behavior in municipal administrations. Drawing on a randomized field experiment across Belgian municipalities, the study analyzes how public officials respond to identical FOI requests varying by requester identity and legal framing. The findings show that responsiveness is not neutral but varies systematically across request characteristics and contexts. Ordinary citizens receive higher disclosure rates than institutional or advocacy actors, and invoking FOI law increases compliance for some requesters while reducing it for others. These patterns suggest that administrative responses – understood as obser…",
+          "authors": [
+            "Giovanni Esposito",
+            "Lorenzo Cicatiello",
+            "Giuseppe Lucio Gaeta",
+            "Vincent Mabillard"
+          ],
+          "publishedAt": "2026-11-04",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1017/s0143814x26101378",
+          "doi": "10.1017/s0143814x26101378",
+          "tagIds": [
+            "methodology-frontier",
+            "bureaucratic-behavior",
+            "citizen-participation",
+            "regulation-governance",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "官僚行为与公共服务动机",
+            "公民参与与共同生产",
+            "监管治理与规制改革",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "methodology-frontier": 4,
+            "bureaucratic-behavior": 1,
+            "citizen-participation": 1,
+            "regulation-governance": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机、公民参与与共同生产"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "协商民主机制的加入门槛与代表性偏差",
+          "theory": "协商民主理论 × 参与不平等",
+          "method": "参与数据分层分析",
+          "data": "听证会、议事会参与人员构成与发言记录"
+        },
+        {
+          "title": "政务热线作为参与渠道的回应性质量",
+          "theory": "回应性治理 × 官僚回应",
+          "method": "行政数据 + 审计式实验（audit）",
+          "data": "12345 热线的诉求记录与办理结果数据"
+        },
+        {
+          "title": "共同生产中的责任边界模糊问题",
+          "theory": "共同生产 × 责任分配",
+          "method": "案例研究 + 责权文本分析",
+          "data": "社区共同缔造项目的合同、分工与纠纷记录"
+        }
+      ]
+    },
+    {
+      "id": "social-policy",
+      "label": "社会政策与民生保障",
+      "summary": "养老、医疗、就业、社会保障与共同富裕政策研究。",
+      "kind": "最新",
+      "hotScore": 2.06,
+      "entryCount": 2,
+      "recent3Count": 2,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 0,
+        "cnjournal": 0,
+        "news": 1,
+        "policy": 1
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 1
+        },
+        {
+          "name": "中国政府网 · 政策文件库",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 2 条，覆盖 2 个来源（国际顶刊 0 篇 / 中文动态 1 条 / 政策文件 1 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261111_xvob1d",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "北京乡村建起“无围墙的养老院”",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-11",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077549.shtml",
+          "doi": null,
+          "tagIds": [
+            "social-policy"
+          ],
+          "tags": [
+            "社会政策与民生保障"
+          ],
+          "tagScore": {
+            "social-policy": 1.5
+          },
+          "summaryZh": "涉及社会政策与民生保障"
+        },
+        {
+          "id": "gov:26926511",
+          "lang": "zh",
+          "sourceType": "policy",
+          "sourceId": "gov-policy",
+          "outlet": "中国政府网",
+          "outletZh": "中国政府网 · 政策文件库",
+          "title": "基金会管理条例",
+          "abstract": "中华人民共和国国务院令 第848号 《基金会管理条例》已经2026年9月11日国务院第96次常务会议修订通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10月1...",
+          "summary": "中华人民共和国国务院令 第848号 《基金会管理条例》已经2026年9月11日国务院第96次常务会议修订通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10月1...",
+          "docNumber": "国令第848号",
+          "org": "国务院",
+          "category": "民政、扶贫、救灾\\其他",
+          "authors": [],
+          "publishedAt": "2026-11-10",
+          "datePrecision": "day",
+          "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085662.htm",
+          "doi": null,
+          "tagIds": [
+            "social-policy"
+          ],
+          "tags": [
+            "社会政策与民生保障"
+          ],
+          "tagScore": {
+            "social-policy": 1.5
+          },
+          "summaryZh": "涉及社会政策与民生保障"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "医保支付方式改革对医疗行为的影响",
+          "theory": "激励相容 × 供方行为理论",
+          "method": "双重差分 + 医保结算数据",
+          "data": "DRG/DIP 改革前后医院结算明细（脱敏）"
+        },
+        {
+          "title": "就业政策的执行偏差与目标群体覆盖",
+          "theory": "政策执行 × 目标群体社会建构",
+          "method": "行政数据 + 访谈",
+          "data": "就业补贴发放记录与未覆盖群体访谈"
+        },
+        {
+          "title": "共同富裕目标下的社会救助精准性",
+          "theory": "社会救助瞄准理论 × 数字治理",
+          "method": "行政数据匹配 + 漏保错保测量",
+          "data": "低保、临时救助与居民收入登记数据"
+        }
+      ]
+    },
+    {
+      "id": "collaborative-governance",
+      "label": "协同治理与跨部门合作",
+      "summary": "跨部门协同、网络治理、公私合作与整体性治理的组织机制研究。",
+      "kind": "热门",
+      "hotScore": 1.63,
+      "entryCount": 3,
+      "recent3Count": 0,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 3,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《国际公共管理杂志》",
+          "count": 1
+        },
+        {
+          "name": "美国《公共行政评论》",
+          "count": 1
+        },
+        {
+          "name": "《公共绩效与管理评论》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 3 条，覆盖 3 个来源（国际顶刊 3 篇 / 中文动态 0 条 / 政策文件 0 条），其中 0 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1080/10967494.2026.2728693",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "ipmj",
+          "outlet": "International Public Management Journal",
+          "outletZh": "《国际公共管理杂志》",
+          "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
+          "abstract": "",
+          "authors": [
+            "André Feliciano Lino",
+            "Elke Loeffler",
+            "Patrícia Maria Emerenciano de Mendonça",
+            "André Carlos Busanelli de Aquino"
+          ],
+          "publishedAt": "2026-11-06",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/10967494.2026.2728693",
+          "doi": "10.1080/10967494.2026.2728693",
+          "tagIds": [
+            "collaborative-governance",
+            "citizen-participation"
+          ],
+          "tags": [
+            "协同治理与跨部门合作",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "collaborative-governance": 1,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及协同治理与跨部门合作、公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1111/puar.70234",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Digging Into the Subsoil: Considering and Theorizing Human Services Delivery at the Sub‐Micro‐Level of the Public Service Ecosystem",
+          "abstract": "ABSTRACT Public services are often delivered in partnership with families and communities, yet these relationships receive limited attention within public service ecosystem (PSE) theory. Responding to call to develop the sub‐micro‐level of the PSE, we introduce the concept of subsoil sensitivity to foreground the family and community ecosystems that underpin public service value creation. These informal systems are active sites of value creation and destruction with sensitivities arising from their alignment or misalignment with public services. We propose legislative and policy nodes as connectors that translate macrolevel policy into microlevel practice. Drawing on child protection vignettes, we show how nodes create the conditions for interaction, while subsoil dynamics influence whether value is cocreated or codestroyed amid power asymmetries and differing belief systems. The paper e…",
+          "authors": [
+            "Kate Broadhurst",
+            "Steven Parker"
+          ],
+          "publishedAt": "2026-11-05",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70234",
+          "doi": "10.1111/puar.70234",
+          "tagIds": [
+            "public-service-delivery",
+            "collaborative-governance"
+          ],
+          "tags": [
+            "公共服务供给与市场化",
+            "协同治理与跨部门合作"
+          ],
+          "tagScore": {
+            "public-service-delivery": 2,
+            "collaborative-governance": 1
+          },
+          "summaryZh": "涉及公共服务供给与市场化、协同治理与跨部门合作"
+        },
+        {
+          "id": "doi:10.1080/15309576.2026.2756919",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "ppmr",
+          "outlet": "Public Performance & Management Review",
+          "outletZh": "《公共绩效与管理评论》",
+          "title": "When Technology Meets Culture: Digital Co-Production and Public Value Creation",
+          "abstract": "",
+          "authors": [
+            "Huan-Sheng Lin"
+          ],
+          "publishedAt": "2026-11-04",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/15309576.2026.2756919",
+          "doi": "10.1080/15309576.2026.2756919",
+          "tagIds": [
+            "digital-government",
+            "collaborative-governance",
+            "citizen-participation"
+          ],
+          "tags": [
+            "数字政府与算法治理",
+            "协同治理与跨部门合作",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "digital-government": 1,
+            "collaborative-governance": 1,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及数字政府与算法治理、协同治理与跨部门合作、公民参与与共同生产"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "跨区域协同治理的制度化程度测量",
+          "theory": "制度集体行动（ICA）框架",
+          "method": "文本编码 + 指数构建",
+          "data": "区域合作协议文本库（如长三角、京津冀）"
+        },
+        {
+          "title": "专班机制是协同治理的解法还是临时替代",
+          "theory": "网络治理 × 临时组织",
+          "method": "多案例比较 + 社会网络分析",
+          "data": "重大任务专班的组成文件、会议纪要与任务完成记录"
+        },
+        {
+          "title": "跨部门协同的信任如何生成与耗散",
+          "theory": "协同治理整合框架 × 信任理论",
+          "method": "纵向追踪访谈 + 网络演化分析",
+          "data": "同一协同项目连续2年的部门互动记录"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "cssn:20261111_rxz7sx",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "浙外举办2026“人民的运河 游客的运河”国际学术研讨会",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077577.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_179a50j",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "第十六届“华商领袖・清华讲堂”在清华大学成功举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077576.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_rytb1i",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "2026中外阅读大会暨第五届学术研讨会在广西师范大学举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077569.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_8pmxqf",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "法律设置序言的原理",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077552.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_1tpxa98",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "深刻把握习近平党建思想和习近平法治思想的融通性",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077551.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_17uuddj",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "完善出海科技企业数据跨境流动的法治保障",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077550.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_xvob1d",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "北京乡村建起“无围墙的养老院”",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077549.shtml",
+      "doi": null,
+      "tagIds": [
+        "social-policy"
+      ],
+      "tags": [
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "social-policy": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障"
+    },
+    {
+      "id": "cssn:20261111_1200q5j",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "人工智能下乡重在嵌入乡土社会",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077548.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261111_16g3yxa",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "在流动中重建生活共同体",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077547.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_ifwe46",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "孔子的士君子之学",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077546.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_luycxu",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "黄老道家之“信”：从天道恒常到政治秩序",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077545.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_1150v2q",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "《社会复杂性的兴起：全球考古学比较研究》",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077544.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_1ns9qhv",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "科研事业可持续性有赖于更公平的薪酬体系",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077543.shtml",
+      "doi": null,
+      "tagIds": [
+        "public-hr"
+      ],
+      "tags": [
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "public-hr": 1.5
+      },
+      "summaryZh": "涉及公共部门人力资源与人事管理"
+    },
+    {
+      "id": "cssn:20261111_1k1i4lk",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "政党经验交流助力全球南方自主发展",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077542.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_dabh5",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "关注金融法治现代化",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077541.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_1qz0jr5",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推动理论学习转化为价值认同与自觉行动",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077540.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_ksy50k",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "深化商周青铜器冷门绝学研究",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077539.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_1jlpcuy",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "把管党治党的制度优势转化为治理效能",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077538.shtml",
+      "doi": null,
+      "tagIds": [
+        "performance-management"
+      ],
+      "tags": [
+        "绩效管理与政府效能"
+      ],
+      "tagScore": {
+        "performance-management": 1.5
+      },
+      "summaryZh": "涉及绩效管理与政府效能"
+    },
+    {
+      "id": "cssn:20261111_148dfpf",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "共话21世纪马克思主义的创新与发展",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077537.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_1lcctly",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "数字技术赋能红色文献翻译研究",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077536.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_1s62y4g",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "在守正创新中续写哲学教育新篇章",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077534.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261111_101tn7c",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以文献为支撑 还原诸子思想世界",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-11",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261111_6077535.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26926511",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "基金会管理条例",
+      "abstract": "中华人民共和国国务院令 第848号 《基金会管理条例》已经2026年9月11日国务院第96次常务会议修订通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10月1...",
+      "summary": "中华人民共和国国务院令 第848号 《基金会管理条例》已经2026年9月11日国务院第96次常务会议修订通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10月1...",
+      "docNumber": "国令第848号",
+      "org": "国务院",
+      "category": "民政、扶贫、救灾\\其他",
+      "authors": [],
+      "publishedAt": "2026-11-10",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085662.htm",
+      "doi": null,
+      "tagIds": [
+        "social-policy"
+      ],
+      "tags": [
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "social-policy": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2758867",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Exhaustion intensified? The confluence of coworker and citizen incivility in local government",
+      "abstract": "",
+      "authors": [
+        "Leisha DeHart-Davis",
+        "Amy E. Smith",
+        "Travis Whetsell",
+        "Kayla Schwoerer"
+      ],
+      "publishedAt": "2026-11-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2758867",
+      "doi": "10.1080/14719037.2026.2758867",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000108",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Policy feedback and media framing of crime victims",
+      "abstract": "Drawing on framing theory and the social construction of target populations, this study examines whether and how landmark legislation is associated with shifts in media framing of the populations it targets. We examine this question through the Crime Victims’ Rights Act of 2004 (CVRA), landmark legislation that significantly changed the way the legal process understood victims. By expanding victims’ participatory rights in the prosecution of those who harmed them, it designated victims as deserving a voice in the process and institutionalised the fact that the victim’s experience mattered for the fair provision of justice. Treating the CVRA as a chronological anchor, we conduct a theory-driven framing analysis of 315 articles from four major US newspapers across the four years surrounding the CVRA’s passage to examine how media frames of crime victims shifted across this threshold. We do…",
+      "authors": [
+        "Holly L. Peterson",
+        "Ryan J. Williams",
+        "Sarah Koon-Magnin",
+        "Logan Berthelot"
+      ],
+      "publishedAt": "2026-11-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000108",
+      "doi": "10.1332/03055736y2026d000000108",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101391",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "Redefining influence: how a feminist advocacy group reformed paternity leave in Spain through insider women’s alliances – CORRIGENDUM",
+      "abstract": "",
+      "authors": [
+        "Manuel Alvariño"
+      ],
+      "publishedAt": "2026-11-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101391",
+      "doi": "10.1017/s0143814x26101391",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26926469",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "中医药传统知识保护条例",
+      "abstract": "中华人民共和国国务院令 第850号 《中医药传统知识保护条例》已经2026年9月18日国务院第97次常务会议通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10...",
+      "summary": "中华人民共和国国务院令 第850号 《中医药传统知识保护条例》已经2026年9月18日国务院第97次常务会议通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10...",
+      "docNumber": "国令第850号",
+      "org": "国务院",
+      "category": "卫生、体育\\医药管理",
+      "authors": [],
+      "publishedAt": "2026-11-09",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085592.htm",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2747054",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems",
+      "abstract": "",
+      "authors": [
+        "Ina Kubbe"
+      ],
+      "publishedAt": "2026-11-06",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2747054",
+      "doi": "10.1080/14719037.2026.2747054",
+      "tagIds": [
+        "accountability-corruption"
+      ],
+      "tags": [
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "accountability-corruption": 2
+      },
+      "summaryZh": "涉及问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1080/10967494.2026.2728693",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ipmj",
+      "outlet": "International Public Management Journal",
+      "outletZh": "《国际公共管理杂志》",
+      "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
+      "abstract": "",
+      "authors": [
+        "André Feliciano Lino",
+        "Elke Loeffler",
+        "Patrícia Maria Emerenciano de Mendonça",
+        "André Carlos Busanelli de Aquino"
+      ],
+      "publishedAt": "2026-11-06",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/10967494.2026.2728693",
+      "doi": "10.1080/10967494.2026.2728693",
+      "tagIds": [
+        "collaborative-governance",
+        "citizen-participation"
+      ],
+      "tags": [
+        "协同治理与跨部门合作",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "collaborative-governance": 1,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及协同治理与跨部门合作、公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1111/puar.70234",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Digging Into the Subsoil: Considering and Theorizing Human Services Delivery at the Sub‐Micro‐Level of the Public Service Ecosystem",
+      "abstract": "ABSTRACT Public services are often delivered in partnership with families and communities, yet these relationships receive limited attention within public service ecosystem (PSE) theory. Responding to call to develop the sub‐micro‐level of the PSE, we introduce the concept of subsoil sensitivity to foreground the family and community ecosystems that underpin public service value creation. These informal systems are active sites of value creation and destruction with sensitivities arising from their alignment or misalignment with public services. We propose legislative and policy nodes as connectors that translate macrolevel policy into microlevel practice. Drawing on child protection vignettes, we show how nodes create the conditions for interaction, while subsoil dynamics influence whether value is cocreated or codestroyed amid power asymmetries and differing belief systems. The paper e…",
+      "authors": [
+        "Kate Broadhurst",
+        "Steven Parker"
+      ],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70234",
+      "doi": "10.1111/puar.70234",
+      "tagIds": [
+        "public-service-delivery",
+        "collaborative-governance"
+      ],
+      "tags": [
+        "公共服务供给与市场化",
+        "协同治理与跨部门合作"
+      ],
+      "tagScore": {
+        "public-service-delivery": 2,
+        "collaborative-governance": 1
+      },
+      "summaryZh": "涉及公共服务供给与市场化、协同治理与跨部门合作"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2759315",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "The difficulties of reducing administrative burden via the nonprofit sector: how sedimented governance stifles care coordination",
+      "abstract": "",
+      "authors": [
+        "Rene Wiedner",
+        "Alice Moore",
+        "Alec Fraser"
+      ],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2759315",
+      "doi": "10.1080/14719037.2026.2759315",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26919870",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复",
+      "abstract": "国务院关于辽宁等9省区国家级自然保护区 和国家级风景名胜区整合优化方案的批复 国函〔2026〕113号 自然资源部、生态环境部、国家林草局： 《自然资源部、生态环境部关于报请批准辽宁等9省区国家级自然...",
+      "summary": "国务院关于辽宁等9省区国家级自然保护区 和国家级风景名胜区整合优化方案的批复 国函〔2026〕113号 自然资源部、生态环境部、国家林草局： 《自然资源部、生态环境部关于报请批准辽宁等9省区国家级自然...",
+      "docNumber": "国函〔2026〕113号",
+      "org": "国务院",
+      "category": "城乡建设、环境保护\\环境监测、保护与治理",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085110.htm",
+      "doi": null,
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1.5
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "gov:26919703",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "国务院关于修改和废止部分行政法规的决定",
+      "abstract": "中华人民共和国国务院令 第851号 《国务院关于修改和废止部分行政法规的决定》已经2026年10月16日国务院第99次常务会议通过，现予公布，自公布之日起施行。 总理 李强 202...",
+      "summary": "中华人民共和国国务院令 第851号 《国务院关于修改和废止部分行政法规的决定》已经2026年10月16日国务院第99次常务会议通过，现予公布，自公布之日起施行。 总理 李强 202...",
+      "docNumber": "国令第851号",
+      "org": "国务院",
+      "category": "公安、安全、司法\\司法",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085099.htm",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26919736",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "国务院办公厅关于2027年部分节假日安排的通知",
+      "abstract": "国务院办公厅关于2027年 部分节假日安排的通知 国办发明电〔2026〕10号 各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 经国务院批准，现将2027年元旦、春节、清明节、劳动节、端午节...",
+      "summary": "国务院办公厅关于2027年 部分节假日安排的通知 国办发明电〔2026〕10号 各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 经国务院批准，现将2027年元旦、春节、清明节、劳动节、端午节...",
+      "docNumber": "国办发明电〔2026〕10号",
+      "org": "国务院办公厅",
+      "category": "综合政务\\其他",
+      "authors": [],
+      "publishedAt": "2026-11-05",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.htm",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2759174",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "The only game in town: NPM’s resilience and depoliticizing effects in (r)urban sustainability transition",
+      "abstract": "",
+      "authors": [
+        "David Scott",
+        "Malin Rönnblom"
+      ],
+      "publishedAt": "2026-11-04",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2759174",
+      "doi": "10.1080/14719037.2026.2759174",
+      "tagIds": [
+        "emergency-resilience",
+        "environment-climate"
+      ],
+      "tags": [
+        "应急管理与韧性治理",
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1,
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及应急管理与韧性治理、环境治理与气候政策"
+    },
+    {
+      "id": "doi:10.1080/10967494.2026.2716261",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ipmj",
+      "outlet": "International Public Management Journal",
+      "outletZh": "《国际公共管理杂志》",
+      "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts",
+      "abstract": "",
+      "authors": [
+        "Geneviève Morin",
+        "Étienne Charbonneau",
+        "Daniel Bromberg"
+      ],
+      "publishedAt": "2026-11-04",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/10967494.2026.2716261",
+      "doi": "10.1080/10967494.2026.2716261",
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2756919",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "When Technology Meets Culture: Digital Co-Production and Public Value Creation",
+      "abstract": "",
+      "authors": [
+        "Huan-Sheng Lin"
+      ],
+      "publishedAt": "2026-11-04",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2756919",
+      "doi": "10.1080/15309576.2026.2756919",
+      "tagIds": [
+        "digital-government",
+        "collaborative-governance",
+        "citizen-participation"
+      ],
+      "tags": [
+        "数字政府与算法治理",
+        "协同治理与跨部门合作",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "digital-government": 1,
+        "collaborative-governance": 1,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及数字政府与算法治理、协同治理与跨部门合作、公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101378",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "Bureaucratic behavior in the implementation of freedom of information laws: evidence from a field experiment in Belgian municipalities",
+      "abstract": "Abstract Freedom of Information (FOI) laws are widely adopted to promote transparency, yet their implementation diverges from formal legal expectations. This article examines how variations in FOI requests shape administrative responses and what these patterns reveal about bureaucratic behavior in municipal administrations. Drawing on a randomized field experiment across Belgian municipalities, the study analyzes how public officials respond to identical FOI requests varying by requester identity and legal framing. The findings show that responsiveness is not neutral but varies systematically across request characteristics and contexts. Ordinary citizens receive higher disclosure rates than institutional or advocacy actors, and invoking FOI law increases compliance for some requesters while reducing it for others. These patterns suggest that administrative responses – understood as obser…",
+      "authors": [
+        "Giovanni Esposito",
+        "Lorenzo Cicatiello",
+        "Giuseppe Lucio Gaeta",
+        "Vincent Mabillard"
+      ],
+      "publishedAt": "2026-11-04",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101378",
+      "doi": "10.1017/s0143814x26101378",
+      "tagIds": [
+        "methodology-frontier",
+        "bureaucratic-behavior",
+        "citizen-participation",
+        "regulation-governance",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "研究方法与方法论前沿",
+        "官僚行为与公共服务动机",
+        "公民参与与共同生产",
+        "监管治理与规制改革",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "methodology-frontier": 4,
+        "bureaucratic-behavior": 1,
+        "citizen-participation": 1,
+        "regulation-governance": 1,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机、公民参与与共同生产"
+    }
+  ]
+}

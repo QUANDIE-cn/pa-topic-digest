@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-13",
+    "generatedAt": "2026-11-13T02:36:20.969Z",
+    "topicLabels": [
+      "公民参与与共同生产",
+      "数字政府与算法治理",
+      "社会政策与民生保障"
+    ],
+    "topicIds": [
+      "citizen-participation",
+      "digital-government",
+      "social-policy"
+    ],
+    "entryCount": 33,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-12",
     "generatedAt": "2026-11-12T02:55:47.705Z",
     "topicLabels": [

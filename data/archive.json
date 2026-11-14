@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-14",
+    "generatedAt": "2026-11-14T02:20:35.132Z",
+    "topicLabels": [
+      "数字政府与算法治理",
+      "官僚行为与公共服务动机",
+      "公共部门人力资源与人事管理"
+    ],
+    "topicIds": [
+      "digital-government",
+      "bureaucratic-behavior",
+      "public-hr"
+    ],
+    "entryCount": 31,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-13",
     "generatedAt": "2026-11-13T02:36:20.969Z",
     "topicLabels": [

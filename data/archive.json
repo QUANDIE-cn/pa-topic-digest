@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-15",
+    "generatedAt": "2026-11-15T01:50:26.138Z",
+    "topicLabels": [
+      "社会政策与民生保障",
+      "官僚行为与公共服务动机",
+      "公共部门人力资源与人事管理"
+    ],
+    "topicIds": [
+      "social-policy",
+      "bureaucratic-behavior",
+      "public-hr"
+    ],
+    "entryCount": 31,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-14",
     "generatedAt": "2026-11-14T02:20:35.132Z",
     "topicLabels": [

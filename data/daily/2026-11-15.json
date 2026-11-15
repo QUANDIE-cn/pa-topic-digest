@@ -1,0 +1,942 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T01:50:26.138Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-11-08",
+  "stats": {
+    "entries": 31,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "social-policy",
+      "label": "社会政策与民生保障",
+      "summary": "养老、医疗、就业、社会保障与共同富裕政策研究。",
+      "kind": "最新",
+      "hotScore": 1.59,
+      "entryCount": 2,
+      "recent3Count": 1,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 0,
+        "cnjournal": 0,
+        "news": 1,
+        "policy": 1
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 1
+        },
+        {
+          "name": "中国政府网 · 政策文件库",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 2 条，覆盖 2 个来源（国际顶刊 0 篇 / 中文动态 1 条 / 政策文件 1 条），其中 1 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261114_1kkb1za",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "第四届“中国式现代化与民生保障”学术论坛在京举行",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-14",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078322.shtml",
+          "doi": null,
+          "tagIds": [
+            "social-policy"
+          ],
+          "tags": [
+            "社会政策与民生保障"
+          ],
+          "tagScore": {
+            "social-policy": 1.5
+          },
+          "summaryZh": "涉及社会政策与民生保障"
+        },
+        {
+          "id": "gov:26926511",
+          "lang": "zh",
+          "sourceType": "policy",
+          "sourceId": "gov-policy",
+          "outlet": "中国政府网",
+          "outletZh": "中国政府网 · 政策文件库",
+          "title": "基金会管理条例",
+          "abstract": "中华人民共和国国务院令 第848号 《基金会管理条例》已经2026年9月11日国务院第96次常务会议修订通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10月1...",
+          "summary": "中华人民共和国国务院令 第848号 《基金会管理条例》已经2026年9月11日国务院第96次常务会议修订通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10月1...",
+          "docNumber": "国令第848号",
+          "org": "国务院",
+          "category": "民政、扶贫、救灾\\其他",
+          "authors": [],
+          "publishedAt": "2026-11-10",
+          "datePrecision": "day",
+          "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085662.htm",
+          "doi": null,
+          "tagIds": [
+            "social-policy"
+          ],
+          "tags": [
+            "社会政策与民生保障"
+          ],
+          "tagScore": {
+            "social-policy": 1.5
+          },
+          "summaryZh": "涉及社会政策与民生保障"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "医保支付方式改革对医疗行为的影响",
+          "theory": "激励相容 × 供方行为理论",
+          "method": "双重差分 + 医保结算数据",
+          "data": "DRG/DIP 改革前后医院结算明细（脱敏）"
+        },
+        {
+          "title": "就业政策的执行偏差与目标群体覆盖",
+          "theory": "政策执行 × 目标群体社会建构",
+          "method": "行政数据 + 访谈",
+          "data": "就业补贴发放记录与未覆盖群体访谈"
+        },
+        {
+          "title": "共同富裕目标下的社会救助精准性",
+          "theory": "社会救助瞄准理论 × 数字治理",
+          "method": "行政数据匹配 + 漏保错保测量",
+          "data": "低保、临时救助与居民收入登记数据"
+        }
+      ]
+    },
+    {
+      "id": "bureaucratic-behavior",
+      "label": "官僚行为与公共服务动机",
+      "summary": "公务员与街头官僚的动机、裁量、代表性官僚制与行为公共管理研究。",
+      "kind": "最新",
+      "hotScore": 0.81,
+      "entryCount": 1,
+      "recent3Count": 1,
+      "outletCount": 1,
+      "typeBreakdown": {
+        "journal": 0,
+        "cnjournal": 0,
+        "news": 1,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 1 条，覆盖 1 个来源（国际顶刊 0 篇 / 中文动态 1 条 / 政策文件 0 条），其中 1 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261113_1xn8v1w",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "中国社会科学院举办学习贯彻党的二十届五中全会精神所局级领导干部培训班",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-13",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078279.shtml",
+          "doi": null,
+          "tagIds": [
+            "bureaucratic-behavior",
+            "public-hr"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 1.5,
+            "public-hr": 1.5
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公共部门人力资源与人事管理"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "代表性官僚制在基层执法中的实际效应",
+          "theory": "代表性官僚制 × 身份认同",
+          "method": "行政数据因果识别（RDD／事件研究）",
+          "data": "执法人员与辖区居民的人口结构匹配数据、执法处理结果"
+        },
+        {
+          "title": "一线人员的情绪劳动与倦怠前因",
+          "theory": "情绪劳动理论 × 工作要求—资源模型",
+          "method": "经验取样法（ESM）日记追踪",
+          "data": "窗口部门一线人员2~4周的每日多次自评"
+        },
+        {
+          "title": "避责行为在强问责环境下的形态演变",
+          "theory": "避责理论 × 组织问责",
+          "method": "情景实验 + 访谈三角验证",
+          "data": "面向不同层级公务员的预注册情景实验，配合典型案例档案"
+        }
+      ]
+    },
+    {
+      "id": "public-hr",
+      "label": "公共部门人力资源与人事管理",
+      "summary": "公务员招录、激励、培训、流动与人事制度改革。",
+      "kind": "最新",
+      "hotScore": 0.81,
+      "entryCount": 1,
+      "recent3Count": 1,
+      "outletCount": 1,
+      "typeBreakdown": {
+        "journal": 0,
+        "cnjournal": 0,
+        "news": 1,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 1 条，覆盖 1 个来源（国际顶刊 0 篇 / 中文动态 1 条 / 政策文件 0 条），其中 1 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261113_1xn8v1w",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "中国社会科学院举办学习贯彻党的二十届五中全会精神所局级领导干部培训班",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-13",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078279.shtml",
+          "doi": null,
+          "tagIds": [
+            "bureaucratic-behavior",
+            "public-hr"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 1.5,
+            "public-hr": 1.5
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公共部门人力资源与人事管理"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "公职人员薪酬感知与工作投入的关系",
+          "theory": "公平理论 × 工作要求—资源",
+          "method": "结构方程模型 + 情景实验",
+          "data": "多层级公务员薪酬满意度调查"
+        },
+        {
+          "title": "公务员招录制度对人才结构的长周期影响",
+          "theory": "人力资本配置 × 职业选择理论",
+          "method": "行政数据 + 队列分析",
+          "data": "历年招录岗位表与录用人员背景信息（脱敏）"
+        },
+        {
+          "title": "编制约束下的编外用工扩张机制",
+          "theory": "组织弹性 × 制度约束",
+          "method": "比较案例 + 财政人事数据分析",
+          "data": "地方编外人员规模、经费与管理制度文件"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "cssn:20261114_yuwnew",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "学习贯彻党的二十届五中全会精神中央宣讲团在新疆宣讲",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078348.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261114_1m89hih",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推进新时代现实主义文学创新发展",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078346.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261114_18m1agm",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "2026“长安·罗马”丝路法治文化交流周西安启幕",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078345.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261114_15ll81y",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以语言心智的解码回应AI时代之问",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078344.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261114_xwcdd4",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "第五届教育局长论坛在京召开",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078334.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261114_d8c9ys",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "走向“核安全发展”的核伦理学新论",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078333.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261114_o2fto0",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国社会科学院“科学前沿大讲堂”第八讲举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078332.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261114_1kkb1za",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "第四届“中国式现代化与民生保障”学术论坛在京举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078322.shtml",
+      "doi": null,
+      "tagIds": [
+        "social-policy"
+      ],
+      "tags": [
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "social-policy": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障"
+    },
+    {
+      "id": "cssn:20261114_la6dbl",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "高翔会见国经中心第四届理事会领导班子和理事代表",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078300.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261114_1u52kpv",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国国际经济交流中心召开第四届第一次会员大会暨理事会",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-14",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261114_6078297.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_1xn8v1w",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国社会科学院举办学习贯彻党的二十届五中全会精神所局级领导干部培训班",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078279.shtml",
+      "doi": null,
+      "tagIds": [
+        "bureaucratic-behavior",
+        "public-hr"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 1.5,
+        "public-hr": 1.5
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "cssn:20261113_15y7vl",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "《我们的钱瑗》新版上市",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078273.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_gshm1p",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "《高贵的匍匐：“龙芯之母”黄令仪》新书发布",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078272.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_17zv76l",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "把组织建在楼宇里——北京市朝阳区建外街道正大中心楼宇党建调研札记",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078270.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_s4cuzs",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "专家学者共议AIGC赋能影像生产",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078267.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_5li35x",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "加强中国与中亚跨文化儿童文学交流",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078173.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_1mr61n4",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国红楼梦学会2026年学术年会召开",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078169.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_17b8xzm",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推动中俄毗邻地区合作迈向更高水平",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078171.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_qyxmkl",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "探究现代文艺的双重构型",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078168.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_1ozibzm",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "从玩具看古希腊人的童年与成长",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078133.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_sm0fw8",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "蔚蓝的沉思：伊比利亚半岛的海洋印记",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078129.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261113_r1b7yr",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "城乡居民增收计划筑牢提振消费根基",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-13",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261113_6078124.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2760820",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "Assessing the Maturity of Citizen Reporting Platforms: Unpacking Dimensions, Disparities, and Determinants",
+      "abstract": "",
+      "authors": [
+        "Iris Saliterer",
+        "Kathrin Leppert",
+        "Lisa Hohensinn"
+      ],
+      "publishedAt": "2026-11-12",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2760820",
+      "doi": "10.1080/15309576.2026.2760820",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261112_18llisq",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“振兴中华”的时代强音",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-12",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261112_6077859.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26926511",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "基金会管理条例",
+      "abstract": "中华人民共和国国务院令 第848号 《基金会管理条例》已经2026年9月11日国务院第96次常务会议修订通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10月1...",
+      "summary": "中华人民共和国国务院令 第848号 《基金会管理条例》已经2026年9月11日国务院第96次常务会议修订通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10月1...",
+      "docNumber": "国令第848号",
+      "org": "国务院",
+      "category": "民政、扶贫、救灾\\其他",
+      "authors": [],
+      "publishedAt": "2026-11-10",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085662.htm",
+      "doi": null,
+      "tagIds": [
+        "social-policy"
+      ],
+      "tags": [
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "social-policy": 1.5
+      },
+      "summaryZh": "涉及社会政策与民生保障"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2758867",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Exhaustion intensified? The confluence of coworker and citizen incivility in local government",
+      "abstract": "",
+      "authors": [
+        "Leisha DeHart-Davis",
+        "Amy E. Smith",
+        "Travis Whetsell",
+        "Kayla Schwoerer"
+      ],
+      "publishedAt": "2026-11-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2758867",
+      "doi": "10.1080/14719037.2026.2758867",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000108",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Policy feedback and media framing of crime victims",
+      "abstract": "Drawing on framing theory and the social construction of target populations, this study examines whether and how landmark legislation is associated with shifts in media framing of the populations it targets. We examine this question through the Crime Victims’ Rights Act of 2004 (CVRA), landmark legislation that significantly changed the way the legal process understood victims. By expanding victims’ participatory rights in the prosecution of those who harmed them, it designated victims as deserving a voice in the process and institutionalised the fact that the victim’s experience mattered for the fair provision of justice. Treating the CVRA as a chronological anchor, we conduct a theory-driven framing analysis of 315 articles from four major US newspapers across the four years surrounding the CVRA’s passage to examine how media frames of crime victims shifted across this threshold. We do…",
+      "authors": [
+        "Holly L. Peterson",
+        "Ryan J. Williams",
+        "Sarah Koon-Magnin",
+        "Logan Berthelot"
+      ],
+      "publishedAt": "2026-11-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000108",
+      "doi": "10.1332/03055736y2026d000000108",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1017/s0143814x26101391",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpp",
+      "outlet": "Journal of Public Policy",
+      "outletZh": "《公共政策杂志》",
+      "title": "Redefining influence: how a feminist advocacy group reformed paternity leave in Spain through insider women’s alliances – CORRIGENDUM",
+      "abstract": "",
+      "authors": [
+        "Manuel Alvariño"
+      ],
+      "publishedAt": "2026-11-09",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1017/s0143814x26101391",
+      "doi": "10.1017/s0143814x26101391",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "gov:26926469",
+      "lang": "zh",
+      "sourceType": "policy",
+      "sourceId": "gov-policy",
+      "outlet": "中国政府网",
+      "outletZh": "中国政府网 · 政策文件库",
+      "title": "中医药传统知识保护条例",
+      "abstract": "中华人民共和国国务院令 第850号 《中医药传统知识保护条例》已经2026年9月18日国务院第97次常务会议通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10...",
+      "summary": "中华人民共和国国务院令 第850号 《中医药传统知识保护条例》已经2026年9月18日国务院第97次常务会议通过，现予公布，自2027年1月1日起施行。 总理 李强 2026年10...",
+      "docNumber": "国令第850号",
+      "org": "国务院",
+      "category": "卫生、体育\\医药管理",
+      "authors": [],
+      "publishedAt": "2026-11-09",
+      "datePrecision": "day",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085592.htm",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1111/puar.70228",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "American Society for Public Administration Code of Ethics",
+      "abstract": "",
+      "authors": [],
+      "publishedAt": "2026-11-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70228",
+      "doi": "10.1111/puar.70228",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1111/puar.70227",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Celebrating 86 Years",
+      "abstract": "",
+      "authors": [],
+      "publishedAt": "2026-11-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70227",
+      "doi": "10.1111/puar.70227",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    }
+  ]
+}

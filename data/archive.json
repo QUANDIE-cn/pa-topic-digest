@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-17",
+    "generatedAt": "2026-11-17T04:27:11.312Z",
+    "topicLabels": [
+      "数字政府与算法治理",
+      "官僚行为与公共服务动机",
+      "政策过程与政策工具"
+    ],
+    "topicIds": [
+      "digital-government",
+      "bureaucratic-behavior",
+      "policy-process"
+    ],
+    "entryCount": 31,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-16",
     "generatedAt": "2026-11-16T01:57:31.413Z",
     "topicLabels": [

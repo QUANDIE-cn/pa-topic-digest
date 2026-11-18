@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-18",
+    "generatedAt": "2026-11-18T03:41:00.064Z",
+    "topicLabels": [
+      "应急管理与韧性治理",
+      "数字政府与算法治理",
+      "官僚行为与公共服务动机"
+    ],
+    "topicIds": [
+      "emergency-resilience",
+      "digital-government",
+      "bureaucratic-behavior"
+    ],
+    "entryCount": 31,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-17",
     "generatedAt": "2026-11-17T04:27:11.312Z",
     "topicLabels": [

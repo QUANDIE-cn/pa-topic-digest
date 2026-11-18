@@ -1,0 +1,1057 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T03:41:00.064Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-11-11",
+  "stats": {
+    "entries": 31,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "emergency-resilience",
+      "label": "应急管理与韧性治理",
+      "summary": "危机响应、风险治理、组织韧性与危机沟通的能力建设研究。",
+      "kind": "最新",
+      "hotScore": 3,
+      "entryCount": 3,
+      "recent3Count": 3,
+      "outletCount": 1,
+      "typeBreakdown": {
+        "journal": 0,
+        "cnjournal": 0,
+        "news": 3,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 3
+        }
+      ],
+      "whyHot": "近 7 天共命中 3 条，覆盖 1 个来源（国际顶刊 0 篇 / 中文动态 3 条 / 政策文件 0 条），其中 3 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261118_13z9hok",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "构建中国特色应急管理知识体系需把握的七个面向",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-18",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079015.shtml",
+          "doi": null,
+          "tagIds": [
+            "emergency-resilience"
+          ],
+          "tags": [
+            "应急管理与韧性治理"
+          ],
+          "tagScore": {
+            "emergency-resilience": 3
+          },
+          "summaryZh": "涉及应急管理与韧性治理"
+        },
+        {
+          "id": "cssn:20261118_19hisy2",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "夯实城市智慧应急治理的制度保障",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-18",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079014.shtml",
+          "doi": null,
+          "tagIds": [
+            "emergency-resilience"
+          ],
+          "tags": [
+            "应急管理与韧性治理"
+          ],
+          "tagScore": {
+            "emergency-resilience": 1.5
+          },
+          "summaryZh": "涉及应急管理与韧性治理"
+        },
+        {
+          "id": "cssn:20261118_1t9184t",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "以网格韧性筑牢现代化人民城市的安全底座",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-18",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079013.shtml",
+          "doi": null,
+          "tagIds": [
+            "emergency-resilience"
+          ],
+          "tags": [
+            "应急管理与韧性治理"
+          ],
+          "tagScore": {
+            "emergency-resilience": 1.5
+          },
+          "summaryZh": "涉及应急管理与韧性治理"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "跨层级应急响应的指挥权摩擦",
+          "theory": "多层级治理 × 权威配置",
+          "method": "过程追踪 + 参与式观察",
+          "data": "典型突发事件的指挥调度记录与复盘报告"
+        },
+        {
+          "title": "危机后的组织学习是否真实发生",
+          "theory": "组织学习 × 高可靠性组织",
+          "method": "前后对照 + 预案文本比对",
+          "data": "重大事件前后应急预案修订记录与演练日志"
+        },
+        {
+          "title": "基层韧性能力的可测量化",
+          "theory": "韧性治理 × 能力建设",
+          "method": "指标体系构建 + 验证性因子分析",
+          "data": "社区应急队伍、物资储备与志愿者网络数据"
+        }
+      ]
+    },
+    {
+      "id": "digital-government",
+      "label": "数字政府与算法治理",
+      "summary": "政府数字化转型、数据要素流通、人工智能与算法决策进入公务流程后的组织与问责问题。",
+      "kind": "最新",
+      "hotScore": 2,
+      "entryCount": 2,
+      "recent3Count": 2,
+      "outletCount": 1,
+      "typeBreakdown": {
+        "journal": 0,
+        "cnjournal": 0,
+        "news": 2,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 2
+        }
+      ],
+      "whyHot": "近 7 天共命中 2 条，覆盖 1 个来源（国际顶刊 0 篇 / 中文动态 2 条 / 政策文件 0 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261118_n2bup3",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "实现数智时代知识范式更新",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-18",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078959.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理"
+        },
+        {
+          "id": "cssn:20261118_1nre477",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "数智技术助力文化遗产研究",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-18",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078956.shtml",
+          "doi": null,
+          "tagIds": [
+            "digital-government"
+          ],
+          "tags": [
+            "数字政府与算法治理"
+          ],
+          "tagScore": {
+            "digital-government": 1.5
+          },
+          "summaryZh": "涉及数字政府与算法治理"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "数字鸿沟在政务服务下沉中的再生成机制",
+          "theory": "公共服务均等化 × 数字排斥",
+          "method": "多层级调查数据的分层模型",
+          "data": "县域抽样问卷 + 政务平台办事日志（脱敏后）"
+        },
+        {
+          "title": "数据要素跨部门共享的组织阻力来源",
+          "theory": "组织边界理论 × 资源依赖",
+          "method": "社会网络分析 + 跨部门访谈",
+          "data": "省级数据共享交换平台的部门接入记录与权限配置"
+        },
+        {
+          "title": "大模型进入公文流程后的裁量权重新分配",
+          "theory": "街头官僚理论 × 技术执行／社会物质性",
+          "method": "多案例过程追踪 + 一线人员访谈",
+          "data": "选取2~3个已部署智能写作／智能审批的地市，跟踪公文起草到签发全流程的权限变化"
+        }
+      ]
+    },
+    {
+      "id": "bureaucratic-behavior",
+      "label": "官僚行为与公共服务动机",
+      "summary": "公务员与街头官僚的动机、裁量、代表性官僚制与行为公共管理研究。",
+      "kind": "最新",
+      "hotScore": 1.68,
+      "entryCount": 2,
+      "recent3Count": 2,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 2,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《政策与政治》",
+          "count": 1
+        },
+        {
+          "name": "《治理》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 2 条，覆盖 2 个来源（国际顶刊 2 篇 / 中文动态 0 条 / 政策文件 0 条），其中 2 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1332/03055736y2026d000000106",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "Does policy evaluation depend on the quality of democracy?",
+          "abstract": "Policy evaluation contributes to the quality of democracy, but does the quality of democracy, in turn, contribute to the production and use of policy evaluation? Existing research provides evidence for the former claim but not for the latter. Addressing this research gap, this article examines the pertinence of democratic characteristics alongside or in combination with economic, bureaucratic and educational capacities and analyses the extent to which they are necessary or sufficient for the production and use of policy evaluation. Drawing on Bertelsmann’s Sustainable Governance Indicators (SGI), the analysis applies fuzzy-set Qualitative Comparative Analysis (fsQCA) to all 41 OECD and EU countries. The results suggest that a strong balance of powers and access to information are necessary, but not sufficient conditions for the production and use of policy evaluation. Instead, democratic…",
+          "authors": [
+            "Julián David Salazar",
+            "Johanna Hornung"
+          ],
+          "publishedAt": "2026-11-16",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000106",
+          "doi": "10.1332/03055736y2026d000000106",
+          "tagIds": [
+            "methodology-frontier",
+            "bureaucratic-behavior",
+            "citizen-participation"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "官僚行为与公共服务动机",
+            "公民参与与共同生产"
+          ],
+          "tagScore": {
+            "methodology-frontier": 2,
+            "bureaucratic-behavior": 1,
+            "citizen-participation": 1
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机、公民参与与共同生产"
+        },
+        {
+          "id": "doi:10.1111/gove.70161",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "governance",
+          "outlet": "Governance",
+          "outletZh": "《治理》",
+          "title": "Negotiating Competing Expectations—Chiefs and Mineral Governance in Ghana",
+          "abstract": "ABSTRACT This paper examines what shapes chiefs' discretionary decision‐making and how they exercise authority within hybrid governance arrangements, focusing on Ghana's artisanal and small‐scale mining (ASM) sector. Existing scholarship recognizes that traditional authorities can strengthen or undermine state governance but offers limited explanations for variation in their practices. Drawing on interviews with chiefs, miners, and state officials, the paper develops a discretionary governance framework that integrates hybrid governance, access theory, and discretion. It argues that overlapping customary and statutory authority creates a discretionary space for chiefs to navigate competing expectations. Chiefs exercise this discretion through diverse governance practices, including restricting access to mining sites, mobilizing communities, and collaborating with state institutions, as w…",
+          "authors": [
+            "Joel Agbesinyale"
+          ],
+          "publishedAt": "2026-11-15",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/gove.70161",
+          "doi": "10.1111/gove.70161",
+          "tagIds": [
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "公共服务动机与绩效的因果方向之辩",
+          "theory": "公共服务动机理论 × 社会交换",
+          "method": "交叉滞后面板模型／工具变量",
+          "data": "连续3年以上的公务员追踪调查"
+        },
+        {
+          "title": "代表性官僚制在基层执法中的实际效应",
+          "theory": "代表性官僚制 × 身份认同",
+          "method": "行政数据因果识别（RDD／事件研究）",
+          "data": "执法人员与辖区居民的人口结构匹配数据、执法处理结果"
+        },
+        {
+          "title": "一线人员的情绪劳动与倦怠前因",
+          "theory": "情绪劳动理论 × 工作要求—资源模型",
+          "method": "经验取样法（ESM）日记追踪",
+          "data": "窗口部门一线人员2~4周的每日多次自评"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "cssn:20261118_b9wfng",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“地缘政治竞争、中欧关系和演变中的国际秩序”国际学术研讨会在复旦大学举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079136.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_1wxw5o0",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "第九届“长白国关学者论坛”在吉林大学举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079051.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_st3qnk",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "《仪礼》与礼乐文明的当代回望",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079038.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_1t39kn5",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国文学史书写的三种视角",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079023.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_13z9hok",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "构建中国特色应急管理知识体系需把握的七个面向",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079015.shtml",
+      "doi": null,
+      "tagIds": [
+        "emergency-resilience"
+      ],
+      "tags": [
+        "应急管理与韧性治理"
+      ],
+      "tagScore": {
+        "emergency-resilience": 3
+      },
+      "summaryZh": "涉及应急管理与韧性治理"
+    },
+    {
+      "id": "cssn:20261118_19hisy2",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "夯实城市智慧应急治理的制度保障",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079014.shtml",
+      "doi": null,
+      "tagIds": [
+        "emergency-resilience"
+      ],
+      "tags": [
+        "应急管理与韧性治理"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1.5
+      },
+      "summaryZh": "涉及应急管理与韧性治理"
+    },
+    {
+      "id": "cssn:20261118_1t9184t",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以网格韧性筑牢现代化人民城市的安全底座",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079013.shtml",
+      "doi": null,
+      "tagIds": [
+        "emergency-resilience"
+      ],
+      "tags": [
+        "应急管理与韧性治理"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1.5
+      },
+      "summaryZh": "涉及应急管理与韧性治理"
+    },
+    {
+      "id": "cssn:20261118_1no5ov9",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国文学在西语世界的译介与传播",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079011.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_5veax7",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国文学与艺术传播的异质性",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079009.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_jbwcfz",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "早期域外文本中的中国海洋文化",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6079010.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_4068g7",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“自主知识体系构建与原创性教材建设研讨会”在大连召开",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078989.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_mk1sxw",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "首届东北地区非洲研究学术研讨会在沈阳化工大学召开",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078986.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_aygttj",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "APEC召开之际，全球治理如何改革",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078973.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_do5ya",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "开展更高质量的中阿科技与产业合作——访阿根廷前科技创新部部长丹尼尔·菲尔穆斯",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078972.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_1e66fwx",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "通过绿色转型打造全球南方的未来",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078970.shtml",
+      "doi": null,
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1.5
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "cssn:20261118_1ix0ok2",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "让开放可及 让共识落地",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078961.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_1og47ch",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "高水平学术期刊助力学科建设",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078960.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_n2bup3",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "实现数智时代知识范式更新",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078959.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261118_v2ql6m",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "聚焦新时代行政法学知识根基",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078958.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_1tm0i7c",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以中文为载体读懂文明中国",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078957.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_1nre477",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "数智技术助力文化遗产研究",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078956.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261118_1q35u6",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推进马克思主义理论守正创新",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078955.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261118_1ea3ieq",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "探索城市群协同发展新模式",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261118_6078954.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000109",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Why policy actors choose not to coordinate in policy conflicts",
+      "abstract": "Research on advocacy coalitions in public policy highlights the importance of coordination among policy actors seeking to influence policy making. Less attention has been devoted to why actors sometimes choose not to coordinate, even when they share similar beliefs or interests. In this study, we explore the rationales behind actors’ decisions to refrain from publicly visible coordination in wind power development projects in two Swedish municipalities over a 16-year period. Our findings show that, while most actors engage in coordination at some point, they also refrain from coordinating with others for several reasons. First, they perceive alternative means of exerting influence as more cost-effective; second, they have concerns about the trustworthiness of like-minded actors; third, they view the long-term consequences of coordination as uncertain; and fourth, they are less willing to…",
+      "authors": [
+        "Fredrik Johansson",
+        "Örjan Bodin",
+        "Daniel Nohrstedt"
+      ],
+      "publishedAt": "2026-11-16",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000109",
+      "doi": "10.1332/03055736y2026d000000109",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000106",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Does policy evaluation depend on the quality of democracy?",
+      "abstract": "Policy evaluation contributes to the quality of democracy, but does the quality of democracy, in turn, contribute to the production and use of policy evaluation? Existing research provides evidence for the former claim but not for the latter. Addressing this research gap, this article examines the pertinence of democratic characteristics alongside or in combination with economic, bureaucratic and educational capacities and analyses the extent to which they are necessary or sufficient for the production and use of policy evaluation. Drawing on Bertelsmann’s Sustainable Governance Indicators (SGI), the analysis applies fuzzy-set Qualitative Comparative Analysis (fsQCA) to all 41 OECD and EU countries. The results suggest that a strong balance of powers and access to information are necessary, but not sufficient conditions for the production and use of policy evaluation. Instead, democratic…",
+      "authors": [
+        "Julián David Salazar",
+        "Johanna Hornung"
+      ],
+      "publishedAt": "2026-11-16",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000106",
+      "doi": "10.1332/03055736y2026d000000106",
+      "tagIds": [
+        "methodology-frontier",
+        "bureaucratic-behavior",
+        "citizen-participation"
+      ],
+      "tags": [
+        "研究方法与方法论前沿",
+        "官僚行为与公共服务动机",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "methodology-frontier": 2,
+        "bureaucratic-behavior": 1,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机、公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000107",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "The politics of policy transfer: political dynamics in OECD accession",
+      "abstract": "While recent scholarship has called for greater attention to the political dynamics of policy transfer, this dimension remains under-theorised in policy studies. Existing work has convincingly shown that transfer is politically motivated yet often lacks analytical tools capable of systematically unpacking these dynamics. This article examines the politics of policy transfer empirically. Drawing on political sociology, it conceptualises policy transfer as a process of mobilisation by interested actors occupying positions within organisational fields. These actors use policy transfer as an opportunity to mobilise resources and advance their positions, while seeking to legitimate their choices among national and transnational audiences. Building on three analytical dimensions – fields, opportunities, and legitimacy – the article examines policy transfer associated with the accession of Chil…",
+      "authors": [
+        "Vicente Silva",
+        "Ivar Vargas"
+      ],
+      "publishedAt": "2026-11-16",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000107",
+      "doi": "10.1332/03055736y2026d000000107",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000110",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Explaining policy stasis on same-sex unions in Peru",
+      "abstract": "This article advances understanding of how policy monopolies sustain policy stasis in morality policy, where scholarship has explained policy change more fully than its absence. It develops the concept of a moral policy monopoly to examine how interlocking mechanisms can sustain policy stasis in contexts of high religiosity. Using abductive, mechanistic and analyticist process tracing, and drawing on documents and interviews, the study examines three decades of legislative inertia on same-sex unions in Peru, where 17 Bills were submitted to Congress between 1993 and 2024 and none advanced to plenary approval. The analysis identifies five interlocking mechanisms through which ultraconservative religious actors sustain stasis under conditions of high religiosity, substantial church capacity and a religiously embedded party system. Forging alliances, building moralised policy images and cap…",
+      "authors": [
+        "Carlos Alza-Barco"
+      ],
+      "publishedAt": "2026-11-16",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000110",
+      "doi": "10.1332/03055736y2026d000000110",
+      "tagIds": [
+        "policy-process"
+      ],
+      "tags": [
+        "政策过程与政策工具"
+      ],
+      "tagScore": {
+        "policy-process": 2
+      },
+      "summaryZh": "涉及政策过程与政策工具"
+    },
+    {
+      "id": "doi:10.1111/gove.70161",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "Negotiating Competing Expectations—Chiefs and Mineral Governance in Ghana",
+      "abstract": "ABSTRACT This paper examines what shapes chiefs' discretionary decision‐making and how they exercise authority within hybrid governance arrangements, focusing on Ghana's artisanal and small‐scale mining (ASM) sector. Existing scholarship recognizes that traditional authorities can strengthen or undermine state governance but offers limited explanations for variation in their practices. Drawing on interviews with chiefs, miners, and state officials, the paper develops a discretionary governance framework that integrates hybrid governance, access theory, and discretion. It argues that overlapping customary and statutory authority creates a discretionary space for chiefs to navigate competing expectations. Chiefs exercise this discretion through diverse governance practices, including restricting access to mining sites, mobilizing communities, and collaborating with state institutions, as w…",
+      "authors": [
+        "Joel Agbesinyale"
+      ],
+      "publishedAt": "2026-11-15",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70161",
+      "doi": "10.1111/gove.70161",
+      "tagIds": [
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2760820",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "Assessing the Maturity of Citizen Reporting Platforms: Unpacking Dimensions, Disparities, and Determinants",
+      "abstract": "",
+      "authors": [
+        "Iris Saliterer",
+        "Kathrin Leppert",
+        "Lisa Hohensinn"
+      ],
+      "publishedAt": "2026-11-12",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2760820",
+      "doi": "10.1080/15309576.2026.2760820",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1111/puar.70228",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "American Society for Public Administration Code of Ethics",
+      "abstract": "",
+      "authors": [],
+      "publishedAt": "2026-11-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70228",
+      "doi": "10.1111/puar.70228",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1111/puar.70227",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Celebrating 86 Years",
+      "abstract": "",
+      "authors": [],
+      "publishedAt": "2026-11-01",
+      "datePrecision": "month",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70227",
+      "doi": "10.1111/puar.70227",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    }
+  ]
+}

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-19",
+    "generatedAt": "2026-11-19T03:19:29.053Z",
+    "topicLabels": [
+      "政策过程与政策工具",
+      "应急管理与韧性治理",
+      "公民参与与共同生产"
+    ],
+    "topicIds": [
+      "policy-process",
+      "emergency-resilience",
+      "citizen-participation"
+    ],
+    "entryCount": 35,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-18",
     "generatedAt": "2026-11-18T03:41:00.064Z",
     "topicLabels": [

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-21",
+    "generatedAt": "2026-11-21T03:10:30.910Z",
+    "topicLabels": [
+      "公民参与与共同生产",
+      "官僚行为与公共服务动机",
+      "政策过程与政策工具"
+    ],
+    "topicIds": [
+      "citizen-participation",
+      "bureaucratic-behavior",
+      "policy-process"
+    ],
+    "entryCount": 39,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-20",
     "generatedAt": "2026-11-20T03:05:53.156Z",
     "topicLabels": [

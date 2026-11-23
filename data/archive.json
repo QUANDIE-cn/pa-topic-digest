@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-23",
+    "generatedAt": "2026-11-23T02:40:45.772Z",
+    "topicLabels": [
+      "数字政府与算法治理",
+      "公民参与与共同生产",
+      "政策过程与政策工具"
+    ],
+    "topicIds": [
+      "digital-government",
+      "citizen-participation",
+      "policy-process"
+    ],
+    "entryCount": 37,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-22",
     "generatedAt": "2026-11-22T02:10:17.572Z",
     "topicLabels": [

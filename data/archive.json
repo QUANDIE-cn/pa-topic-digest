@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-24",
+    "generatedAt": "2026-11-24T05:58:04.451Z",
+    "topicLabels": [
+      "问责、廉政与反腐败",
+      "公民参与与共同生产",
+      "官僚行为与公共服务动机"
+    ],
+    "topicIds": [
+      "accountability-corruption",
+      "citizen-participation",
+      "bureaucratic-behavior"
+    ],
+    "entryCount": 38,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-23",
     "generatedAt": "2026-11-23T02:40:45.772Z",
     "topicLabels": [

@@ -1,0 +1,1558 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T04:52:38.154Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-11-18",
+  "stats": {
+    "entries": 41,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "bureaucratic-behavior",
+      "label": "官僚行为与公共服务动机",
+      "summary": "公务员与街头官僚的动机、裁量、代表性官僚制与行为公共管理研究。",
+      "kind": "最新",
+      "hotScore": 3.19,
+      "entryCount": 4,
+      "recent3Count": 3,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 4,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "美国《公共行政评论》",
+          "count": 2
+        },
+        {
+          "name": "《治理》",
+          "count": 1
+        },
+        {
+          "name": "《国际公共管理杂志》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 4 条，覆盖 3 个来源（国际顶刊 4 篇 / 中文动态 0 条 / 政策文件 0 条），其中 3 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1111/puar.70233",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Excessive Heat and Correctional Officer Turnover: Evidence From Texas",
+          "abstract": "ABSTRACT Correctional work is difficult, dangerous, and hot. Many US prisons lack air‐conditioning, resulting in sweltering conditions for both incarcerated people and the street‐level bureaucrats tasked with their supervision. We examine the effect of working in the summer heat without air‐conditioning on correctional officer turnover using personnel records of nearly 60,000 Texas Department of Criminal Justice (TDCJ) employees across 68 prisons between 2010 and 2023. We demonstrate that, among the least‐experienced frontline employees before the onset of COVID‐19, the difference in the probability of departing between those working in prisons without and with air‐conditioning is, on average, 0.33 percentage points larger in the hottest months than in the coolest—an approximately 12% change relative to the baseline departure rate. Back‐of‐the‐envelope estimates suggest that installing a…",
+          "authors": [
+            "Benjamin Goehring",
+            "Jacob Harris"
+          ],
+          "publishedAt": "2026-11-24",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70233",
+          "doi": "10.1111/puar.70233",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "public-hr"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 1,
+            "public-hr": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公共部门人力资源与人事管理"
+        },
+        {
+          "id": "doi:10.1111/gove.70163",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "governance",
+          "outlet": "Governance",
+          "outletZh": "《治理》",
+          "title": "Elections, Expert Assessments and Public Sector Leaks: Evidence From a Survey Experiment",
+          "abstract": "ABSTRACT Despite strong normative, professional and legal constraints, leaks of confidential information by public administrators continue to arise. Yet, data limitations restrict our knowledge about when such actions are most/least likely. Conceptualizing the decision to leak confidential information as a “bureaucratic dilemma,” we theorize that this decision is affected by election proximity and positive/negative expert assessments of policy proposals. We test the resulting theoretical propositions via a between‐subjects survey experiment among 1661 national public administrators in Norway. Our results reveal that impending elections reduce the perceived probability of leaks among public administrators who support government parties, while having the reverse effect among public administrators not supporting government parties. We also uncover that leaks become less—not more—likely when…",
+          "authors": [
+            "Zuzana Murdoch",
+            "Benny Geys"
+          ],
+          "publishedAt": "2026-11-23",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/gove.70163",
+          "doi": "10.1111/gove.70163",
+          "tagIds": [
+            "methodology-frontier",
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "methodology-frontier": 3,
+            "bureaucratic-behavior": 1
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机"
+        },
+        {
+          "id": "doi:10.1080/10967494.2026.2758171",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "ipmj",
+          "outlet": "International Public Management Journal",
+          "outletZh": "《国际公共管理杂志》",
+          "title": "Representative bureaucracy and the career trajectories of female STEM students: a retrospective interview study",
+          "abstract": "",
+          "authors": [
+            "Maayan Davidovitz",
+            "Rachel Gali Cinamon"
+          ],
+          "publishedAt": "2026-11-19",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/10967494.2026.2758171",
+          "doi": "10.1080/10967494.2026.2758171",
+          "tagIds": [
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 2
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机"
+        },
+        {
+          "id": "doi:10.1111/puar.70236",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+          "abstract": "ABSTRACT Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the fed…",
+          "authors": [
+            "John A. Dove",
+            "Noah J. Trudeau"
+          ],
+          "publishedAt": "2026-11-22",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70236",
+          "doi": "10.1111/puar.70236",
+          "tagIds": [
+            "public-hr",
+            "bureaucratic-behavior",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公共部门人力资源与人事管理",
+            "官僚行为与公共服务动机",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "public-hr": 2,
+            "bureaucratic-behavior": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公共部门人力资源与人事管理、官僚行为与公共服务动机、问责、廉政与反腐败"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "公共服务动机与绩效的因果方向之辩",
+          "theory": "公共服务动机理论 × 社会交换",
+          "method": "交叉滞后面板模型／工具变量",
+          "data": "连续3年以上的公务员追踪调查"
+        },
+        {
+          "title": "代表性官僚制在基层执法中的实际效应",
+          "theory": "代表性官僚制 × 身份认同",
+          "method": "行政数据因果识别（RDD／事件研究）",
+          "data": "执法人员与辖区居民的人口结构匹配数据、执法处理结果"
+        },
+        {
+          "title": "一线人员的情绪劳动与倦怠前因",
+          "theory": "情绪劳动理论 × 工作要求—资源模型",
+          "method": "经验取样法（ESM）日记追踪",
+          "data": "窗口部门一线人员2~4周的每日多次自评"
+        }
+      ]
+    },
+    {
+      "id": "accountability-corruption",
+      "label": "问责、廉政与反腐败",
+      "summary": "责任追究、监督体系、腐败治理与廉政制度建设。",
+      "kind": "最新",
+      "hotScore": 3.09,
+      "entryCount": 4,
+      "recent3Count": 3,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 4,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《政策与政治》",
+          "count": 2
+        },
+        {
+          "name": "美国《公共行政评论》",
+          "count": 1
+        },
+        {
+          "name": "《公共绩效与管理评论》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 4 条，覆盖 3 个来源（国际顶刊 4 篇 / 中文动态 0 条 / 政策文件 0 条），其中 3 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1332/03055736y2026d000000113",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "How municipalities organise policy implementation under weak enforcement",
+          "abstract": "Municipalities in Spain are subject to legal transparency requirements that are weakly enforced. This article examines how municipalities organise implementation under weak enforcement: how arrangements change over time, who takes responsibility and what prompts them to change. Drawing on 51 interviews with officers in charge of transparency in municipalities of varying sizes and compliance levels, we trace how implementation has evolved since 2010. We find that municipalities typically assign transparency duties to existing staff and structures, rather than creating dedicated roles. Although legal enactment often initiates implementation, moves towards more specialised arrangements are associated with external incentives, such as evaluations or rankings, rather than with legal enactment alone. Administrative and technical staff tend to drive implementation, although political backing of…",
+          "authors": [
+            "Víctor Ginesta"
+          ],
+          "publishedAt": "2026-11-23",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000113",
+          "doi": "10.1332/03055736y2026d000000113",
+          "tagIds": [
+            "policy-process",
+            "regulation-governance",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "政策过程与政策工具",
+            "监管治理与规制改革",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "policy-process": 2,
+            "regulation-governance": 2,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及政策过程与政策工具、监管治理与规制改革、问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1111/puar.70236",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+          "abstract": "ABSTRACT Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the fed…",
+          "authors": [
+            "John A. Dove",
+            "Noah J. Trudeau"
+          ],
+          "publishedAt": "2026-11-22",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70236",
+          "doi": "10.1111/puar.70236",
+          "tagIds": [
+            "public-hr",
+            "bureaucratic-behavior",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公共部门人力资源与人事管理",
+            "官僚行为与公共服务动机",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "public-hr": 2,
+            "bureaucratic-behavior": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公共部门人力资源与人事管理、官僚行为与公共服务动机、问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1080/15309576.2026.2751448",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "ppmr",
+          "outlet": "Public Performance & Management Review",
+          "outletZh": "《公共绩效与管理评论》",
+          "title": "The Passive Accountability Trap in Cross-Border Governance: The Case of the Macao-Zhuhai Funeral Service Network",
+          "abstract": "",
+          "authors": [
+            "Chunning Wang",
+            "Jingwen Cai",
+            "Yifen Yin",
+            "Haoqian Hu"
+          ],
+          "publishedAt": "2026-11-19",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/15309576.2026.2751448",
+          "doi": "10.1080/15309576.2026.2751448",
+          "tagIds": [
+            "accountability-corruption"
+          ],
+          "tags": [
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000111",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "Policy advisory systems and democratic governance in Italy",
+          "abstract": "Policy advisory systems (PASs) shape how governments organise and use expertise, yet their implications for democratic governance remain underexplored. This article examines how the governance of PASs influences democratic responsiveness and democratic accountability, asking how different organisational arrangements shape these core democratic dimensions. Focusing on the Italian PAS between 2020 and 2025, the article analyses how organisational analytical capacity mediates the relationship between democracy and technocracy. Drawing on a longitudinal case study of three governments, it discusses the consequences of the features and dynamics of the PAS (such as the creation of new advisory bodies, pluralisation, inclusiveness, adaptability, politicisation and elite circulation) on democratic governance. The findings show that these organisational arrangements can both enhance and constrain…",
+          "authors": [
+            "Maria Tullia Galanti",
+            "Andrea Lippi",
+            "Andrea Terlizzi"
+          ],
+          "publishedAt": "2026-11-23",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000111",
+          "doi": "10.1332/03055736y2026d000000111",
+          "tagIds": [
+            "citizen-participation",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公民参与与共同生产",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "citizen-participation": 2,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公民参与与共同生产、问责、廉政与反腐败"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "巡视巡察的问题发现与整改闭环",
+          "theory": "监督理论 × 组织学习",
+          "method": "文本分析 + 整改追踪",
+          "data": "巡视反馈意见与整改报告全文本比对"
+        },
+        {
+          "title": "廉政风险点的行业差异与预警有效性",
+          "theory": "风险治理 × 腐败机会结构",
+          "method": "案件数据建模 + 预测评估",
+          "data": "公开裁判文书的职务犯罪案件数据"
+        },
+        {
+          "title": "审计监督与财政纪律的因果效应",
+          "theory": "审计问责 × 财政纪律",
+          "method": "双重差分（审计覆盖分批）",
+          "data": "审计署及地方审计机关公告与被审计单位整改数据"
+        }
+      ]
+    },
+    {
+      "id": "environment-climate",
+      "label": "环境治理与气候政策",
+      "summary": "环境监管、气候治理、双碳目标与地方环境执法研究。",
+      "kind": "最新",
+      "hotScore": 2.96,
+      "entryCount": 3,
+      "recent3Count": 3,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 1,
+        "cnjournal": 0,
+        "news": 2,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "中国社会科学网 · 学术观察",
+          "count": 2
+        },
+        {
+          "name": "《公共管理评论（英国）》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 3 条，覆盖 2 个来源（国际顶刊 1 篇 / 中文动态 2 条 / 政策文件 0 条），其中 3 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "cssn:20261125_n07clc",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "以建设数字生态文明开辟人与自然和谐共生新境界",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-25",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080932.shtml",
+          "doi": null,
+          "tagIds": [
+            "environment-climate"
+          ],
+          "tags": [
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "environment-climate": 3
+          },
+          "summaryZh": "涉及环境治理与气候政策"
+        },
+        {
+          "id": "doi:10.1080/14719037.2026.2765744",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "pmr",
+          "outlet": "Public Management Review",
+          "outletZh": "《公共管理评论（英国）》",
+          "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective",
+          "abstract": "",
+          "authors": [
+            "Bin Guan",
+            "Lei Wang"
+          ],
+          "publishedAt": "2026-11-23",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/14719037.2026.2765744",
+          "doi": "10.1080/14719037.2026.2765744",
+          "tagIds": [
+            "environment-climate",
+            "fiscal-budget"
+          ],
+          "tags": [
+            "环境治理与气候政策",
+            "财政预算与公共支出"
+          ],
+          "tagScore": {
+            "environment-climate": 1,
+            "fiscal-budget": 1
+          },
+          "summaryZh": "涉及环境治理与气候政策、财政预算与公共支出"
+        },
+        {
+          "id": "cssn:20261125_14btq61",
+          "lang": "zh",
+          "sourceType": "news",
+          "sourceId": "cssn-bwyc",
+          "outlet": "中国社会科学网",
+          "outletZh": "中国社会科学网 · 学术观察",
+          "title": "农业气候风险治理的逻辑与转向",
+          "abstract": "",
+          "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+          "authors": [],
+          "publishedAt": "2026-11-25",
+          "datePrecision": "day",
+          "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080914.shtml",
+          "doi": null,
+          "tagIds": [
+            "emergency-resilience",
+            "environment-climate"
+          ],
+          "tags": [
+            "应急管理与韧性治理",
+            "环境治理与气候政策"
+          ],
+          "tagScore": {
+            "emergency-resilience": 1.5,
+            "environment-climate": 1.5
+          },
+          "summaryZh": "涉及应急管理与韧性治理、环境治理与气候政策"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "双碳目标下地方产业政策的路径依赖",
+          "theory": "路径依赖 × 转型政治经济学",
+          "method": "比较案例 + 文本分析",
+          "data": "资源型城市碳达峰实施方案与产业投资数据"
+        },
+        {
+          "title": "环境执法的弹性尺度与合规行为",
+          "theory": "回应性规制 × 合规动机",
+          "method": "行政数据 + 企业调查",
+          "data": "环境行政处罚记录与企业配合情况"
+        },
+        {
+          "title": "公众环境诉求如何进入政策议程",
+          "theory": "议程设置 × 环境正义",
+          "method": "文本挖掘 + 面板回归",
+          "data": "环保投诉平台语料与地方政策产出"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "cssn:20261125_1hrrb8c",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推动中国特色教师教育体系建设",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080992.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_1aq6m6k",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "从南方文学视角重绘世界文学地图",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080958.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_15vaewn",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "为文明互鉴夯实研究基础",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080956.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_hl1r7g",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "逻辑学要回应技术变革",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080957.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_1bp3se2",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推动甲骨学与数智技术深度融合",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080955.shtml",
+      "doi": null,
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1.5
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "cssn:20261125_28p77y",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "在技术变革中提升智库能力",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080954.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_v55jex",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "深刻把握全面从严治党的学理依据",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080953.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_9bquwe",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "史学理论创新助力深化历史认知",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080935.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_hxc4iw",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "AIGC对大学生主流意识形态认同的影响及引导路径",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080933.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_n07clc",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以建设数字生态文明开辟人与自然和谐共生新境界",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080932.shtml",
+      "doi": null,
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 3
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "cssn:20261125_8q8uig",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "习近平党建思想的生成逻辑与时代价值",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080931.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_ib2qwy",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "技术如何让工作更美好",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080928.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_1odvshe",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "机器辅助的快时尚 离不开一双巧手",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080926.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_1d5r07k",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "考古数字化展陈赋能心理教育",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080924.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_vabg92",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "史前刻划符号的文明密码",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080922.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_s0hrr1",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "江之源，蜀之根",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080921.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_1c8qmgo",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "新型举国体制何以更好统筹发展和安全",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080918.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_14btq61",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "农业气候风险治理的逻辑与转向",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080914.shtml",
+      "doi": null,
+      "tagIds": [
+        "emergency-resilience",
+        "environment-climate"
+      ],
+      "tags": [
+        "应急管理与韧性治理",
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1.5,
+        "environment-climate": 1.5
+      },
+      "summaryZh": "涉及应急管理与韧性治理、环境治理与气候政策"
+    },
+    {
+      "id": "cssn:20261125_mwy5t0",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "企业韧性是经济韧性的微观基础",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080913.shtml",
+      "doi": null,
+      "tagIds": [
+        "emergency-resilience"
+      ],
+      "tags": [
+        "应急管理与韧性治理"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1.5
+      },
+      "summaryZh": "涉及应急管理与韧性治理"
+    },
+    {
+      "id": "cssn:20261125_tl8rvl",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "中国历史研究院澳门历史研究中心成立五周年学术研讨会开幕",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080910.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_1i2jnds",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“大运河文化阅读行”第三季首场活动开讲",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080860.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_8odx4a",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "【特别关注】习近平新时代中国特色社会主义思想海外研究国际论坛（2026）",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080853.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261125_1phxp7i",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "一个政党永葆年轻的力量源泉",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261125_6080852.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1111/puar.70233",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Excessive Heat and Correctional Officer Turnover: Evidence From Texas",
+      "abstract": "ABSTRACT Correctional work is difficult, dangerous, and hot. Many US prisons lack air‐conditioning, resulting in sweltering conditions for both incarcerated people and the street‐level bureaucrats tasked with their supervision. We examine the effect of working in the summer heat without air‐conditioning on correctional officer turnover using personnel records of nearly 60,000 Texas Department of Criminal Justice (TDCJ) employees across 68 prisons between 2010 and 2023. We demonstrate that, among the least‐experienced frontline employees before the onset of COVID‐19, the difference in the probability of departing between those working in prisons without and with air‐conditioning is, on average, 0.33 percentage points larger in the hottest months than in the coolest—an approximately 12% change relative to the baseline departure rate. Back‐of‐the‐envelope estimates suggest that installing a…",
+      "authors": [
+        "Benjamin Goehring",
+        "Jacob Harris"
+      ],
+      "publishedAt": "2026-11-24",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70233",
+      "doi": "10.1111/puar.70233",
+      "tagIds": [
+        "bureaucratic-behavior",
+        "public-hr"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 1,
+        "public-hr": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2765742",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Designing inclusive AI in public service delivery: experimental evidence on individual preferences for government chatbots",
+      "abstract": "",
+      "authors": [
+        "Huan Wang",
+        "Youlang Zhang"
+      ],
+      "publishedAt": "2026-11-24",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2765742",
+      "doi": "10.1080/14719037.2026.2765742",
+      "tagIds": [
+        "public-service-delivery",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "公共服务供给与市场化",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "public-service-delivery": 4,
+        "methodology-frontier": 1
+      },
+      "summaryZh": "涉及公共服务供给与市场化、研究方法与方法论前沿"
+    },
+    {
+      "id": "doi:10.1111/gove.70163",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "Elections, Expert Assessments and Public Sector Leaks: Evidence From a Survey Experiment",
+      "abstract": "ABSTRACT Despite strong normative, professional and legal constraints, leaks of confidential information by public administrators continue to arise. Yet, data limitations restrict our knowledge about when such actions are most/least likely. Conceptualizing the decision to leak confidential information as a “bureaucratic dilemma,” we theorize that this decision is affected by election proximity and positive/negative expert assessments of policy proposals. We test the resulting theoretical propositions via a between‐subjects survey experiment among 1661 national public administrators in Norway. Our results reveal that impending elections reduce the perceived probability of leaks among public administrators who support government parties, while having the reverse effect among public administrators not supporting government parties. We also uncover that leaks become less—not more—likely when…",
+      "authors": [
+        "Zuzana Murdoch",
+        "Benny Geys"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70163",
+      "doi": "10.1111/gove.70163",
+      "tagIds": [
+        "methodology-frontier",
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "研究方法与方法论前沿",
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "methodology-frontier": 3,
+        "bureaucratic-behavior": 1
+      },
+      "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2765744",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective",
+      "abstract": "",
+      "authors": [
+        "Bin Guan",
+        "Lei Wang"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2765744",
+      "doi": "10.1080/14719037.2026.2765744",
+      "tagIds": [
+        "environment-climate",
+        "fiscal-budget"
+      ],
+      "tags": [
+        "环境治理与气候政策",
+        "财政预算与公共支出"
+      ],
+      "tagScore": {
+        "environment-climate": 1,
+        "fiscal-budget": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策、财政预算与公共支出"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000113",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "How municipalities organise policy implementation under weak enforcement",
+      "abstract": "Municipalities in Spain are subject to legal transparency requirements that are weakly enforced. This article examines how municipalities organise implementation under weak enforcement: how arrangements change over time, who takes responsibility and what prompts them to change. Drawing on 51 interviews with officers in charge of transparency in municipalities of varying sizes and compliance levels, we trace how implementation has evolved since 2010. We find that municipalities typically assign transparency duties to existing staff and structures, rather than creating dedicated roles. Although legal enactment often initiates implementation, moves towards more specialised arrangements are associated with external incentives, such as evaluations or rankings, rather than with legal enactment alone. Administrative and technical staff tend to drive implementation, although political backing of…",
+      "authors": [
+        "Víctor Ginesta"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000113",
+      "doi": "10.1332/03055736y2026d000000113",
+      "tagIds": [
+        "policy-process",
+        "regulation-governance",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "政策过程与政策工具",
+        "监管治理与规制改革",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "policy-process": 2,
+        "regulation-governance": 2,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及政策过程与政策工具、监管治理与规制改革、问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000112",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Interpersonal trust in the policy advisory process: a research agenda",
+      "abstract": "Interpersonal trust is a key factor determining whether advice is taken into account in policy making, yet it has received little substantive attention in scholarship on policy advice and expert knowledge. Its role has only grown in importance amid accelerating democratic backsliding and the increased personalisation of politics in many jurisdictions. This article argues that policy scholarship can build on insights from other social science disciplines, which have a long-standing and rich tradition of researching trust, to develop a more purposeful and systematic approach to analysing interpersonal trust and its role in policy making. It sets out a research agenda for studying the phenomena that advances understanding of the informal dimensions of policy making, which have largely remained elusive. In doing so, it provides an analytical lens for examining policy making in settings chara…",
+      "authors": [
+        "Denitsa Marchevska"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000112",
+      "doi": "10.1332/03055736y2026d000000112",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000111",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Policy advisory systems and democratic governance in Italy",
+      "abstract": "Policy advisory systems (PASs) shape how governments organise and use expertise, yet their implications for democratic governance remain underexplored. This article examines how the governance of PASs influences democratic responsiveness and democratic accountability, asking how different organisational arrangements shape these core democratic dimensions. Focusing on the Italian PAS between 2020 and 2025, the article analyses how organisational analytical capacity mediates the relationship between democracy and technocracy. Drawing on a longitudinal case study of three governments, it discusses the consequences of the features and dynamics of the PAS (such as the creation of new advisory bodies, pluralisation, inclusiveness, adaptability, politicisation and elite circulation) on democratic governance. The findings show that these organisational arrangements can both enhance and constrain…",
+      "authors": [
+        "Maria Tullia Galanti",
+        "Andrea Lippi",
+        "Andrea Terlizzi"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000111",
+      "doi": "10.1332/03055736y2026d000000111",
+      "tagIds": [
+        "citizen-participation",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "公民参与与共同生产",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "citizen-participation": 2,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产、问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2762919",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "Perspectives of Community Relations in Policing: The Impact of Leadership Style, Proactive Personality, and Autonomy",
+      "abstract": "",
+      "authors": [
+        "Alexander C. Henderson",
+        "James Melitski"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2762919",
+      "doi": "10.1080/15309576.2026.2762919",
+      "tagIds": [
+        "public-hr"
+      ],
+      "tags": [
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "public-hr": 3
+      },
+      "summaryZh": "涉及公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1111/puar.70236",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+      "abstract": "ABSTRACT Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the fed…",
+      "authors": [
+        "John A. Dove",
+        "Noah J. Trudeau"
+      ],
+      "publishedAt": "2026-11-22",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70236",
+      "doi": "10.1111/puar.70236",
+      "tagIds": [
+        "public-hr",
+        "bureaucratic-behavior",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "公共部门人力资源与人事管理",
+        "官僚行为与公共服务动机",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "public-hr": 2,
+        "bureaucratic-behavior": 1,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及公共部门人力资源与人事管理、官僚行为与公共服务动机、问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2764991",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "Citizens’ Preferences for Comparative Performance Information to Hold Government to Account",
+      "abstract": "",
+      "authors": [
+        "Oliver James",
+        "Amandine Lerusse",
+        "Jamie McCauley"
+      ],
+      "publishedAt": "2026-11-20",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2764991",
+      "doi": "10.1080/15309576.2026.2764991",
+      "tagIds": [
+        "performance-management"
+      ],
+      "tags": [
+        "绩效管理与政府效能"
+      ],
+      "tagScore": {
+        "performance-management": 2
+      },
+      "summaryZh": "涉及绩效管理与政府效能"
+    },
+    {
+      "id": "doi:10.1093/jopart/muag033",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpart",
+      "outlet": "Journal of Public Administration Research and Theory",
+      "outletZh": "《公共行政研究与理论杂志》",
+      "title": "“Unseen and unheard”: recognition and its role in shaping administrative burden",
+      "abstract": "Abstract Administrative burden scholarship has identified psychological costs alongside learning and compliance costs, yet the category remains homogeneous, grouping stigma, diminished autonomy, and stress, without a shared organizing principle. This article advances a mechanism-level account centered on recognition, drawing on a qualitative case study of claiming disability benefits in Israel, based on in-depth interviews with thirty-three individuals (sixteen young adults with diagnosed mental health conditions and seventeen social and outreach workers). We argue that recognition and its denial are part of the mechanism through which psychological costs are produced and that whether an encounter carries a message about a person’s standing sorts the category into three analytically distinct types: Affective costs are emotional responses to procedural load and involve no recognition; pri…",
+      "authors": [
+        "Noam Tarshish"
+      ],
+      "publishedAt": "2026-11-19",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1093/jopart/muag033",
+      "doi": "10.1093/jopart/muag033",
+      "tagIds": [
+        "regulation-governance"
+      ],
+      "tags": [
+        "监管治理与规制改革"
+      ],
+      "tagScore": {
+        "regulation-governance": 1
+      },
+      "summaryZh": "涉及监管治理与规制改革"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2765333",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Captured governance and diagnostic infrastructures: evidence from municipalities dissolved for mafia infiltration",
+      "abstract": "",
+      "authors": [
+        "Francesco Ambrosini",
+        "Ilaria Campagna",
+        "Federico Longhin",
+        "Antonio Parbonetti"
+      ],
+      "publishedAt": "2026-11-19",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2765333",
+      "doi": "10.1080/14719037.2026.2765333",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/10967494.2026.2758171",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ipmj",
+      "outlet": "International Public Management Journal",
+      "outletZh": "《国际公共管理杂志》",
+      "title": "Representative bureaucracy and the career trajectories of female STEM students: a retrospective interview study",
+      "abstract": "",
+      "authors": [
+        "Maayan Davidovitz",
+        "Rachel Gali Cinamon"
+      ],
+      "publishedAt": "2026-11-19",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/10967494.2026.2758171",
+      "doi": "10.1080/10967494.2026.2758171",
+      "tagIds": [
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 2
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2751448",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "The Passive Accountability Trap in Cross-Border Governance: The Case of the Macao-Zhuhai Funeral Service Network",
+      "abstract": "",
+      "authors": [
+        "Chunning Wang",
+        "Jingwen Cai",
+        "Yifen Yin",
+        "Haoqian Hu"
+      ],
+      "publishedAt": "2026-11-19",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2751448",
+      "doi": "10.1080/15309576.2026.2751448",
+      "tagIds": [
+        "accountability-corruption"
+      ],
+      "tags": [
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2764194",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization",
+      "abstract": "",
+      "authors": [
+        "Precious Unegbu",
+        "Claire Dupont"
+      ],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2764194",
+      "doi": "10.1080/14719037.2026.2764194",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2765743",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment",
+      "abstract": "",
+      "authors": [
+        "Martina Pisarra",
+        "Marta Ingaggiati",
+        "Giovanni Barbato",
+        "Adina Iulia Dudau"
+      ],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2765743",
+      "doi": "10.1080/14719037.2026.2765743",
+      "tagIds": [
+        "collaborative-governance",
+        "citizen-participation"
+      ],
+      "tags": [
+        "协同治理与跨部门合作",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "collaborative-governance": 1,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及协同治理与跨部门合作、公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2758287",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Building contract management capacity in government organizations: contrasting priorities of public and vendor managers",
+      "abstract": "",
+      "authors": [
+        "Morten Skov Madsen",
+        "Ole Helby Petersen"
+      ],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2758287",
+      "doi": "10.1080/14719037.2026.2758287",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2765325",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
+      "abstract": "",
+      "authors": [
+        "Guang Yang"
+      ],
+      "publishedAt": "2026-11-18",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2765325",
+      "doi": "10.1080/14719037.2026.2765325",
+      "tagIds": [
+        "public-service-delivery",
+        "policy-process",
+        "collaborative-governance",
+        "citizen-participation"
+      ],
+      "tags": [
+        "公共服务供给与市场化",
+        "政策过程与政策工具",
+        "协同治理与跨部门合作",
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "public-service-delivery": 3,
+        "policy-process": 2,
+        "collaborative-governance": 1,
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及公共服务供给与市场化、政策过程与政策工具、协同治理与跨部门合作"
+    }
+  ]
+}

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-25",
+    "generatedAt": "2026-11-25T04:52:38.154Z",
+    "topicLabels": [
+      "官僚行为与公共服务动机",
+      "问责、廉政与反腐败",
+      "环境治理与气候政策"
+    ],
+    "topicIds": [
+      "bureaucratic-behavior",
+      "accountability-corruption",
+      "environment-climate"
+    ],
+    "entryCount": 41,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-24",
     "generatedAt": "2026-11-24T05:58:04.451Z",
     "topicLabels": [

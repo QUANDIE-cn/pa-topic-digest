@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-26",
+    "generatedAt": "2026-11-26T04:07:03.178Z",
+    "topicLabels": [
+      "问责、廉政与反腐败",
+      "官僚行为与公共服务动机",
+      "研究方法与方法论前沿"
+    ],
+    "topicIds": [
+      "accountability-corruption",
+      "bureaucratic-behavior",
+      "methodology-frontier"
+    ],
+    "entryCount": 38,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-25",
     "generatedAt": "2026-11-25T04:52:38.154Z",
     "topicLabels": [

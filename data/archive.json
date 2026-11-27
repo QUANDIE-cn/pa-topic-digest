@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-27",
+    "generatedAt": "2026-11-27T04:12:04.781Z",
+    "topicLabels": [
+      "公共部门人力资源与人事管理",
+      "问责、廉政与反腐败",
+      "官僚行为与公共服务动机"
+    ],
+    "topicIds": [
+      "public-hr",
+      "accountability-corruption",
+      "bureaucratic-behavior"
+    ],
+    "entryCount": 37,
+    "sourcesOk": 11,
+    "sourcesTotal": 15,
+    "ok": true
+  },
+  {
     "date": "2026-11-26",
     "generatedAt": "2026-11-26T04:07:03.178Z",
     "topicLabels": [

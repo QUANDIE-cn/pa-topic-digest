@@ -1,0 +1,1543 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T03:51:57.264Z",
+  "windowDays": 7,
+  "windows": {
+    "international": 7,
+    "cnki": 45
+  },
+  "rangeFrom": "2026-11-21",
+  "stats": {
+    "entries": 38,
+    "topics": 3,
+    "journals": 9,
+    "sourcesOk": 11,
+    "sourcesTotal": 15
+  },
+  "topics": [
+    {
+      "id": "public-hr",
+      "label": "公共部门人力资源与人事管理",
+      "summary": "公务员招录、激励、培训、流动与人事制度改革。",
+      "kind": "最新",
+      "hotScore": 2.72,
+      "entryCount": 4,
+      "recent3Count": 1,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 4,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "美国《公共行政评论》",
+          "count": 2
+        },
+        {
+          "name": "《公共管理评论（英国）》",
+          "count": 1
+        },
+        {
+          "name": "《公共绩效与管理评论》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 4 条，覆盖 3 个来源（国际顶刊 4 篇 / 中文动态 0 条 / 政策文件 0 条），其中 1 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1080/14719037.2026.2769027",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "pmr",
+          "outlet": "Public Management Review",
+          "outletZh": "《公共管理评论（英国）》",
+          "title": "Strategic leadership as a root competency in municipal digital transformation: a grounded-theory and discourse-based DEMATEL study of Arab cities",
+          "abstract": "",
+          "authors": [
+            "Adel Ben Youssef",
+            "Adelina Zeqiri"
+          ],
+          "publishedAt": "2026-11-26",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/14719037.2026.2769027",
+          "doi": "10.1080/14719037.2026.2769027",
+          "tagIds": [
+            "digital-government",
+            "public-hr"
+          ],
+          "tags": [
+            "数字政府与算法治理",
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "digital-government": 3,
+            "public-hr": 1
+          },
+          "summaryZh": "涉及数字政府与算法治理、公共部门人力资源与人事管理"
+        },
+        {
+          "id": "doi:10.1111/puar.70233",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Excessive Heat and Correctional Officer Turnover: Evidence From Texas",
+          "abstract": "ABSTRACT Correctional work is difficult, dangerous, and hot. Many US prisons lack air‐conditioning, resulting in sweltering conditions for both incarcerated people and the street‐level bureaucrats tasked with their supervision. We examine the effect of working in the summer heat without air‐conditioning on correctional officer turnover using personnel records of nearly 60,000 Texas Department of Criminal Justice (TDCJ) employees across 68 prisons between 2010 and 2023. We demonstrate that, among the least‐experienced frontline employees before the onset of COVID‐19, the difference in the probability of departing between those working in prisons without and with air‐conditioning is, on average, 0.33 percentage points larger in the hottest months than in the coolest—an approximately 12% change relative to the baseline departure rate. Back‐of‐the‐envelope estimates suggest that installing a…",
+          "authors": [
+            "Benjamin Goehring",
+            "Jacob Harris"
+          ],
+          "publishedAt": "2026-11-24",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70233",
+          "doi": "10.1111/puar.70233",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "public-hr"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 1,
+            "public-hr": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公共部门人力资源与人事管理"
+        },
+        {
+          "id": "doi:10.1080/15309576.2026.2762919",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "ppmr",
+          "outlet": "Public Performance & Management Review",
+          "outletZh": "《公共绩效与管理评论》",
+          "title": "Perspectives of Community Relations in Policing: The Impact of Leadership Style, Proactive Personality, and Autonomy",
+          "abstract": "",
+          "authors": [
+            "Alexander C. Henderson",
+            "James Melitski"
+          ],
+          "publishedAt": "2026-11-23",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1080/15309576.2026.2762919",
+          "doi": "10.1080/15309576.2026.2762919",
+          "tagIds": [
+            "public-hr"
+          ],
+          "tags": [
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "public-hr": 3
+          },
+          "summaryZh": "涉及公共部门人力资源与人事管理"
+        },
+        {
+          "id": "doi:10.1111/puar.70236",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+          "abstract": "ABSTRACT Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the fed…",
+          "authors": [
+            "John A. Dove",
+            "Noah J. Trudeau"
+          ],
+          "publishedAt": "2026-11-22",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70236",
+          "doi": "10.1111/puar.70236",
+          "tagIds": [
+            "public-hr",
+            "bureaucratic-behavior",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公共部门人力资源与人事管理",
+            "官僚行为与公共服务动机",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "public-hr": 2,
+            "bureaucratic-behavior": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公共部门人力资源与人事管理、官僚行为与公共服务动机、问责、廉政与反腐败"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "公职人员薪酬感知与工作投入的关系",
+          "theory": "公平理论 × 工作要求—资源",
+          "method": "结构方程模型 + 情景实验",
+          "data": "多层级公务员薪酬满意度调查"
+        },
+        {
+          "title": "公务员招录制度对人才结构的长周期影响",
+          "theory": "人力资本配置 × 职业选择理论",
+          "method": "行政数据 + 队列分析",
+          "data": "历年招录岗位表与录用人员背景信息（脱敏）"
+        },
+        {
+          "title": "编制约束下的编外用工扩张机制",
+          "theory": "组织弹性 × 制度约束",
+          "method": "比较案例 + 财政人事数据分析",
+          "data": "地方编外人员规模、经费与管理制度文件"
+        }
+      ]
+    },
+    {
+      "id": "accountability-corruption",
+      "label": "问责、廉政与反腐败",
+      "summary": "责任追究、监督体系、腐败治理与廉政制度建设。",
+      "kind": "最新",
+      "hotScore": 2.54,
+      "entryCount": 4,
+      "recent3Count": 1,
+      "outletCount": 3,
+      "typeBreakdown": {
+        "journal": 4,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《政策与政治》",
+          "count": 2
+        },
+        {
+          "name": "《治理》",
+          "count": 1
+        },
+        {
+          "name": "美国《公共行政评论》",
+          "count": 1
+        }
+      ],
+      "whyHot": "近 7 天共命中 4 条，覆盖 3 个来源（国际顶刊 4 篇 / 中文动态 0 条 / 政策文件 0 条），其中 1 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1111/gove.70164",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "governance",
+          "outlet": "Governance",
+          "outletZh": "《治理》",
+          "title": "Linking Women’s Equality With Government Integrity: Can Gender Budgeting Curb Corruption?",
+          "abstract": "ABSTRACT Policies addressing gender inequality have increasingly been linked to more ethical governance, as women tend to be disproportionately burdened by corruption compared to men. One such policy is gender budgeting, an innovative approach to resource allocation that considers the impact of government spending on women and other underrepresented groups. Despite the growing popularity worldwide, we know little about its effectiveness in curbing corruption. This study evaluates the impact of gender budgeting on grand (political) and petty (bureaucratic) corruption using difference‐in‐differences estimations across a panel of 136 countries from 1980 to 2023. The results reveal a significant reduction in petty corruption, as gender budgeting improves the impartiality of public bureaucracies. Heterogeneity analyses also indicate a decrease in grand corruption, but only in countries with a…",
+          "authors": [
+            "Marjorie De la Cruz",
+            "Milena I. Neshkova",
+            "Yoon‐Jung Choi"
+          ],
+          "publishedAt": "2026-11-25",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/gove.70164",
+          "doi": "10.1111/gove.70164",
+          "tagIds": [
+            "accountability-corruption",
+            "bureaucratic-behavior",
+            "performance-management",
+            "fiscal-budget",
+            "social-policy"
+          ],
+          "tags": [
+            "问责、廉政与反腐败",
+            "官僚行为与公共服务动机",
+            "绩效管理与政府效能",
+            "财政预算与公共支出",
+            "社会政策与民生保障"
+          ],
+          "tagScore": {
+            "accountability-corruption": 3,
+            "bureaucratic-behavior": 1,
+            "performance-management": 1,
+            "fiscal-budget": 1,
+            "social-policy": 1
+          },
+          "summaryZh": "涉及问责、廉政与反腐败、官僚行为与公共服务动机、绩效管理与政府效能"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000113",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "How municipalities organise policy implementation under weak enforcement",
+          "abstract": "Municipalities in Spain are subject to legal transparency requirements that are weakly enforced. This article examines how municipalities organise implementation under weak enforcement: how arrangements change over time, who takes responsibility and what prompts them to change. Drawing on 51 interviews with officers in charge of transparency in municipalities of varying sizes and compliance levels, we trace how implementation has evolved since 2010. We find that municipalities typically assign transparency duties to existing staff and structures, rather than creating dedicated roles. Although legal enactment often initiates implementation, moves towards more specialised arrangements are associated with external incentives, such as evaluations or rankings, rather than with legal enactment alone. Administrative and technical staff tend to drive implementation, although political backing of…",
+          "authors": [
+            "Víctor Ginesta"
+          ],
+          "publishedAt": "2026-11-23",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000113",
+          "doi": "10.1332/03055736y2026d000000113",
+          "tagIds": [
+            "policy-process",
+            "regulation-governance",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "政策过程与政策工具",
+            "监管治理与规制改革",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "policy-process": 2,
+            "regulation-governance": 2,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及政策过程与政策工具、监管治理与规制改革、问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1111/puar.70236",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+          "abstract": "ABSTRACT Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the fed…",
+          "authors": [
+            "John A. Dove",
+            "Noah J. Trudeau"
+          ],
+          "publishedAt": "2026-11-22",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70236",
+          "doi": "10.1111/puar.70236",
+          "tagIds": [
+            "public-hr",
+            "bureaucratic-behavior",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公共部门人力资源与人事管理",
+            "官僚行为与公共服务动机",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "public-hr": 2,
+            "bureaucratic-behavior": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公共部门人力资源与人事管理、官僚行为与公共服务动机、问责、廉政与反腐败"
+        },
+        {
+          "id": "doi:10.1332/03055736y2026d000000111",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "policy-politics",
+          "outlet": "Policy & Politics",
+          "outletZh": "《政策与政治》",
+          "title": "Policy advisory systems and democratic governance in Italy",
+          "abstract": "Policy advisory systems (PASs) shape how governments organise and use expertise, yet their implications for democratic governance remain underexplored. This article examines how the governance of PASs influences democratic responsiveness and democratic accountability, asking how different organisational arrangements shape these core democratic dimensions. Focusing on the Italian PAS between 2020 and 2025, the article analyses how organisational analytical capacity mediates the relationship between democracy and technocracy. Drawing on a longitudinal case study of three governments, it discusses the consequences of the features and dynamics of the PAS (such as the creation of new advisory bodies, pluralisation, inclusiveness, adaptability, politicisation and elite circulation) on democratic governance. The findings show that these organisational arrangements can both enhance and constrain…",
+          "authors": [
+            "Maria Tullia Galanti",
+            "Andrea Lippi",
+            "Andrea Terlizzi"
+          ],
+          "publishedAt": "2026-11-23",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1332/03055736y2026d000000111",
+          "doi": "10.1332/03055736y2026d000000111",
+          "tagIds": [
+            "citizen-participation",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公民参与与共同生产",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "citizen-participation": 2,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公民参与与共同生产、问责、廉政与反腐败"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "廉政风险点的行业差异与预警有效性",
+          "theory": "风险治理 × 腐败机会结构",
+          "method": "案件数据建模 + 预测评估",
+          "data": "公开裁判文书的职务犯罪案件数据"
+        },
+        {
+          "title": "审计监督与财政纪律的因果效应",
+          "theory": "审计问责 × 财政纪律",
+          "method": "双重差分（审计覆盖分批）",
+          "data": "审计署及地方审计机关公告与被审计单位整改数据"
+        },
+        {
+          "title": "问责强度与干部担当行为的张力",
+          "theory": "问责理论 × 激励—约束平衡",
+          "method": "情景实验 + 面板数据",
+          "data": "干部考核结果与重点项目推进数据"
+        }
+      ]
+    },
+    {
+      "id": "bureaucratic-behavior",
+      "label": "官僚行为与公共服务动机",
+      "summary": "公务员与街头官僚的动机、裁量、代表性官僚制与行为公共管理研究。",
+      "kind": "最新",
+      "hotScore": 2.48,
+      "entryCount": 4,
+      "recent3Count": 1,
+      "outletCount": 2,
+      "typeBreakdown": {
+        "journal": 4,
+        "cnjournal": 0,
+        "news": 0,
+        "policy": 0
+      },
+      "outlets": [
+        {
+          "name": "《治理》",
+          "count": 2
+        },
+        {
+          "name": "美国《公共行政评论》",
+          "count": 2
+        }
+      ],
+      "whyHot": "近 7 天共命中 4 条，覆盖 2 个来源（国际顶刊 4 篇 / 中文动态 0 条 / 政策文件 0 条），其中 1 条发布于近 3 天。",
+      "entries": [
+        {
+          "id": "doi:10.1111/gove.70164",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "governance",
+          "outlet": "Governance",
+          "outletZh": "《治理》",
+          "title": "Linking Women’s Equality With Government Integrity: Can Gender Budgeting Curb Corruption?",
+          "abstract": "ABSTRACT Policies addressing gender inequality have increasingly been linked to more ethical governance, as women tend to be disproportionately burdened by corruption compared to men. One such policy is gender budgeting, an innovative approach to resource allocation that considers the impact of government spending on women and other underrepresented groups. Despite the growing popularity worldwide, we know little about its effectiveness in curbing corruption. This study evaluates the impact of gender budgeting on grand (political) and petty (bureaucratic) corruption using difference‐in‐differences estimations across a panel of 136 countries from 1980 to 2023. The results reveal a significant reduction in petty corruption, as gender budgeting improves the impartiality of public bureaucracies. Heterogeneity analyses also indicate a decrease in grand corruption, but only in countries with a…",
+          "authors": [
+            "Marjorie De la Cruz",
+            "Milena I. Neshkova",
+            "Yoon‐Jung Choi"
+          ],
+          "publishedAt": "2026-11-25",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/gove.70164",
+          "doi": "10.1111/gove.70164",
+          "tagIds": [
+            "accountability-corruption",
+            "bureaucratic-behavior",
+            "performance-management",
+            "fiscal-budget",
+            "social-policy"
+          ],
+          "tags": [
+            "问责、廉政与反腐败",
+            "官僚行为与公共服务动机",
+            "绩效管理与政府效能",
+            "财政预算与公共支出",
+            "社会政策与民生保障"
+          ],
+          "tagScore": {
+            "accountability-corruption": 3,
+            "bureaucratic-behavior": 1,
+            "performance-management": 1,
+            "fiscal-budget": 1,
+            "social-policy": 1
+          },
+          "summaryZh": "涉及问责、廉政与反腐败、官僚行为与公共服务动机、绩效管理与政府效能"
+        },
+        {
+          "id": "doi:10.1111/puar.70233",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Excessive Heat and Correctional Officer Turnover: Evidence From Texas",
+          "abstract": "ABSTRACT Correctional work is difficult, dangerous, and hot. Many US prisons lack air‐conditioning, resulting in sweltering conditions for both incarcerated people and the street‐level bureaucrats tasked with their supervision. We examine the effect of working in the summer heat without air‐conditioning on correctional officer turnover using personnel records of nearly 60,000 Texas Department of Criminal Justice (TDCJ) employees across 68 prisons between 2010 and 2023. We demonstrate that, among the least‐experienced frontline employees before the onset of COVID‐19, the difference in the probability of departing between those working in prisons without and with air‐conditioning is, on average, 0.33 percentage points larger in the hottest months than in the coolest—an approximately 12% change relative to the baseline departure rate. Back‐of‐the‐envelope estimates suggest that installing a…",
+          "authors": [
+            "Benjamin Goehring",
+            "Jacob Harris"
+          ],
+          "publishedAt": "2026-11-24",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70233",
+          "doi": "10.1111/puar.70233",
+          "tagIds": [
+            "bureaucratic-behavior",
+            "public-hr"
+          ],
+          "tags": [
+            "官僚行为与公共服务动机",
+            "公共部门人力资源与人事管理"
+          ],
+          "tagScore": {
+            "bureaucratic-behavior": 1,
+            "public-hr": 1
+          },
+          "summaryZh": "涉及官僚行为与公共服务动机、公共部门人力资源与人事管理"
+        },
+        {
+          "id": "doi:10.1111/gove.70163",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "governance",
+          "outlet": "Governance",
+          "outletZh": "《治理》",
+          "title": "Elections, Expert Assessments and Public Sector Leaks: Evidence From a Survey Experiment",
+          "abstract": "ABSTRACT Despite strong normative, professional and legal constraints, leaks of confidential information by public administrators continue to arise. Yet, data limitations restrict our knowledge about when such actions are most/least likely. Conceptualizing the decision to leak confidential information as a “bureaucratic dilemma,” we theorize that this decision is affected by election proximity and positive/negative expert assessments of policy proposals. We test the resulting theoretical propositions via a between‐subjects survey experiment among 1661 national public administrators in Norway. Our results reveal that impending elections reduce the perceived probability of leaks among public administrators who support government parties, while having the reverse effect among public administrators not supporting government parties. We also uncover that leaks become less—not more—likely when…",
+          "authors": [
+            "Zuzana Murdoch",
+            "Benny Geys"
+          ],
+          "publishedAt": "2026-11-23",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/gove.70163",
+          "doi": "10.1111/gove.70163",
+          "tagIds": [
+            "methodology-frontier",
+            "bureaucratic-behavior"
+          ],
+          "tags": [
+            "研究方法与方法论前沿",
+            "官僚行为与公共服务动机"
+          ],
+          "tagScore": {
+            "methodology-frontier": 3,
+            "bureaucratic-behavior": 1
+          },
+          "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机"
+        },
+        {
+          "id": "doi:10.1111/puar.70236",
+          "lang": "en",
+          "sourceType": "journal",
+          "sourceId": "par",
+          "outlet": "Public Administration Review",
+          "outletZh": "美国《公共行政评论》",
+          "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+          "abstract": "ABSTRACT Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the fed…",
+          "authors": [
+            "John A. Dove",
+            "Noah J. Trudeau"
+          ],
+          "publishedAt": "2026-11-22",
+          "datePrecision": "day",
+          "windowDays": 7,
+          "url": "https://doi.org/10.1111/puar.70236",
+          "doi": "10.1111/puar.70236",
+          "tagIds": [
+            "public-hr",
+            "bureaucratic-behavior",
+            "accountability-corruption"
+          ],
+          "tags": [
+            "公共部门人力资源与人事管理",
+            "官僚行为与公共服务动机",
+            "问责、廉政与反腐败"
+          ],
+          "tagScore": {
+            "public-hr": 2,
+            "bureaucratic-behavior": 1,
+            "accountability-corruption": 1
+          },
+          "summaryZh": "涉及公共部门人力资源与人事管理、官僚行为与公共服务动机、问责、廉政与反腐败"
+        }
+      ],
+      "ideas": [
+        {
+          "title": "代表性官僚制在基层执法中的实际效应",
+          "theory": "代表性官僚制 × 身份认同",
+          "method": "行政数据因果识别（RDD／事件研究）",
+          "data": "执法人员与辖区居民的人口结构匹配数据、执法处理结果"
+        },
+        {
+          "title": "一线人员的情绪劳动与倦怠前因",
+          "theory": "情绪劳动理论 × 工作要求—资源模型",
+          "method": "经验取样法（ESM）日记追踪",
+          "data": "窗口部门一线人员2~4周的每日多次自评"
+        },
+        {
+          "title": "避责行为在强问责环境下的形态演变",
+          "theory": "避责理论 × 组织问责",
+          "method": "情景实验 + 访谈三角验证",
+          "data": "面向不同层级公务员的预注册情景实验，配合典型案例档案"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "doi:10.1111/gove.70166",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "Learning From the Public: Can Governments Listen to Ordinary People?By DanielBerliner, Oxford: Oxford University Press, 2026. 240 pp. £88.00 (hb). ISBN: 978-0-19-899572-2",
+      "abstract": "ABSTRACT This review assesses Daniel Berliner's Learning from the Public, which treats the processing of citizen input as a neglected stage of participation. Its typology of processing is valuable for research and practice. However, the evidence is illustrative; the book does not separate weak capacity from unwillingness to listen, and thin coverage of the global South limits its general claims.",
+      "authors": [
+        "Rupak Biswas",
+        "Santhosh Juvvaka"
+      ],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70166",
+      "doi": "10.1111/gove.70166",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_lwt6f8",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "以习近平党建思想为根本遵循 持之以恒推进全面从严治党",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081517.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_3dyfk6",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "《深圳范式 南山答案》在京发布",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081515.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_f9nbb0",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“Link·SH 从这里走向世界”通识讲座校园行活动在沪举行",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081483.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_790myy",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "全国高校智慧教学创新者大会暨混合式教学创新者联盟2026年会召开",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081440.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_11pmd5i",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "《中国ESG投资发展报告（2026）》发布",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081425.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_o4nhq8",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "数字技术驱动基层监督效能提升的内在机制与效能评估",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081414.shtml",
+      "doi": null,
+      "tagIds": [
+        "performance-management"
+      ],
+      "tags": [
+        "绩效管理与政府效能"
+      ],
+      "tagScore": {
+        "performance-management": 3
+      },
+      "summaryZh": "涉及绩效管理与政府效能"
+    },
+    {
+      "id": "cssn:20261127_6w7vl9",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "深刻认识习近平党建思想的理论要义",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081411.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_1ca975u",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "在红河实践中探索乡村新内生发展之路",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081405.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_1km9a10",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "书卷传薪拓荒启智",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081399.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_rpm1bz",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "雪域边境新家园",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081398.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_et6bam",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "当代戏曲活化传承的途径",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081384.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_ma7ukr",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "“剧本先行”与传统戏曲的改编边界",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081383.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_1oaugo6",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "从汉画像看汉代戏曲的自足性",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081382.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_a1vqkc",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "猎巫运动映照欧洲现代化被遗忘的残酷底色",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081381.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_o6qei2",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "奥古斯丁与宗教暴力的三重治理",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081380.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_1gleccq",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "城市更新韧性治理的系统建构",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081379.shtml",
+      "doi": null,
+      "tagIds": [
+        "emergency-resilience"
+      ],
+      "tags": [
+        "应急管理与韧性治理"
+      ],
+      "tagScore": {
+        "emergency-resilience": 1.5
+      },
+      "summaryZh": "涉及应急管理与韧性治理"
+    },
+    {
+      "id": "cssn:20261127_f4qxuk",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "推动涉案虚拟货币强制查控规范化",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081370.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_1dlims9",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "让《民营经济促进法》真正落地见效",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081369.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_152wq97",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "每个人都在求稳，经济为何仍会不稳",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081367.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_1sdm1pr",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "从凯恩斯到新凯恩斯主义",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081366.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_19rpdyy",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "凯恩斯经济学革命的核心",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081364.shtml",
+      "doi": null,
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "cssn:20261127_1t4iagw",
+      "lang": "zh",
+      "sourceType": "news",
+      "sourceId": "cssn-bwyc",
+      "outlet": "中国社会科学网",
+      "outletZh": "中国社会科学网 · 学术观察",
+      "title": "让中国绿色发展经验惠及广大全球南方国家",
+      "abstract": "",
+      "summary": "中国社会科学网学术观察（本网原创），聚焦学界动态、会议与学术议题。",
+      "authors": [],
+      "publishedAt": "2026-11-27",
+      "datePrecision": "day",
+      "url": "https://www.cssn.cn/skgz/bwyc/202611/t20261127_6081345.shtml",
+      "doi": null,
+      "tagIds": [
+        "environment-climate"
+      ],
+      "tags": [
+        "环境治理与气候政策"
+      ],
+      "tagScore": {
+        "environment-climate": 1.5
+      },
+      "summaryZh": "涉及环境治理与气候政策"
+    },
+    {
+      "id": "doi:10.1111/gove.70168",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "The Co‐Opted State: How Politicians’ Control Over Bureaucrats’ Careers Threatens Governance. By SarahBrierley, Cambridge: Cambridge University Press, 2026. 200 pp. ISBN: 978‐1‐009‐75725‐6",
+      "abstract": "",
+      "authors": [
+        "Abdur Rahman"
+      ],
+      "publishedAt": "2026-11-26",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70168",
+      "doi": "10.1111/gove.70168",
+      "tagIds": [],
+      "tags": [],
+      "tagScore": {},
+      "summaryZh": "暂未匹配到既有议题标签"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2769358",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Government’s role in stigmatization: amplification, moderation, and collaboration",
+      "abstract": "",
+      "authors": [
+        "David Moura"
+      ],
+      "publishedAt": "2026-11-26",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2769358",
+      "doi": "10.1080/14719037.2026.2769358",
+      "tagIds": [
+        "collaborative-governance"
+      ],
+      "tags": [
+        "协同治理与跨部门合作"
+      ],
+      "tagScore": {
+        "collaborative-governance": 1
+      },
+      "summaryZh": "涉及协同治理与跨部门合作"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2769027",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Strategic leadership as a root competency in municipal digital transformation: a grounded-theory and discourse-based DEMATEL study of Arab cities",
+      "abstract": "",
+      "authors": [
+        "Adel Ben Youssef",
+        "Adelina Zeqiri"
+      ],
+      "publishedAt": "2026-11-26",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2769027",
+      "doi": "10.1080/14719037.2026.2769027",
+      "tagIds": [
+        "digital-government",
+        "public-hr"
+      ],
+      "tags": [
+        "数字政府与算法治理",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "digital-government": 3,
+        "public-hr": 1
+      },
+      "summaryZh": "涉及数字政府与算法治理、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1093/jopart/muag034",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "jpart",
+      "outlet": "Journal of Public Administration Research and Theory",
+      "outletZh": "《公共行政研究与理论杂志》",
+      "title": "Reconfiguring Boundaries: Institutional Work and the Dynamic Construction of Hybridity in Local Government",
+      "abstract": "Abstract This study examines how public managers shape intra-public hybridity when a reform requires two public organizations with different administrative traditions and professional orientations to integrate. We study the political and administrative integration of Flemish municipalities and Public Centres for Social Welfare (PCSWs), drawing on 35 interviews across 13 local government cases collected in 2018 and 2022. Using an institutional work perspective, we compare how actors used regulative, normative, and cultural-cognitive actions to integrate—or deliberately keep separate—structures, routines, and identities. The cases developed four hybrid forms: blended, segmented, segregated, and blocked. Blended cases were associated with institutionally broader combinations of work across organizational domains, whereas segmented and segregated cases showed more bounded efforts and blocked…",
+      "authors": [
+        "Lode De Waele",
+        "Kim Loyens",
+        "Caitlin McMullin"
+      ],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1093/jopart/muag034",
+      "doi": "10.1093/jopart/muag034",
+      "tagIds": [
+        "organization-institution",
+        "social-policy"
+      ],
+      "tags": [
+        "组织理论与制度变迁",
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "organization-institution": 3,
+        "social-policy": 1
+      },
+      "summaryZh": "涉及组织理论与制度变迁、社会政策与民生保障"
+    },
+    {
+      "id": "doi:10.1111/gove.70164",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "Linking Women’s Equality With Government Integrity: Can Gender Budgeting Curb Corruption?",
+      "abstract": "ABSTRACT Policies addressing gender inequality have increasingly been linked to more ethical governance, as women tend to be disproportionately burdened by corruption compared to men. One such policy is gender budgeting, an innovative approach to resource allocation that considers the impact of government spending on women and other underrepresented groups. Despite the growing popularity worldwide, we know little about its effectiveness in curbing corruption. This study evaluates the impact of gender budgeting on grand (political) and petty (bureaucratic) corruption using difference‐in‐differences estimations across a panel of 136 countries from 1980 to 2023. The results reveal a significant reduction in petty corruption, as gender budgeting improves the impartiality of public bureaucracies. Heterogeneity analyses also indicate a decrease in grand corruption, but only in countries with a…",
+      "authors": [
+        "Marjorie De la Cruz",
+        "Milena I. Neshkova",
+        "Yoon‐Jung Choi"
+      ],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70164",
+      "doi": "10.1111/gove.70164",
+      "tagIds": [
+        "accountability-corruption",
+        "bureaucratic-behavior",
+        "performance-management",
+        "fiscal-budget",
+        "social-policy"
+      ],
+      "tags": [
+        "问责、廉政与反腐败",
+        "官僚行为与公共服务动机",
+        "绩效管理与政府效能",
+        "财政预算与公共支出",
+        "社会政策与民生保障"
+      ],
+      "tagScore": {
+        "accountability-corruption": 3,
+        "bureaucratic-behavior": 1,
+        "performance-management": 1,
+        "fiscal-budget": 1,
+        "social-policy": 1
+      },
+      "summaryZh": "涉及问责、廉政与反腐败、官僚行为与公共服务动机、绩效管理与政府效能"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2769357",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "‘ The tech is easy. It’s those other pieces ’: how civic tech builders of digital infrastructure collaborate with government and shape administrative burdens",
+      "abstract": "",
+      "authors": [
+        "Xiaoyang Xu",
+        "Donald Moynihan"
+      ],
+      "publishedAt": "2026-11-25",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2769357",
+      "doi": "10.1080/14719037.2026.2769357",
+      "tagIds": [
+        "digital-government"
+      ],
+      "tags": [
+        "数字政府与算法治理"
+      ],
+      "tagScore": {
+        "digital-government": 1
+      },
+      "summaryZh": "涉及数字政府与算法治理"
+    },
+    {
+      "id": "doi:10.1111/puar.70233",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Excessive Heat and Correctional Officer Turnover: Evidence From Texas",
+      "abstract": "ABSTRACT Correctional work is difficult, dangerous, and hot. Many US prisons lack air‐conditioning, resulting in sweltering conditions for both incarcerated people and the street‐level bureaucrats tasked with their supervision. We examine the effect of working in the summer heat without air‐conditioning on correctional officer turnover using personnel records of nearly 60,000 Texas Department of Criminal Justice (TDCJ) employees across 68 prisons between 2010 and 2023. We demonstrate that, among the least‐experienced frontline employees before the onset of COVID‐19, the difference in the probability of departing between those working in prisons without and with air‐conditioning is, on average, 0.33 percentage points larger in the hottest months than in the coolest—an approximately 12% change relative to the baseline departure rate. Back‐of‐the‐envelope estimates suggest that installing a…",
+      "authors": [
+        "Benjamin Goehring",
+        "Jacob Harris"
+      ],
+      "publishedAt": "2026-11-24",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70233",
+      "doi": "10.1111/puar.70233",
+      "tagIds": [
+        "bureaucratic-behavior",
+        "public-hr"
+      ],
+      "tags": [
+        "官僚行为与公共服务动机",
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "bureaucratic-behavior": 1,
+        "public-hr": 1
+      },
+      "summaryZh": "涉及官僚行为与公共服务动机、公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2765742",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "Designing inclusive AI in public service delivery: experimental evidence on individual preferences for government chatbots",
+      "abstract": "",
+      "authors": [
+        "Huan Wang",
+        "Youlang Zhang"
+      ],
+      "publishedAt": "2026-11-24",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2765742",
+      "doi": "10.1080/14719037.2026.2765742",
+      "tagIds": [
+        "public-service-delivery",
+        "methodology-frontier"
+      ],
+      "tags": [
+        "公共服务供给与市场化",
+        "研究方法与方法论前沿"
+      ],
+      "tagScore": {
+        "public-service-delivery": 4,
+        "methodology-frontier": 1
+      },
+      "summaryZh": "涉及公共服务供给与市场化、研究方法与方法论前沿"
+    },
+    {
+      "id": "doi:10.1111/gove.70163",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "governance",
+      "outlet": "Governance",
+      "outletZh": "《治理》",
+      "title": "Elections, Expert Assessments and Public Sector Leaks: Evidence From a Survey Experiment",
+      "abstract": "ABSTRACT Despite strong normative, professional and legal constraints, leaks of confidential information by public administrators continue to arise. Yet, data limitations restrict our knowledge about when such actions are most/least likely. Conceptualizing the decision to leak confidential information as a “bureaucratic dilemma,” we theorize that this decision is affected by election proximity and positive/negative expert assessments of policy proposals. We test the resulting theoretical propositions via a between‐subjects survey experiment among 1661 national public administrators in Norway. Our results reveal that impending elections reduce the perceived probability of leaks among public administrators who support government parties, while having the reverse effect among public administrators not supporting government parties. We also uncover that leaks become less—not more—likely when…",
+      "authors": [
+        "Zuzana Murdoch",
+        "Benny Geys"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/gove.70163",
+      "doi": "10.1111/gove.70163",
+      "tagIds": [
+        "methodology-frontier",
+        "bureaucratic-behavior"
+      ],
+      "tags": [
+        "研究方法与方法论前沿",
+        "官僚行为与公共服务动机"
+      ],
+      "tagScore": {
+        "methodology-frontier": 3,
+        "bureaucratic-behavior": 1
+      },
+      "summaryZh": "涉及研究方法与方法论前沿、官僚行为与公共服务动机"
+    },
+    {
+      "id": "doi:10.1080/14719037.2026.2765744",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "pmr",
+      "outlet": "Public Management Review",
+      "outletZh": "《公共管理评论（英国）》",
+      "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective",
+      "abstract": "",
+      "authors": [
+        "Bin Guan",
+        "Lei Wang"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/14719037.2026.2765744",
+      "doi": "10.1080/14719037.2026.2765744",
+      "tagIds": [
+        "environment-climate",
+        "fiscal-budget"
+      ],
+      "tags": [
+        "环境治理与气候政策",
+        "财政预算与公共支出"
+      ],
+      "tagScore": {
+        "environment-climate": 1,
+        "fiscal-budget": 1
+      },
+      "summaryZh": "涉及环境治理与气候政策、财政预算与公共支出"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000112",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Interpersonal trust in the policy advisory process: a research agenda",
+      "abstract": "Interpersonal trust is a key factor determining whether advice is taken into account in policy making, yet it has received little substantive attention in scholarship on policy advice and expert knowledge. Its role has only grown in importance amid accelerating democratic backsliding and the increased personalisation of politics in many jurisdictions. This article argues that policy scholarship can build on insights from other social science disciplines, which have a long-standing and rich tradition of researching trust, to develop a more purposeful and systematic approach to analysing interpersonal trust and its role in policy making. It sets out a research agenda for studying the phenomena that advances understanding of the informal dimensions of policy making, which have largely remained elusive. In doing so, it provides an analytical lens for examining policy making in settings chara…",
+      "authors": [
+        "Denitsa Marchevska"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000112",
+      "doi": "10.1332/03055736y2026d000000112",
+      "tagIds": [
+        "citizen-participation"
+      ],
+      "tags": [
+        "公民参与与共同生产"
+      ],
+      "tagScore": {
+        "citizen-participation": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000113",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "How municipalities organise policy implementation under weak enforcement",
+      "abstract": "Municipalities in Spain are subject to legal transparency requirements that are weakly enforced. This article examines how municipalities organise implementation under weak enforcement: how arrangements change over time, who takes responsibility and what prompts them to change. Drawing on 51 interviews with officers in charge of transparency in municipalities of varying sizes and compliance levels, we trace how implementation has evolved since 2010. We find that municipalities typically assign transparency duties to existing staff and structures, rather than creating dedicated roles. Although legal enactment often initiates implementation, moves towards more specialised arrangements are associated with external incentives, such as evaluations or rankings, rather than with legal enactment alone. Administrative and technical staff tend to drive implementation, although political backing of…",
+      "authors": [
+        "Víctor Ginesta"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000113",
+      "doi": "10.1332/03055736y2026d000000113",
+      "tagIds": [
+        "policy-process",
+        "regulation-governance",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "政策过程与政策工具",
+        "监管治理与规制改革",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "policy-process": 2,
+        "regulation-governance": 2,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及政策过程与政策工具、监管治理与规制改革、问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1332/03055736y2026d000000111",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "policy-politics",
+      "outlet": "Policy & Politics",
+      "outletZh": "《政策与政治》",
+      "title": "Policy advisory systems and democratic governance in Italy",
+      "abstract": "Policy advisory systems (PASs) shape how governments organise and use expertise, yet their implications for democratic governance remain underexplored. This article examines how the governance of PASs influences democratic responsiveness and democratic accountability, asking how different organisational arrangements shape these core democratic dimensions. Focusing on the Italian PAS between 2020 and 2025, the article analyses how organisational analytical capacity mediates the relationship between democracy and technocracy. Drawing on a longitudinal case study of three governments, it discusses the consequences of the features and dynamics of the PAS (such as the creation of new advisory bodies, pluralisation, inclusiveness, adaptability, politicisation and elite circulation) on democratic governance. The findings show that these organisational arrangements can both enhance and constrain…",
+      "authors": [
+        "Maria Tullia Galanti",
+        "Andrea Lippi",
+        "Andrea Terlizzi"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1332/03055736y2026d000000111",
+      "doi": "10.1332/03055736y2026d000000111",
+      "tagIds": [
+        "citizen-participation",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "公民参与与共同生产",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "citizen-participation": 2,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及公民参与与共同生产、问责、廉政与反腐败"
+    },
+    {
+      "id": "doi:10.1080/15309576.2026.2762919",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "ppmr",
+      "outlet": "Public Performance & Management Review",
+      "outletZh": "《公共绩效与管理评论》",
+      "title": "Perspectives of Community Relations in Policing: The Impact of Leadership Style, Proactive Personality, and Autonomy",
+      "abstract": "",
+      "authors": [
+        "Alexander C. Henderson",
+        "James Melitski"
+      ],
+      "publishedAt": "2026-11-23",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1080/15309576.2026.2762919",
+      "doi": "10.1080/15309576.2026.2762919",
+      "tagIds": [
+        "public-hr"
+      ],
+      "tags": [
+        "公共部门人力资源与人事管理"
+      ],
+      "tagScore": {
+        "public-hr": 3
+      },
+      "summaryZh": "涉及公共部门人力资源与人事管理"
+    },
+    {
+      "id": "doi:10.1111/puar.70236",
+      "lang": "en",
+      "sourceType": "journal",
+      "sourceId": "par",
+      "outlet": "Public Administration Review",
+      "outletZh": "美国《公共行政评论》",
+      "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+      "abstract": "ABSTRACT Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the fed…",
+      "authors": [
+        "John A. Dove",
+        "Noah J. Trudeau"
+      ],
+      "publishedAt": "2026-11-22",
+      "datePrecision": "day",
+      "windowDays": 7,
+      "url": "https://doi.org/10.1111/puar.70236",
+      "doi": "10.1111/puar.70236",
+      "tagIds": [
+        "public-hr",
+        "bureaucratic-behavior",
+        "accountability-corruption"
+      ],
+      "tags": [
+        "公共部门人力资源与人事管理",
+        "官僚行为与公共服务动机",
+        "问责、廉政与反腐败"
+      ],
+      "tagScore": {
+        "public-hr": 2,
+        "bureaucratic-behavior": 1,
+        "accountability-corruption": 1
+      },
+      "summaryZh": "涉及公共部门人力资源与人事管理、官僚行为与公共服务动机、问责、廉政与反腐败"
+    }
+  ]
+}
